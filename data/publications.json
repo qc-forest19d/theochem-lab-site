@@ -1,0 +1,116 @@
+[
+  {
+    "year": 2026,
+    "authors": "N. Ozawa, N. Kuroki, and H. Mori",
+    "title": "Ligand-Induced Electronic Response Enables Predictive QM/MM Simulations",
+    "journal": "Advanced Science",
+    "volume": "13",
+    "pages": "e19137",
+    "url": "https://doi.org/10.1002/advs.202519137",
+    "category": "Adaptive Quantum Simulation",
+    "selected": true,
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/pub-qmmm.svg",
+    "summary": {
+      "ja": "環境に応答する電子状態に基づいて、QM/MM計算の量子力学領域を決定する方法論。",
+      "en": "An electronic-response-based framework for determining the quantum-mechanical region in QM/MM simulations."
+    }
+  },
+  {
+    "year": 2025,
+    "authors": "D. Goto and H. Mori",
+    "title": "Reconciling Color Purity and Redox Potential in Electrochromic Materials via Electronic-State-Informed Molecular Design",
+    "journal": "Chemical Communications",
+    "volume": "61",
+    "pages": "16010–16013",
+    "url": "#",
+    "category": "Electronic-State Intelligence",
+    "selected": true,
+    "badges": [
+      "Cover"
+    ],
+    "image": "assets/images/pub-color.svg",
+    "summary": {
+      "ja": "電子状態に基づく分子設計により、色純度と低い酸化還元電位の両立を目指します。",
+      "en": "Electronic-state-informed design reconciles color purity with a low redox potential."
+    }
+  },
+  {
+    "year": 2025,
+    "authors": "D. Goto and H. Mori",
+    "title": "Realizing Ultrafine Color Tuning of Organic Electronics Materials by Electronic State Informatics",
+    "journal": "The Journal of Physical Chemistry Letters",
+    "volume": "16",
+    "pages": "2419–2424",
+    "url": "#",
+    "category": "Electronic-State Intelligence",
+    "selected": true,
+    "badges": [
+      "Featured"
+    ],
+    "image": "assets/images/pub-informatics.svg",
+    "summary": {
+      "ja": "電子状態記述子と機械学習による精密な分子色制御。",
+      "en": "Electronic-state descriptors and machine learning enable precise molecular color control."
+    }
+  },
+  {
+    "year": 2025,
+    "authors": "K. Motoki and H. Mori",
+    "title": "Electronic Insights into the Role of Nuclear Quantum Effects in Proton Transfer Reactions of Nucleobase Pairs",
+    "journal": "Physical Chemistry Chemical Physics",
+    "volume": "27",
+    "pages": "8898–8902",
+    "url": "#",
+    "category": "Beyond Born–Oppenheimer",
+    "selected": true,
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/pub-nqe.svg",
+    "summary": {
+      "ja": "核量子効果が核酸塩基対のプロトン移動を変化させる仕組みを解析。",
+      "en": "A multicomponent analysis reveals how nuclear quantum effects alter proton transfer in nucleobase pairs."
+    }
+  },
+  {
+    "year": 2025,
+    "authors": "H. Mori et al.",
+    "title": "Acidity Prediction in Arbitrary Solvents: Machine Learning Based on Semiempirical Molecular Orbital Calculation",
+    "journal": "The Journal of Physical Chemistry A",
+    "volume": "129",
+    "pages": "2612–2617",
+    "url": "#",
+    "category": "Electronic-State Intelligence",
+    "selected": true,
+    "badges": [
+      "Cover"
+    ],
+    "image": "assets/images/pub-acidity.svg",
+    "summary": {
+      "ja": "量子化学に基づく機械学習で、多様な溶媒中の酸性度を予測。",
+      "en": "Quantum-chemistry-informed machine learning predicts molecular acidity across diverse solvents."
+    }
+  },
+  {
+    "year": 2023,
+    "authors": "H. Mori et al.",
+    "title": "Machine Learning Boosted Design of Ionic Liquids for CO2 Absorption and Experimental Verification",
+    "journal": "The Journal of Physical Chemistry B",
+    "volume": "127",
+    "pages": "2022–2027",
+    "url": "#",
+    "category": "Molecular Discovery",
+    "selected": true,
+    "badges": [
+      "Most Downloaded"
+    ],
+    "image": "assets/images/pub-co2.svg",
+    "summary": {
+      "ja": "量子化学、機械学習、実験検証を統合したCO2吸収イオン液体の設計。",
+      "en": "Quantum chemistry, machine learning, and experiment are integrated to discover ionic liquids for CO2 absorption."
+    }
+  }
+]

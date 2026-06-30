@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Hirotoshi Mori",
+    "role": {
+      "ja": "教授 / Principal Investigator",
+      "en": "Professor / Principal Investigator"
+    },
+    "topic": {
+      "ja": "理論化学・量子分子インテリジェンス",
+      "en": "Theoretical chemistry and quantum molecular intelligence"
+    },
+    "photo": ""
+  },
+  {
+    "name": "Member A",
+    "role": {
+      "ja": "博士課程",
+      "en": "PhD Student"
+    },
+    "topic": {
+      "ja": "核量子効果",
+      "en": "Nuclear quantum effects"
+    },
+    "photo": ""
+  },
+  {
+    "name": "Member B",
+    "role": {
+      "ja": "修士課程",
+      "en": "Master's Student"
+    },
+    "topic": {
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-state informatics"
+    },
+    "photo": ""
+  },
+  {
+    "name": "Member C",
+    "role": {
+      "ja": "学部生",
+      "en": "Undergraduate Student"
+    },
+    "topic": {
+      "ja": "適応型QM/MM",
+      "en": "Adaptive QM/MM"
+    },
+    "photo": ""
+  }
+]

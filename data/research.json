@@ -1,0 +1,41 @@
+[
+  {
+    "label": "01",
+    "title": {
+      "ja": "Electronic-State Intelligence",
+      "en": "Electronic-State Intelligence"
+    },
+    "description": {
+      "ja": "量子化学特徴量、機械学習、不確かさ評価を統合し、電子状態と分子機能の関係を発見します。",
+      "en": "We integrate quantum-chemical descriptors, machine learning, and uncertainty-aware prediction to uncover relationships between electronic states and molecular functions."
+    },
+    "image": "assets/images/research-electronic.svg",
+    "link": "#publications"
+  },
+  {
+    "label": "02",
+    "title": {
+      "ja": "Adaptive Quantum Simulation",
+      "en": "Adaptive Quantum Simulation"
+    },
+    "description": {
+      "ja": "複雑な分子環境の電子応答に応じて、計算領域と精度を適応的に決定する量子シミュレーションを開発します。",
+      "en": "We develop quantum simulations that adapt their computational region and resolution to the electronic response of complex environments."
+    },
+    "image": "assets/images/research-adaptive.svg",
+    "link": "#publications"
+  },
+  {
+    "label": "03",
+    "title": {
+      "ja": "Beyond Born–Oppenheimer Chemistry",
+      "en": "Beyond Born–Oppenheimer Chemistry"
+    },
+    "description": {
+      "ja": "電子と原子核の量子性を同時に扱い、プロトン移動、同位体効果、立体化学、反応性を解明します。",
+      "en": "We investigate coupled electronic and nuclear quantum effects in proton transfer, isotope effects, stereochemistry, and reactivity."
+    },
+    "image": "assets/images/research-nqe.svg",
+    "link": "#publications"
+  }
+]

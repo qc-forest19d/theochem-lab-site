@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-06-09",
+    "category": {
+      "ja": "論文",
+      "en": "Publication"
+    },
+    "title": {
+      "ja": "ACS Omega 論文が採択されました。",
+      "en": "A new paper has been accepted in ACS Omega."
+    }
+  },
+  {
+    "date": "2026-05-20",
+    "category": {
+      "ja": "受賞",
+      "en": "Award"
+    },
+    "title": {
+      "ja": "第28回理論化学討論会で優秀ポスター賞を受賞しました。",
+      "en": "Our group received an Outstanding Poster Award at the 28th Symposium on Theoretical Chemistry."
+    }
+  },
+  {
+    "date": "2026-03-01",
+    "category": {
+      "ja": "論文",
+      "en": "Publication"
+    },
+    "title": {
+      "ja": "Advanced Science にQM/MM研究が掲載されました。",
+      "en": "Our QM/MM study was published in Advanced Science."
+    }
+  }
+]

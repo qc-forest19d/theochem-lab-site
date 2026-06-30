@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#061b3d"/><stop offset="1" stop-color="#0a68b4"/></linearGradient>
+</defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<g stroke="rgba(255,255,255,.35)" stroke-width="3">
+<line x1="100" y1="90" x2="183" y2="227"/>
+<line x1="100" y1="90" x2="349" y2="501"/>
+<line x1="183" y1="227" x2="266" y2="364"/>
+<line x1="183" y1="227" x2="432" y2="168"/>
+<line x1="266" y1="364" x2="349" y2="501"/>
+<line x1="266" y1="364" x2="515" y2="305"/>
+<line x1="349" y1="501" x2="432" y2="168"/>
+<line x1="349" y1="501" x2="598" y2="442"/>
+<line x1="432" y1="168" x2="515" y2="305"/>
+<line x1="432" y1="168" x2="681" y2="109"/>
+<line x1="515" y1="305" x2="598" y2="442"/>
+<line x1="515" y1="305" x2="764" y2="246"/>
+<line x1="598" y1="442" x2="681" y2="109"/>
+<line x1="598" y1="442" x2="847" y2="383"/>
+<line x1="681" y1="109" x2="764" y2="246"/>
+<line x1="681" y1="109" x2="930" y2="520"/>
+<line x1="764" y1="246" x2="847" y2="383"/>
+<line x1="764" y1="246" x2="1013" y2="187"/>
+<line x1="847" y1="383" x2="930" y2="520"/>
+<line x1="847" y1="383" x2="1096" y2="324"/>
+<line x1="930" y1="520" x2="1013" y2="187"/>
+<line x1="930" y1="520" x2="179" y2="461"/>
+<line x1="1013" y1="187" x2="1096" y2="324"/>
+<line x1="1013" y1="187" x2="262" y2="128"/>
+<line x1="1096" y1="324" x2="179" y2="461"/>
+<line x1="1096" y1="324" x2="345" y2="265"/>
+<line x1="179" y1="461" x2="262" y2="128"/>
+<line x1="179" y1="461" x2="428" y2="402"/>
+<line x1="262" y1="128" x2="345" y2="265"/>
+<line x1="262" y1="128" x2="511" y2="539"/>
+<line x1="345" y1="265" x2="428" y2="402"/>
+<line x1="345" y1="265" x2="594" y2="206"/>
+<line x1="428" y1="402" x2="511" y2="539"/>
+<line x1="428" y1="402" x2="677" y2="343"/>
+<line x1="511" y1="539" x2="594" y2="206"/>
+<line x1="594" y1="206" x2="677" y2="343"/>
+</g>
+<g fill="white"><circle cx="100" cy="90" r="18" opacity="1"/><circle cx="183" cy="227" r="12" opacity="0.75"/><circle cx="266" cy="364" r="12" opacity="1"/><circle cx="349" cy="501" r="18" opacity="0.75"/><circle cx="432" cy="168" r="12" opacity="1"/><circle cx="515" cy="305" r="12" opacity="0.75"/><circle cx="598" cy="442" r="18" opacity="1"/><circle cx="681" cy="109" r="12" opacity="0.75"/><circle cx="764" cy="246" r="12" opacity="1"/><circle cx="847" cy="383" r="18" opacity="0.75"/><circle cx="930" cy="520" r="12" opacity="1"/><circle cx="1013" cy="187" r="12" opacity="0.75"/><circle cx="1096" cy="324" r="18" opacity="1"/><circle cx="179" cy="461" r="12" opacity="0.75"/><circle cx="262" cy="128" r="12" opacity="1"/><circle cx="345" cy="265" r="18" opacity="0.75"/><circle cx="428" cy="402" r="12" opacity="1"/><circle cx="511" cy="539" r="12" opacity="0.75"/><circle cx="594" cy="206" r="18" opacity="1"/><circle cx="677" cy="343" r="12" opacity="0.75"/></g>
+<text x="70" y="620" fill="white" font-size="44" font-family="Arial, sans-serif" font-weight="700">Quantum Molecular Intelligence</text>
+</svg>
