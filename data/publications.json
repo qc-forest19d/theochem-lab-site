@@ -1,11 +1,58 @@
 [
   {
     "year": 2026,
+    "type": "peer-reviewed",
+    "authors": "M. Nogamida and H. Mori",
+    "title": "Quantum Chemical Insights into the Initial Reaction Pathways Governing the Self-Ignition of Hypergolic Ionic Liquids with H2O2",
+    "journal": "ACS Omega",
+    "volume": "11",
+    "issue": "25",
+    "pages": "37982–37987",
+    "doi": "10.1021/acsomega.6c03360",
+    "url": "https://doi.org/10.1021/acsomega.6c03360",
+    "category": "Autonomous Reaction Discovery",
+    "selected": false,
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/pub-hypergolic.svg",
+    "summary": {
+      "ja": "過酸化水素との自己着火を支配する超原子価イオン液体の初期反応経路を量子化学的に解析。",
+      "en": "Quantum-chemical analysis of the initial reaction pathways governing self-ignition of hypergolic ionic liquids with hydrogen peroxide."
+    }
+  },
+  {
+    "year": 2026,
+    "type": "peer-reviewed",
+    "authors": "T. Sumiyoshi, N. Kuroki, and H. Mori",
+    "title": "Electronic-Structure Informatics Guided Identification of Actinide/Lanthanide Selectivity Factors",
+    "journal": "Inorganic Chemistry",
+    "volume": "65",
+    "issue": "14",
+    "pages": "7592–7602",
+    "doi": "10.1021/acs.inorgchem.5c05680",
+    "url": "https://doi.org/10.1021/acs.inorgchem.5c05680",
+    "category": "Electronic-State Intelligence",
+    "selected": true,
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/pub-informatics.svg",
+    "summary": {
+      "ja": "電子状態インフォマティクスにより、アクチノイド／ランタノイド選択性を支配する因子を同定。",
+      "en": "Electronic-structure informatics identifies factors governing actinide/lanthanide selectivity."
+    }
+  },
+  {
+    "year": 2026,
+    "type": "peer-reviewed",
     "authors": "N. Ozawa, N. Kuroki, and H. Mori",
     "title": "Ligand-Induced Electronic Response Enables Predictive QM/MM Simulations",
     "journal": "Advanced Science",
     "volume": "13",
+    "issue": "17",
     "pages": "e19137",
+    "doi": "10.1002/advs.202519137",
     "url": "https://doi.org/10.1002/advs.202519137",
     "category": "Adaptive Quantum Simulation",
     "selected": true,
@@ -14,75 +61,61 @@
     ],
     "image": "assets/images/pub-qmmm.svg",
     "summary": {
-      "ja": "環境に応答する電子状態に基づいて、QM/MM計算の量子力学領域を決定する方法論。",
-      "en": "An electronic-response-based framework for determining the quantum-mechanical region in QM/MM simulations."
+      "ja": "配位子誘起電子応答に基づいてQM/MM計算の量子領域を予測的に定義する方法論。",
+      "en": "A ligand-induced electronic-response framework for predictive definition of QM regions in QM/MM simulations."
     }
   },
   {
     "year": 2025,
+    "type": "peer-reviewed",
     "authors": "D. Goto and H. Mori",
     "title": "Reconciling Color Purity and Redox Potential in Electrochromic Materials via Electronic-State-Informed Molecular Design",
     "journal": "Chemical Communications",
     "volume": "61",
+    "issue": "",
     "pages": "16010–16013",
-    "url": "#",
+    "doi": "10.1039/D5CC04421A",
+    "url": "https://doi.org/10.1039/D5CC04421A",
     "category": "Electronic-State Intelligence",
     "selected": true,
-    "badges": [
-      "Cover"
-    ],
+    "badges": [],
     "image": "assets/images/pub-color.svg",
     "summary": {
-      "ja": "電子状態に基づく分子設計により、色純度と低い酸化還元電位の両立を目指します。",
-      "en": "Electronic-state-informed design reconciles color purity with a low redox potential."
+      "ja": "電子状態に基づく分子設計により、色純度と酸化還元電位の両立を実現。",
+      "en": "Electronic-state-informed molecular design reconciles color purity and redox potential."
     }
   },
   {
     "year": 2025,
-    "authors": "D. Goto and H. Mori",
-    "title": "Realizing Ultrafine Color Tuning of Organic Electronics Materials by Electronic State Informatics",
-    "journal": "The Journal of Physical Chemistry Letters",
-    "volume": "16",
-    "pages": "2419–2424",
-    "url": "#",
-    "category": "Electronic-State Intelligence",
-    "selected": true,
-    "badges": [
-      "Featured"
-    ],
-    "image": "assets/images/pub-informatics.svg",
-    "summary": {
-      "ja": "電子状態記述子と機械学習による精密な分子色制御。",
-      "en": "Electronic-state descriptors and machine learning enable precise molecular color control."
-    }
-  },
-  {
-    "year": 2025,
+    "type": "peer-reviewed",
     "authors": "K. Motoki and H. Mori",
     "title": "Electronic Insights into the Role of Nuclear Quantum Effects in Proton Transfer Reactions of Nucleobase Pairs",
     "journal": "Physical Chemistry Chemical Physics",
     "volume": "27",
+    "issue": "",
     "pages": "8898–8902",
-    "url": "#",
-    "category": "Beyond Born–Oppenheimer",
+    "doi": "10.1039/D5CP00698H",
+    "url": "https://doi.org/10.1039/D5CP00698H",
+    "category": "Beyond Born–Oppenheimer Chemistry",
     "selected": true,
-    "badges": [
-      "Open Access"
-    ],
+    "badges": [],
     "image": "assets/images/pub-nqe.svg",
     "summary": {
-      "ja": "核量子効果が核酸塩基対のプロトン移動を変化させる仕組みを解析。",
-      "en": "A multicomponent analysis reveals how nuclear quantum effects alter proton transfer in nucleobase pairs."
+      "ja": "核量子効果が核酸塩基対のプロトン移動反応に与える電子構造的影響を解明。",
+      "en": "Electronic-structure analysis of nuclear quantum effects in proton transfer reactions of nucleobase pairs."
     }
   },
   {
     "year": 2025,
-    "authors": "H. Mori et al.",
+    "type": "peer-reviewed",
+    "authors": "R. Suzuki and H. Mori",
     "title": "Acidity Prediction in Arbitrary Solvents: Machine Learning Based on Semiempirical Molecular Orbital Calculation",
     "journal": "The Journal of Physical Chemistry A",
     "volume": "129",
+    "issue": "10",
     "pages": "2612–2617",
-    "url": "#",
+    "doi": "10.1021/acs.jpca.4c07367",
+    "url": "https://doi.org/10.1021/acs.jpca.4c07367",
     "category": "Electronic-State Intelligence",
     "selected": true,
     "badges": [
@@ -90,27 +123,272 @@
     ],
     "image": "assets/images/pub-acidity.svg",
     "summary": {
-      "ja": "量子化学に基づく機械学習で、多様な溶媒中の酸性度を予測。",
-      "en": "Quantum-chemistry-informed machine learning predicts molecular acidity across diverse solvents."
+      "ja": "半経験的分子軌道計算と機械学習を統合し、任意溶媒中の酸性度を予測。",
+      "en": "Machine learning informed by semiempirical molecular orbital calculations predicts acidity in arbitrary solvents."
+    }
+  },
+  {
+    "year": 2025,
+    "type": "peer-reviewed",
+    "authors": "D. Goto, Y. Kanebako, K. Takashima, N. Kuroki, and H. Mori",
+    "title": "Realizing Ultrafine Color Tuning of Organic Electronics Materials by Electronic State Informatics",
+    "journal": "The Journal of Physical Chemistry Letters",
+    "volume": "16",
+    "issue": "9",
+    "pages": "2419–2424",
+    "doi": "10.1021/acs.jpclett.4c03519",
+    "url": "https://doi.org/10.1021/acs.jpclett.4c03519",
+    "category": "Electronic-State Intelligence",
+    "selected": true,
+    "badges": [
+      "Cover"
+    ],
+    "image": "assets/images/pub-informatics.svg",
+    "summary": {
+      "ja": "電子状態記述子と機械学習により、有機エレクトロニクス材料の超精密な色調制御を実現。",
+      "en": "Electronic-state informatics enables ultrafine color tuning of organic electronic materials."
+    }
+  },
+  {
+    "year": 2025,
+    "type": "preprint",
+    "authors": "K. Motoki and H. Mori",
+    "title": "Beyond Born–Oppenheimer Pharmaceutical Quantum Chemistry of Thalidomide Analogs and Deuterium Substituents",
+    "journal": "ChemRxiv",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "",
+    "url": "https://chemrxiv.org/engage/chemrxiv/article-details/647469034f8b1884b775b20f",
+    "category": "Beyond Born–Oppenheimer Chemistry",
+    "selected": false,
+    "badges": [
+      "Preprint"
+    ],
+    "image": "assets/images/pub-nqe.svg",
+    "summary": {
+      "ja": "サリドマイド類縁体と重水素置換体を対象とするBorn–Oppenheimer近似を超えた医薬品量子化学。",
+      "en": "Beyond-Born–Oppenheimer pharmaceutical quantum chemistry of thalidomide analogs and deuterated substituents."
+    }
+  },
+  {
+    "year": 2024,
+    "type": "peer-reviewed",
+    "authors": "D. Goto and H. Mori",
+    "title": "Avoiding Photocyclized Degradation of Electrochromic Materials Based on Quantum Chemical Molecular Design",
+    "journal": "The Journal of Physical Chemistry Letters",
+    "volume": "15",
+    "issue": "32",
+    "pages": "8205–8210",
+    "doi": "10.1021/acs.jpclett.4c01783",
+    "url": "https://doi.org/10.1021/acs.jpclett.4c01783",
+    "category": "Electronic-State Intelligence",
+    "selected": false,
+    "badges": [
+      "Cover"
+    ],
+    "image": "assets/images/pub-color.svg",
+    "summary": {
+      "ja": "量子化学的分子設計により、エレクトロクロミック材料の光環化劣化を回避。",
+      "en": "Quantum-chemical molecular design avoids photocyclized degradation in electrochromic materials."
+    }
+  },
+  {
+    "year": 2024,
+    "type": "invited-review",
+    "authors": "M. Nogamida, N. Kuroki, and H. Mori",
+    "title": "Effect of Anion Electronic State on the Hypergolic Ionic Liquids’ Reaction Pathways",
+    "journal": "Journal of the Combustion Society of Japan",
+    "volume": "66",
+    "issue": "217",
+    "pages": "199–202",
+    "doi": "",
+    "url": "https://www.jstage.jst.go.jp/article/jcombsj/66/217/66_2402a/_article/-char/en",
+    "category": "Autonomous Reaction Discovery",
+    "selected": false,
+    "badges": [
+      "Invited"
+    ],
+    "image": "assets/images/pub-hypergolic.svg",
+    "summary": {
+      "ja": "超原子価イオン液体の反応経路に対するアニオン電子状態の影響を概説。",
+      "en": "An invited overview of how anion electronic states affect reaction pathways of hypergolic ionic liquids."
     }
   },
   {
     "year": 2023,
-    "authors": "H. Mori et al.",
+    "type": "peer-reviewed",
+    "authors": "S. Watabe, N. Kuroki, and H. Mori",
+    "title": "COSMO-RS Exploration of Highly CO2-Selective Hydrogen-Bonded Binary Liquid Absorbents under Humid Conditions: Role of Trace Ionic Species",
+    "journal": "ACS Omega",
+    "volume": "8",
+    "issue": "16",
+    "pages": "14478–14483",
+    "doi": "10.1021/acsomega.2c08250",
+    "url": "https://doi.org/10.1021/acsomega.2c08250",
+    "category": "Molecular and Materials Discovery",
+    "selected": false,
+    "badges": [
+      "Open Access",
+      "Cover"
+    ],
+    "image": "assets/images/pub-co2.svg",
+    "summary": {
+      "ja": "湿潤条件下の高CO2選択性水素結合性二成分吸収液をCOSMO-RSで解析。",
+      "en": "COSMO-RS exploration of highly CO2-selective hydrogen-bonded binary liquid absorbents under humid conditions."
+    }
+  },
+  {
+    "year": 2023,
+    "type": "peer-reviewed",
+    "authors": "N. Kuroki, D. Kodama, Y. Suzuki, F. Chowdhury, H. Yamada, and H. Mori",
     "title": "Machine Learning Boosted Design of Ionic Liquids for CO2 Absorption and Experimental Verification",
     "journal": "The Journal of Physical Chemistry B",
     "volume": "127",
+    "issue": "",
     "pages": "2022–2027",
-    "url": "#",
-    "category": "Molecular Discovery",
+    "doi": "10.1021/acs.jpcb.2c07305",
+    "url": "https://doi.org/10.1021/acs.jpcb.2c07305",
+    "category": "Molecular and Materials Discovery",
     "selected": true,
     "badges": [
+      "Open Access",
+      "Cover",
       "Most Downloaded"
     ],
     "image": "assets/images/pub-co2.svg",
     "summary": {
-      "ja": "量子化学、機械学習、実験検証を統合したCO2吸収イオン液体の設計。",
-      "en": "Quantum chemistry, machine learning, and experiment are integrated to discover ionic liquids for CO2 absorption."
+      "ja": "機械学習によるイオン液体設計を実験検証までつなげたCO2吸収材料研究。",
+      "en": "Machine-learning-driven ionic-liquid design for CO2 absorption followed by experimental verification."
+    }
+  },
+  {
+    "year": 2023,
+    "type": "peer-reviewed",
+    "authors": "F. Weber and H. Mori",
+    "title": "On Donor–Acceptor-Bridging Intramolecular Hydrogen Bonds in NIR-TADF Molecules",
+    "journal": "RSC Advances",
+    "volume": "13",
+    "issue": "",
+    "pages": "3942–3946",
+    "doi": "",
+    "url": "https://pubs.rsc.org/en/content/articlelanding/2023/ra/d2ra07630a",
+    "category": "Electronic-State Intelligence",
+    "selected": false,
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/pub-informatics.svg",
+    "summary": {
+      "ja": "NIR-TADF分子におけるドナー–アクセプター架橋型分子内水素結合を解析。",
+      "en": "Analysis of donor–acceptor-bridging intramolecular hydrogen bonds in NIR-TADF molecules."
+    }
+  },
+  {
+    "year": 2023,
+    "type": "education",
+    "authors": "N. Kuroki, Y. Mochizuki, and H. Mori",
+    "title": "Practical Computational Chemistry Course for a Comprehensive Understanding of Organic, Inorganic, and Physical Chemistry: From Molecular Interactions to Chemical Reactions",
+    "journal": "Journal of Chemical Education",
+    "volume": "100",
+    "issue": "",
+    "pages": "647–654",
+    "doi": "10.1021/acs.jchemed.2c00837",
+    "url": "https://doi.org/10.1021/acs.jchemed.2c00837",
+    "category": "Chemical Education",
+    "selected": false,
+    "badges": [
+      "Open Access",
+      "Inside Cover"
+    ],
+    "image": "assets/images/pub-informatics.svg",
+    "summary": {
+      "ja": "有機・無機・物理化学を横断して理解する実践的計算化学教育プログラム。",
+      "en": "A practical computational chemistry course integrating organic, inorganic, and physical chemistry."
+    }
+  },
+  {
+    "year": 2022,
+    "type": "peer-reviewed",
+    "authors": "K. Murata, H. Mori, and H. Fuwa",
+    "title": "GIAO NMR Calculation-Driven Stereochemical Assignment of Marine Macrolide Natural Products: Assessment of the Performance of DP4 and DP4+ Analyses and Assignment of the Relative Configuration of Leptolyngbyalide A–C/Oscillariolide Macrolactone",
+    "journal": "Bulletin of the Chemical Society of Japan",
+    "volume": "95",
+    "issue": "",
+    "pages": "1775–1785",
+    "doi": "",
+    "url": "",
+    "category": "Molecular Structure and Reactivity",
+    "selected": false,
+    "badges": [],
+    "image": "assets/images/pub-informatics.svg",
+    "summary": {
+      "ja": "GIAO NMR計算とDP4/DP4+解析による海洋マクロライド天然物の立体化学帰属。",
+      "en": "GIAO NMR and DP4/DP4+ analyses for stereochemical assignment of marine macrolide natural products."
+    }
+  },
+  {
+    "year": 2022,
+    "type": "peer-reviewed",
+    "authors": "N. Kuroki, Y. Uchino, T. Funakura, and H. Mori",
+    "title": "Electronic Fluctuation in Physiological Solutions: Trimethylamine N-Oxide and tert-Butyl Alcohol",
+    "journal": "Scientific Reports",
+    "volume": "12",
+    "issue": "",
+    "pages": "19417",
+    "doi": "10.1038/s41598-022-24049-0",
+    "url": "https://doi.org/10.1038/s41598-022-24049-0",
+    "category": "Adaptive Quantum Simulation",
+    "selected": false,
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/pub-qmmm.svg",
+    "summary": {
+      "ja": "生理溶液中のTMAOとtert-ブチルアルコールにおける電子揺らぎを解析。",
+      "en": "Electronic fluctuations in physiological solutions containing TMAO and tert-butyl alcohol."
+    }
+  },
+  {
+    "year": 2022,
+    "type": "peer-reviewed",
+    "authors": "Y. Suzuki, D. Kodama, H. Mori, N. Kuroki, F. Chowdhury, and H. Yamada",
+    "title": "CO2/Hydrocarbon Selectivity of Trihexyl(tetradecyl)phosphonium-Based Ionic Liquids",
+    "journal": "Industrial & Engineering Chemistry Research",
+    "volume": "61",
+    "issue": "",
+    "pages": "16584–16592",
+    "doi": "10.1021/acs.iecr.2c02281",
+    "url": "https://doi.org/10.1021/acs.iecr.2c02281",
+    "category": "Molecular and Materials Discovery",
+    "selected": false,
+    "badges": [],
+    "image": "assets/images/pub-co2.svg",
+    "summary": {
+      "ja": "ホスホニウム系イオン液体のCO2／炭化水素選択性を評価。",
+      "en": "Evaluation of CO2/hydrocarbon selectivity in phosphonium-based ionic liquids."
+    }
+  },
+  {
+    "year": 2022,
+    "type": "peer-reviewed",
+    "authors": "F. Weber and H. Mori",
+    "title": "Machine-Learning Assisted Design Principle Search for Singlet Fission: An Example Study of Cibalackrot",
+    "journal": "npj Computational Materials",
+    "volume": "8",
+    "issue": "",
+    "pages": "176",
+    "doi": "10.1038/s41524-022-00860-1",
+    "url": "https://doi.org/10.1038/s41524-022-00860-1",
+    "category": "Electronic-State Intelligence",
+    "selected": false,
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/pub-informatics.svg",
+    "summary": {
+      "ja": "機械学習を用いてシングレットフィッション材料の設計原理を探索。",
+      "en": "Machine-learning-assisted discovery of design principles for singlet-fission materials."
     }
   }
 ]
