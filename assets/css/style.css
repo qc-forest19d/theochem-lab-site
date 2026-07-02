@@ -2456,3 +2456,21 @@ html[lang="ja"] .pi-hero .section-kicker{
     padding-bottom:44px;
   }
 }
+
+
+/* ==========================================================
+   PI affiliation line only: two steps smaller
+   （理工学部応用化学科／理工学研究科応用化学専攻 担当）
+   ========================================================== */
+
+html[lang="ja"] .pi-hero .pi-affiliation{
+  font-size:.76rem;
+  line-height:1.45;
+  letter-spacing:0;
+}
+
+@media(max-width:640px){
+  html[lang="ja"] .pi-hero .pi-affiliation{
+    font-size:.72rem;
+  }
+}
