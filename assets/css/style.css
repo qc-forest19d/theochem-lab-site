@@ -2615,3 +2615,14 @@ html[lang="ja"] .pi-hero .pi-affiliation{
     padding-top:12px;
   }
 }
+
+
+/* Alumni current positions */
+.alumni-current-position{
+  display:block;
+  margin-top:5px;
+  color:var(--blue);
+  font-size:.78rem;
+  line-height:1.45;
+  font-weight:650;
+}

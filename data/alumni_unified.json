@@ -404,6 +404,10 @@
         "degree_label": {
           "ja": "助教",
           "en": "Assistant Professor"
+        },
+        "current_position": {
+          "ja": "現：お茶の水女子大学 助教",
+          "en": "Current: Assistant Professor, Ochanomizu University"
         }
       },
       {
@@ -984,6 +988,10 @@
         "degree_label": {
           "ja": "博士（理学）",
           "en": "Doctor of Science"
+        },
+        "current_position": {
+          "ja": "現：お茶の水女子大学 助教",
+          "en": "Current: Assistant Professor, Ochanomizu University"
         }
       },
       {
@@ -1309,6 +1317,10 @@
         "degree_label": {
           "ja": "博士研究員（PD）",
           "en": "Postdoctoral Researcher (PD)"
+        },
+        "current_position": {
+          "ja": "現：埼玉医科大学 准教授",
+          "en": "Current: Associate Professor, Saitama Medical University"
         }
       }
     ]
@@ -1372,6 +1384,10 @@
         "degree_label": {
           "ja": "博士研究員（PD）",
           "en": "Postdoctoral Researcher (PD)"
+        },
+        "current_position": {
+          "ja": "現：北里大学 教授",
+          "en": "Current: Professor, Kitasato University"
         }
       }
     ]
