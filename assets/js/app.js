@@ -150,6 +150,7 @@ function renderUnifiedAlumni() {
               <span>${member.name}</span>
             </div>
             ${member.degree_label?.[lang] ? `<small class="alumni-degree">${member.degree_label[lang]}</small>` : ""}
+            ${member.current_position?.[lang] ? `<small class="alumni-current-position">${member.current_position[lang]}</small>` : ""}
           </div>
         `).join("")}
       </div>
