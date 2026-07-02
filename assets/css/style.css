@@ -1616,3 +1616,82 @@ a,button,summary{overflow-wrap:anywhere}
   .publication-period-body,
   .books-disclosure-body{padding-left:13px;padding-right:13px}
 }
+
+
+/* ==========================================================
+   Japanese typography correction
+   Japanese glyph metrics are visually larger than Latin text.
+   Keep the header compact without shrinking main page content.
+   ========================================================== */
+
+html[lang="ja"] body{
+  font-family:"Hiragino Sans","Yu Gothic UI","Yu Gothic",Meiryo,sans-serif;
+}
+
+/* Laboratory-name banner */
+html[lang="ja"] .brand{
+  min-width:0;
+}
+
+html[lang="ja"] .brand-main{
+  font-size:1.16rem;
+  line-height:1.18;
+  letter-spacing:-0.035em;
+  white-space:nowrap;
+}
+
+html[lang="ja"] .brand-sub{
+  margin-top:3px;
+  font-size:.70rem;
+  line-height:1.2;
+  letter-spacing:0;
+  white-space:nowrap;
+}
+
+/* Japanese navigation is slightly wider than English */
+html[lang="ja"] .nav{
+  gap:22px;
+  font-size:.91rem;
+}
+
+html[lang="ja"] .nav a{
+  white-space:nowrap;
+}
+
+/* Prevent the language buttons from changing header height */
+.lang-switch button{
+  line-height:1;
+}
+
+/* Compact Japanese header a little earlier on medium-width screens */
+@media(max-width:1280px){
+  html[lang="ja"] .site-header-inner{
+    gap:16px;
+  }
+  html[lang="ja"] .nav{
+    gap:17px;
+    font-size:.87rem;
+  }
+  html[lang="ja"] .brand-main{
+    font-size:1.08rem;
+  }
+}
+
+/* Header already switches to the mobile menu below 1180 px */
+@media(max-width:1180px){
+  html[lang="ja"] .brand-main{
+    font-size:1.08rem;
+  }
+  html[lang="ja"] .brand-sub{
+    font-size:.68rem;
+  }
+}
+
+@media(max-width:640px){
+  html[lang="ja"] .brand-main{
+    font-size:1rem;
+  }
+  html[lang="ja"] .brand-sub{
+    font-size:.64rem;
+  }
+}
