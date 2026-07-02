@@ -2670,3 +2670,66 @@ html[lang="en"] .brand-sub{
   font-size:.75rem;
   letter-spacing:0;
 }
+
+
+/* B4 students: deliberately separated from M0 and graduate-student cards */
+.b4-members{
+  max-width:var(--max);
+  margin:46px auto 0;
+  padding-top:30px;
+  border-top:2px solid var(--line);
+}
+.b4-members-head{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  align-items:end;
+  gap:8px 24px;
+  margin-bottom:18px;
+}
+.b4-members-kicker{
+  grid-column:1 / -1;
+  margin:0;
+  color:var(--blue);
+  font-size:.72rem;
+  font-weight:800;
+  letter-spacing:.12em;
+}
+.b4-members-head h3{
+  margin:0;
+  font-size:1.35rem;
+}
+.b4-members-head>p:last-child{
+  margin:0;
+  color:var(--muted);
+  font-size:.88rem;
+  text-align:right;
+}
+.b4-name-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px 16px;
+}
+.b4-name-item{
+  padding:11px 14px;
+  border:1px solid var(--line);
+  border-radius:10px;
+  background:rgba(255,255,255,.62);
+  font-weight:650;
+  line-height:1.35;
+}
+@media(max-width:760px){
+  .b4-members-head{
+    grid-template-columns:1fr;
+  }
+  .b4-members-head>p:last-child{
+    text-align:left;
+  }
+  .b4-name-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+  }
+}
+@media(max-width:480px){
+  .b4-name-grid{
+    grid-template-columns:1fr;
+  }
+}

@@ -91,7 +91,7 @@ function initials(name) {
 }
 
 function renderPeople() {
-  q("#people-grid").innerHTML = people.map(p => {
+  q("#people-grid").innerHTML = people.filter(p => p.group !== "b4").map(p => {
     const displayName = lang === "ja" && p.name_ja ? p.name_ja : p.name;
     const affiliation = p.affiliation?.[lang] || "";
     return `
@@ -129,6 +129,17 @@ function renderPeople() {
       </article>
     `;
   }).join("");
+
+  const b4Grid = q("#b4-name-grid");
+  if (b4Grid) {
+    b4Grid.innerHTML = people
+      .filter(p => p.group === "b4")
+      .map(p => {
+        const displayName = lang === "ja" && p.name_ja ? p.name_ja : p.name;
+        return `<div class="b4-name-item">${displayName}</div>`;
+      })
+      .join("");
+  }
 }
 
 
