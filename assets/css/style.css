@@ -2474,3 +2474,60 @@ html[lang="ja"] .pi-hero .pi-affiliation{
     font-size:.72rem;
   }
 }
+
+
+/* ==========================================================
+   PI hero: one more step smaller, and career panel below links
+   ========================================================== */
+
+html[lang="ja"] .pi-hero .pi-title,
+html[lang="ja"] .pi-hero h1{
+  font-size:clamp(1.8rem,2.35vw,2.6rem);
+  line-height:1.14;
+}
+
+html[lang="ja"] .pi-hero .pi-role{
+  font-size:.86rem;
+  line-height:1.45;
+}
+
+html[lang="ja"] .pi-hero .pi-affiliation{
+  font-size:.68rem;
+  line-height:1.4;
+}
+
+/* Career disclosure directly under ORCID / Google Scholar */
+.pi-hero .pi-career-disclosure{
+  width:100%;
+  max-width:680px;
+  margin:18px 0 0;
+}
+
+.pi-hero .pi-career-disclosure summary{
+  padding:14px 16px;
+}
+
+.pi-hero .pi-career-disclosure[open]{
+  background:rgba(255,255,255,.92);
+  backdrop-filter:blur(8px);
+}
+
+@media(max-width:640px){
+  html[lang="ja"] .pi-hero .pi-title,
+  html[lang="ja"] .pi-hero h1{
+    font-size:clamp(1.65rem,7.7vw,2.15rem);
+  }
+
+  html[lang="ja"] .pi-hero .pi-role{
+    font-size:.82rem;
+  }
+
+  html[lang="ja"] .pi-hero .pi-affiliation{
+    font-size:.66rem;
+  }
+
+  .pi-hero .pi-career-disclosure{
+    max-width:100%;
+    margin-top:14px;
+  }
+}
