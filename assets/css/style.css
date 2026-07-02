@@ -2236,3 +2236,118 @@ html[lang="ja"] .timeline{
     font-size:1rem;
   }
 }
+
+
+/* ==========================================================
+   Japanese typography: one additional step larger
+   English typography remains unchanged.
+   ========================================================== */
+
+html[lang="ja"]{
+  font-size:17px;
+}
+
+html[lang="ja"] body{
+  font-size:1rem;
+}
+
+/* Main headings */
+html[lang="ja"] .hero h1{
+  font-size:clamp(2.8rem,4.15vw,4.65rem);
+}
+
+html[lang="ja"] .section-head h2,
+html[lang="ja"] .section > h2{
+  font-size:clamp(2.15rem,3vw,3.05rem);
+}
+
+/* Body and explanatory text */
+html[lang="ja"] .hero-lead,
+html[lang="ja"] .section-lead,
+html[lang="ja"] .research-history-note p,
+html[lang="ja"] .project-note,
+html[lang="ja"] .pi-message-inner p{
+  font-size:1rem;
+}
+
+/* Card and list content */
+html[lang="ja"] .card h3,
+html[lang="ja"] .selected-publication-card h3,
+html[lang="ja"] .news-item h3,
+html[lang="ja"] .network-card strong{
+  font-size:1.08rem;
+}
+
+html[lang="ja"] .card p,
+html[lang="ja"] .publication-card p,
+html[lang="ja"] .selected-publication-card p,
+html[lang="ja"] .news-content p,
+html[lang="ja"] .network-card span,
+html[lang="ja"] .alumni-simple-name strong{
+  font-size:.98rem;
+}
+
+/* Subsection and disclosure headings */
+html[lang="ja"] .publication-subsection > h3,
+html[lang="ja"] .year-list > h3,
+html[lang="ja"] .books-subsection > h3,
+html[lang="ja"] .publication-period summary,
+html[lang="ja"] .books-disclosure > summary,
+html[lang="ja"] .alumni-disclosure summary,
+html[lang="ja"] .network-group summary{
+  font-size:1.08rem;
+}
+
+/* Metadata */
+html[lang="ja"] .pub-meta,
+html[lang="ja"] .card-meta,
+html[lang="ja"] .member-meta,
+html[lang="ja"] .alumni-simple-name span,
+html[lang="ja"] .network-count,
+html[lang="ja"] .alumni-total,
+html[lang="ja"] .eyebrow,
+html[lang="ja"] .section-kicker{
+  font-size:.85rem;
+}
+
+/* Header */
+html[lang="ja"] .brand-main{
+  font-size:1.1rem;
+}
+
+html[lang="ja"] .brand-sub{
+  font-size:.7rem;
+}
+
+html[lang="ja"] .nav{
+  font-size:.92rem;
+}
+
+/* PI page */
+html[lang="ja"] .pi-title{
+  font-size:clamp(2.3rem,3.4vw,3.4rem);
+}
+
+html[lang="ja"] .timeline{
+  font-size:.99rem;
+}
+
+/* Keep mobile growth restrained */
+@media(max-width:640px){
+  html[lang="ja"]{
+    font-size:16.5px;
+  }
+
+  html[lang="ja"] .hero h1{
+    font-size:clamp(2.25rem,10.5vw,3rem);
+  }
+
+  html[lang="ja"] .section-head h2,
+  html[lang="ja"] .section > h2{
+    font-size:2rem;
+  }
+
+  html[lang="ja"] .brand-main{
+    font-size:1.03rem;
+  }
+}
