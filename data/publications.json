@@ -377,7 +377,7 @@
       "Cover",
       "Most Downloaded"
     ],
-    "image": "assets/images/pub-co2.svg",
+    "image": "assets/images/jpcb-2023-electronic-structure-informatics.png",
     "summary": {
       "ja": "計算データと機械学習を用いてCO₂吸収用イオン液体を設計し、候補物質の性能を実験的に検証した。",
       "en": "Machine-learning-driven ionic-liquid design for CO₂ absorption followed by experimental verification."
