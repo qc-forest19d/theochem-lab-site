@@ -1695,3 +1695,129 @@ html[lang="ja"] .nav a{
     font-size:.64rem;
   }
 }
+
+
+/* ==========================================================
+   Language-balanced typography for large screens
+   Japanese glyphs look visually larger than Latin glyphs at
+   the same CSS size; English headings looked comparatively small.
+   These rules balance visual size without changing layout widths.
+   ========================================================== */
+
+@media(min-width:1200px){
+
+  /* Main page headings */
+  html[lang="ja"] .hero h1{
+    font-size:clamp(2.75rem,4.2vw,4.8rem);
+    line-height:1.12;
+    letter-spacing:-0.045em;
+  }
+
+  html[lang="en"] .hero h1{
+    font-size:clamp(3.15rem,4.8vw,5.35rem);
+    line-height:1.04;
+    letter-spacing:-0.035em;
+  }
+
+  html[lang="ja"] .section-head h2,
+  html[lang="ja"] .section > h2{
+    font-size:clamp(2.15rem,3.0vw,3.05rem);
+    line-height:1.16;
+    letter-spacing:-0.04em;
+  }
+
+  html[lang="en"] .section-head h2,
+  html[lang="en"] .section > h2{
+    font-size:clamp(2.45rem,3.4vw,3.5rem);
+    line-height:1.08;
+    letter-spacing:-0.025em;
+  }
+
+  /* Subsection titles such as Representative Publications */
+  html[lang="ja"] .publication-subsection > h3,
+  html[lang="ja"] .year-list > h3,
+  html[lang="ja"] .books-subsection > h3,
+  html[lang="ja"] .staff-alumni-section > h3,
+  html[lang="ja"] .student-alumni-section > h3{
+    font-size:1.28rem;
+    line-height:1.35;
+  }
+
+  html[lang="en"] .publication-subsection > h3,
+  html[lang="en"] .year-list > h3,
+  html[lang="en"] .books-subsection > h3,
+  html[lang="en"] .staff-alumni-section > h3,
+  html[lang="en"] .student-alumni-section > h3{
+    font-size:1.48rem;
+    line-height:1.25;
+  }
+
+  /* Card titles */
+  html[lang="ja"] .card h3,
+  html[lang="ja"] .selected-publication-card h3,
+  html[lang="ja"] .news-item h3{
+    font-size:1.03rem;
+    line-height:1.5;
+    letter-spacing:-0.015em;
+  }
+
+  html[lang="en"] .card h3,
+  html[lang="en"] .selected-publication-card h3,
+  html[lang="en"] .news-item h3{
+    font-size:1.14rem;
+    line-height:1.38;
+    letter-spacing:-0.01em;
+  }
+
+  /* Body text: keep Japanese restrained, give English a little more presence */
+  html[lang="ja"] .section-lead,
+  html[lang="ja"] .research-history-note p{
+    font-size:.95rem;
+    line-height:1.9;
+  }
+
+  html[lang="en"] .section-lead,
+  html[lang="en"] .research-history-note p{
+    font-size:1.03rem;
+    line-height:1.72;
+  }
+
+  /* Header: balanced rather than simply shrinking Japanese */
+  html[lang="ja"] .brand-main{
+    font-size:1.04rem;
+  }
+
+  html[lang="en"] .brand-main{
+    font-size:1.15rem;
+  }
+
+  html[lang="ja"] .brand-sub{
+    font-size:.66rem;
+  }
+
+  html[lang="en"] .brand-sub{
+    font-size:.75rem;
+  }
+
+  html[lang="ja"] .nav{
+    font-size:.86rem;
+    gap:18px;
+  }
+
+  html[lang="en"] .nav{
+    font-size:.96rem;
+    gap:22px;
+  }
+}
+
+/* Ultra-wide displays: stop headings from continuing to grow */
+@media(min-width:1700px){
+  html[lang="ja"] .hero h1{font-size:4.8rem}
+  html[lang="en"] .hero h1{font-size:5.35rem}
+
+  html[lang="ja"] .section-head h2,
+  html[lang="ja"] .section > h2{font-size:3.05rem}
+
+  html[lang="en"] .section-head h2,
+  html[lang="en"] .section > h2{font-size:3.5rem}
+}
