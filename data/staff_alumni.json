@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Kaori Noto",
+    "name_ja": "能登 香",
+    "role": {
+      "ja": "元博士研究員",
+      "en": "Former Postdoctoral Researcher"
+    },
+    "url": "https://www.kitasato-u.ac.jp/ippan/kagaku/noto.html",
+    "link_label": {
+      "ja": "北里大学",
+      "en": "Kitasato University"
+    },
+    "display_title": {
+      "ja": "教授",
+      "en": "Professor"
+    },
+    "current": {
+      "ja": "北里大学 一般教育部 自然科学教育センター",
+      "en": "Center for Natural Sciences, College of Liberal Arts and Sciences, Kitasato University"
+    },
+    "period": {
+      "ja": "2009年度–2010年度",
+      "en": "FY2009–FY2010"
+    }
+  },
+  {
+    "name": "Atsuko Tsuchida",
+    "name_ja": "土田 敦子",
+    "role": {
+      "ja": "元博士研究員",
+      "en": "Former Postdoctoral Researcher"
+    },
+    "url": "https://mrc-gdb.saitama-med.ac.jp/smshp/KgApp?courc=2002",
+    "link_label": {
+      "ja": "埼玉医科大学",
+      "en": "Saitama Medical University"
+    },
+    "display_title": {
+      "ja": "准教授",
+      "en": "Associate Professor"
+    },
+    "current": {
+      "ja": "埼玉医科大学 医学部 教養教育",
+      "en": "Liberal Arts Education, Faculty of Medicine, Saitama Medical University"
+    },
+    "period": {
+      "ja": "2011年度–2012年度",
+      "en": "FY2011–FY2012"
+    }
+  },
+  {
+    "name": "Nahoko Kuroki",
+    "name_ja": "黒木 菜保子",
+    "role": {
+      "ja": "元博士研究員・助教",
+      "en": "Former Postdoctoral Researcher and Assistant Professor"
+    },
+    "current": {
+      "ja": "お茶の水女子大学 基幹研究院自然科学系",
+      "en": "Faculty of Core Research, Natural Science Division, Ochanomizu University"
+    },
+    "url": "https://www-p.sci.ocha.ac.jp/kuroki-lab/",
+    "link_label": {
+      "ja": "お茶の水女子大学",
+      "en": "Ochanomizu University"
+    },
+    "display_title": {
+      "ja": "助教",
+      "en": "Assistant Professor"
+    },
+    "period": {
+      "ja": "2019年度–2023年度",
+      "en": "FY2019–FY2023"
+    }
+  },
+  {
+    "name": "Fabian Weber",
+    "name_ja": "Fabian Weber",
+    "role": {
+      "ja": "元博士研究員",
+      "en": "Former Postdoctoral Researcher"
+    },
+    "url": "https://www.linkedin.com/in/fabian-weber-39b100a9/",
+    "link_label": {
+      "ja": "LinkedIn",
+      "en": "LinkedIn"
+    },
+    "period": {
+      "ja": "2020年度–2021年度",
+      "en": "FY2020–FY2021"
+    }
+  },
+  {
+    "name": "Amol Patil",
+    "name_ja": "Amol Patil",
+    "role": {
+      "ja": "元博士研究員",
+      "en": "Former Postdoctoral Researcher"
+    },
+    "url": "https://www.linkedin.com/in/amol-patil-37620033/",
+    "link_label": {
+      "ja": "LinkedIn",
+      "en": "LinkedIn"
+    },
+    "period": {
+      "ja": "2023年9月–2025年3月",
+      "en": "September 2023–March 2025"
+    }
+  }
+]

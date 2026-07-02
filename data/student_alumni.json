@@ -1,0 +1,530 @@
+[
+  {
+    "institution": {
+      "ja": "中央大学 理工学部 応用化学科",
+      "en": "Department of Applied Chemistry, Chuo University"
+    },
+    "period": {
+      "ja": "2019年度–2025年度",
+      "en": "FY2019–FY2025"
+    },
+    "students": [
+      {
+        "year": 2025,
+        "name_ja": "三林 鈴果",
+        "name": "三林 鈴果",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "下村 悟",
+        "name": "下村 悟",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "中嶋 悠人",
+        "name": "中嶋 悠人",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "加納 萌々香",
+        "name": "加納 萌々香",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "有松 怜生",
+        "name": "有松 怜生",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "笠岡 碧",
+        "name": "笠岡 碧",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "臼倉 一樹",
+        "name": "臼倉 一樹",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "草本 陸",
+        "name": "草本 陸",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "鈴木 愛菜",
+        "name": "鈴木 愛菜",
+        "degree": "B4"
+      },
+      {
+        "year": 2025,
+        "name_ja": "鈴木 良佳",
+        "name": "鈴木 良佳",
+        "degree": "B4"
+      },
+      {
+        "year": 2024,
+        "name_ja": "上村 浩喜",
+        "name": "上村 浩喜",
+        "degree": "B4"
+      },
+      {
+        "year": 2024,
+        "name_ja": "坪野 梨華",
+        "name": "坪野 梨華",
+        "degree": "B4"
+      },
+      {
+        "year": 2024,
+        "name_ja": "小松 莉子",
+        "name": "小松 莉子",
+        "degree": "B4"
+      },
+      {
+        "year": 2024,
+        "name_ja": "岡田 陸斗",
+        "name": "岡田 陸斗",
+        "degree": "B4"
+      },
+      {
+        "year": 2024,
+        "name_ja": "岸野 晃也",
+        "name": "岸野 晃也",
+        "degree": "B4"
+      },
+      {
+        "year": 2024,
+        "name_ja": "藤田 華",
+        "name": "藤田 華",
+        "degree": "B4"
+      },
+      {
+        "year": 2024,
+        "name_ja": "鈴木 大耀",
+        "name": "鈴木 大耀",
+        "degree": "B4"
+      },
+      {
+        "year": 2023,
+        "name_ja": "信岡 春香",
+        "name": "信岡 春香",
+        "degree": "B4",
+        "note": {
+          "ja": "卒業研究II履修者名簿で確認",
+          "en": "Confirmed in the Graduation Research II roster"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "坂内 伸光",
+        "name": "Nobumitsu BAN-NAI",
+        "degree": "B4"
+      },
+      {
+        "year": 2023,
+        "name_ja": "川越 理暉",
+        "name": "Riki KAWAGOE",
+        "degree": "B4"
+      },
+      {
+        "year": 2023,
+        "name_ja": "斉藤 一成",
+        "name": "Issei SAITO",
+        "degree": "B4"
+      },
+      {
+        "year": 2023,
+        "name_ja": "武 和希",
+        "name": "Kazuki TAKE",
+        "degree": "B4"
+      },
+      {
+        "year": 2023,
+        "name_ja": "渡部 栞",
+        "name": "Shiori WATABE",
+        "degree": "M2"
+      },
+      {
+        "year": 2023,
+        "name_ja": "高月 壮太",
+        "name": "Sota TAKATSUKI",
+        "degree": "B4"
+      },
+      {
+        "year": 2023,
+        "name_ja": "高橋 唯華",
+        "name": "Yuika TAKAHASHI",
+        "degree": "M2"
+      },
+      {
+        "year": 2022,
+        "name_ja": "松岡 直輝",
+        "name": "Naoki MATSUOKA",
+        "degree": "B4"
+      },
+      {
+        "year": 2022,
+        "name_ja": "渡部 尚汰郎",
+        "name": "Shotaro WATANABE",
+        "degree": "B4"
+      },
+      {
+        "year": 2022,
+        "name_ja": "田邊 光希",
+        "name": "Koki TANABE",
+        "degree": "B4"
+      },
+      {
+        "year": 2022,
+        "name_ja": "篠原 芳輝",
+        "name": "Yoshiki SHINOHARA",
+        "degree": "B4"
+      },
+      {
+        "year": 2022,
+        "name_ja": "鳥居 瑞季",
+        "name": "Mizuki TORII",
+        "degree": "B4"
+      },
+      {
+        "year": 2021,
+        "name_ja": "今田 篤史",
+        "name": "Atsushi KONDA",
+        "degree": "B4"
+      },
+      {
+        "year": 2021,
+        "name_ja": "伊波 伸通",
+        "name": "Nobumichi IHA",
+        "degree": "B4"
+      },
+      {
+        "year": 2021,
+        "name_ja": "伊藤 隼",
+        "name": "Jun ITO",
+        "degree": "B4"
+      },
+      {
+        "year": 2021,
+        "name_ja": "岡野 春子",
+        "name": "Haruko OKANO",
+        "degree": "B4"
+      },
+      {
+        "year": 2021,
+        "name_ja": "滝原 慧",
+        "name": "Kei TAKIHARA",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "八東 優介",
+        "name": "Yusuke HATTO",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "小林 航",
+        "name": "Wataru KOBAYASHI",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "村松 丈太郎",
+        "name": "Jotaro MURAMATSU",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "湯川 友登",
+        "name": "Yuto YUKAWA",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "滝田 雄大",
+        "name": "Yudai TAKITA",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "田澤 由佳",
+        "name": "Yuka TAZAWA",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "石井 美帆",
+        "name": "Miho ISHII",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "石塚 遥稀",
+        "name": "Haruki ISHIZUKA",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "磯田 真帆",
+        "name": "Maho ISODA",
+        "degree": "B4"
+      },
+      {
+        "year": 2020,
+        "name_ja": "阿久津 将史",
+        "name": "Masashi AKUTSU",
+        "degree": "B4"
+      },
+      {
+        "year": 2019,
+        "name_ja": "丸山 峻太",
+        "name": "Shunta MARUYAMA",
+        "degree": "B4"
+      },
+      {
+        "year": 2019,
+        "name_ja": "土方 恵梨",
+        "name": "Eri HIJIKATA",
+        "degree": "B4"
+      },
+      {
+        "year": 2019,
+        "name_ja": "増田 千夏",
+        "name": "Chika MASUDA",
+        "degree": "B4"
+      },
+      {
+        "year": 2019,
+        "name_ja": "船倉 多聞",
+        "name": "Tamon FUNAKURA",
+        "degree": "B4"
+      }
+    ]
+  },
+  {
+    "institution": {
+      "ja": "お茶の水女子大学 理学部 化学科",
+      "en": "Department of Chemistry, Ochanomizu University"
+    },
+    "period": {
+      "ja": "2012–2018年度",
+      "en": "FY2012–FY2018"
+    },
+    "students": [
+      {
+        "year": 2018,
+        "name_ja": "佐々木 美織",
+        "name": "Miori SASAKI",
+        "degree": "B→M",
+        "note": {
+          "ja": "お茶の水女子大学 山田研究室",
+          "en": "Yamada Group, Ochanomizu University"
+        }
+      },
+      {
+        "year": 2018,
+        "name_ja": "内野 幸奈",
+        "name": "Yukina UCHINO",
+        "degree": "B→M",
+        "note": {
+          "ja": "お茶の水女子大学 近藤研究室",
+          "en": "Kondo Group, Ochanomizu University"
+        }
+      },
+      {
+        "year": 2018,
+        "name_ja": "寺島 千絵子",
+        "name": "Chieko TERASHIMA",
+        "degree": "M",
+        "note": {
+          "ja": "修士課程修了。MHIみらい奨学生",
+          "en": "Completed the Master's Program. MHI Mirai Scholar"
+        }
+      },
+      {
+        "year": 2018,
+        "name_ja": "按田 侑子",
+        "name": "Yuko ANDA",
+        "degree": "B→M",
+        "note": {
+          "ja": "お茶の水女子大学 伊村研究室",
+          "en": "Imura Group, Ochanomizu University"
+        }
+      },
+      {
+        "year": 2018,
+        "name_ja": "黒木 菜保子",
+        "name": "Nahoko KUROKI",
+        "degree": "D",
+        "note": {
+          "ja": "博士後期課程修了。日本学術振興会特別研究員DC2、JST ACT-I",
+          "en": "Completed the Doctoral Program. JSPS Research Fellow DC2; JST ACT-I"
+        }
+      },
+      {
+        "year": 2016,
+        "name_ja": "伊勢 茜",
+        "name": "Akane ISE",
+        "degree": "B→M",
+        "note": {
+          "ja": "大阪大学",
+          "en": "Osaka University"
+        }
+      },
+      {
+        "year": 2016,
+        "name_ja": "宮崎 かすみ",
+        "name": "Kasumi MIYAZAKI",
+        "degree": "M",
+        "note": {
+          "ja": "修士課程修了。東京大学・日本学術振興会特別研究員DC2",
+          "en": "Completed the Master's Program. The University of Tokyo; JSPS Research Fellow DC2"
+        }
+      },
+      {
+        "year": 2015,
+        "name_ja": "寺前 祐生子",
+        "name": "Yuko TERAMAE",
+        "degree": "B→M/D",
+        "note": {
+          "ja": "兵庫県立大学",
+          "en": "University of Hyogo"
+        }
+      },
+      {
+        "year": 2015,
+        "name_ja": "水野 花春",
+        "name": "Kaharu MIZUNO",
+        "degree": "B→M",
+        "note": {
+          "ja": "東京大学",
+          "en": "The University of Tokyo"
+        }
+      },
+      {
+        "year": 2015,
+        "name_ja": "鈴木 祐里絵",
+        "name": "Yurie SUZUKI",
+        "degree": "B→M",
+        "note": {
+          "ja": "東京大学",
+          "en": "The University of Tokyo"
+        }
+      },
+      {
+        "year": 2014,
+        "name_ja": "川島 愛咲",
+        "name": "Asaki KAWASHIMA",
+        "degree": "B"
+      },
+      {
+        "year": 2014,
+        "name_ja": "田中 美恵",
+        "name": "Mie TANAKA",
+        "degree": "M",
+        "note": {
+          "ja": "修士課程修了",
+          "en": "Completed the Master's Program"
+        }
+      },
+      {
+        "year": 2013,
+        "name_ja": "山田 有紗",
+        "name": "Arisa YAMADA",
+        "degree": "B→M",
+        "note": {
+          "ja": "横浜市立大学",
+          "en": "Yokohama City University"
+        }
+      },
+      {
+        "year": 2012,
+        "name_ja": "久保 綾子",
+        "name": "Ayako KUBO",
+        "degree": "B→D",
+        "note": {
+          "ja": "東京大学",
+          "en": "The University of Tokyo"
+        }
+      }
+    ]
+  },
+  {
+    "institution": {
+      "ja": "お茶の水女子大学 アカデミック・プロダクション",
+      "en": "Ochanomizu University Academic Production"
+    },
+    "period": {
+      "ja": "2008–2011年度",
+      "en": "FY2008–FY2011"
+    },
+    "students": [
+      {
+        "year": 2015,
+        "name_ja": "松田 彩",
+        "name": "Aya MATSUDA",
+        "degree": "D",
+        "note": {
+          "ja": "博士後期課程修了。日本学術振興会特別研究員DC1",
+          "en": "Completed the Doctoral Program. JSPS Research Fellow DC1"
+        }
+      },
+      {
+        "year": 2012,
+        "name_ja": "佐藤 夏名子",
+        "name": "Kanako SATO",
+        "degree": "M",
+        "note": {
+          "ja": "修士課程修了",
+          "en": "Completed the Master's Program"
+        }
+      },
+      {
+        "year": 2012,
+        "name_ja": "平山 奈津実",
+        "name": "Natsumi HIRAYAMA",
+        "degree": "M",
+        "note": {
+          "ja": "修士課程修了",
+          "en": "Completed the Master's Program"
+        }
+      },
+      {
+        "year": 2011,
+        "name_ja": "小嶋 亮平",
+        "name": "Ryohei KOJIMA",
+        "degree": "M",
+        "note": {
+          "ja": "立教大学・望月祐志教授研究室",
+          "en": "Mochizuki Group, Rikkyo University"
+        }
+      }
+    ]
+  },
+  {
+    "institution": {
+      "ja": "立教大学",
+      "en": "Rikkyo University"
+    },
+    "period": {
+      "ja": "2011年度",
+      "en": "FY2011"
+    },
+    "students": [
+      {
+        "year": 2011,
+        "name_ja": "藤原 崇幸",
+        "name": "Takayuki FUJIWARA",
+        "degree": "D"
+      }
+    ]
+  }
+]

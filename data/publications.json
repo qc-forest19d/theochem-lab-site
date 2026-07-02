@@ -2,28 +2,6 @@
   {
     "year": 2026,
     "type": "peer-reviewed",
-    "authors": "M. Nogamida and H. Mori",
-    "title": "Quantum Chemical Insights into the Initial Reaction Pathways Governing the Self-Ignition of Hypergolic Ionic Liquids with H2O2",
-    "journal": "ACS Omega",
-    "volume": "11",
-    "issue": "25",
-    "pages": "37982–37987",
-    "doi": "10.1021/acsomega.6c03360",
-    "url": "https://doi.org/10.1021/acsomega.6c03360",
-    "category": "Autonomous Reaction Discovery",
-    "selected": false,
-    "badges": [
-      "Open Access"
-    ],
-    "image": "assets/images/pub-hypergolic.svg",
-    "summary": {
-      "ja": "過酸化水素との自己着火を支配する超原子価イオン液体の初期反応経路を量子化学的に解析。",
-      "en": "Quantum-chemical analysis of the initial reaction pathways governing self-ignition of hypergolic ionic liquids with hydrogen peroxide."
-    }
-  },
-  {
-    "year": 2026,
-    "type": "peer-reviewed",
     "authors": "T. Sumiyoshi, N. Kuroki, and H. Mori",
     "title": "Electronic-Structure Informatics Guided Identification of Actinide/Lanthanide Selectivity Factors",
     "journal": "Inorganic Chemistry",
@@ -32,15 +10,21 @@
     "pages": "7592–7602",
     "doi": "10.1021/acs.inorgchem.5c05680",
     "url": "https://doi.org/10.1021/acs.inorgchem.5c05680",
-    "category": "Electronic-State Intelligence",
+    "category": "Electronic-State Informatics",
     "selected": true,
     "badges": [
       "Open Access"
     ],
-    "image": "assets/images/pub-informatics.svg",
+    "image": "assets/images/selected-anln-2026.png",
     "summary": {
-      "ja": "電子状態インフォマティクスにより、アクチノイド／ランタノイド選択性を支配する因子を同定。",
+      "ja": "電子状態インフォマティクスを用いて、アクチノイド／ランタノイド選択性を支配する配位子の電子的・構造的因子を特定した。",
       "en": "Electronic-structure informatics identifies factors governing actinide/lanthanide selectivity."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
     }
   },
   {
@@ -54,55 +38,104 @@
     "pages": "e19137",
     "doi": "10.1002/advs.202519137",
     "url": "https://doi.org/10.1002/advs.202519137",
-    "category": "Adaptive Quantum Simulation",
+    "category": "Complex Systems Quantum Chemistry",
     "selected": true,
     "badges": [
       "Open Access"
     ],
-    "image": "assets/images/pub-qmmm.svg",
+    "image": "assets/images/selected-qmmm-2026.png",
     "summary": {
-      "ja": "配位子誘起電子応答に基づいてQM/MM計算の量子領域を予測的に定義する方法論。",
+      "ja": "配位子が周囲の電子状態に及ぼす応答を指標として、QM/MM計算の量子領域を客観的かつ予測的に決定する方法を提案した。",
       "en": "A ligand-induced electronic-response framework for predictive definition of QM regions in QM/MM simulations."
+    },
+    "pillar": {
+      "id": "adaptive",
+      "number": "02",
+      "ja": "複雑系量子化学",
+      "en": "Complex Systems Quantum Chemistry"
     }
   },
   {
-    "year": 2025,
+    "year": 2026,
     "type": "peer-reviewed",
-    "authors": "D. Goto and H. Mori",
-    "title": "Reconciling Color Purity and Redox Potential in Electrochromic Materials via Electronic-State-Informed Molecular Design",
-    "journal": "Chemical Communications",
-    "volume": "61",
-    "issue": "",
-    "pages": "16010–16013",
-    "doi": "10.1039/D5CC04421A",
-    "url": "https://doi.org/10.1039/D5CC04421A",
-    "category": "Electronic-State Intelligence",
+    "authors": "M. Nogamida and H. Mori",
+    "title": "Quantum Chemical Insights into the Initial Reaction Pathways Governing the Self-Ignition of Hypergolic Ionic Liquids with H₂O₂",
+    "journal": "ACS Omega",
+    "volume": "11",
+    "issue": "25",
+    "pages": "37982–37987",
+    "doi": "10.1021/acsomega.6c03360",
+    "url": "https://doi.org/10.1021/acsomega.6c03360",
+    "category": "Autonomous Reaction Exploration",
     "selected": true,
-    "badges": [],
-    "image": "assets/images/pub-color.svg",
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/selected-hypergolic-2026.png",
     "summary": {
-      "ja": "電子状態に基づく分子設計により、色純度と酸化還元電位の両立を実現。",
-      "en": "Electronic-state-informed molecular design reconciles color purity and redox potential."
+      "ja": "ハイパーゴリックイオン液体と過酸化水素の自己着火を支配する初期反応経路を、量子化学計算により明らかにした。",
+      "en": "Quantum-chemical analysis of the initial reaction pathways governing self-ignition of hypergolic ionic liquids with hydrogen peroxide."
+    },
+    "pillar": {
+      "id": "reaction",
+      "number": "04",
+      "ja": "自律型反応探索",
+      "en": "Autonomous Reaction Exploration"
     }
   },
   {
-    "year": 2025,
+    "year": 2026,
     "type": "peer-reviewed",
     "authors": "K. Motoki and H. Mori",
-    "title": "Electronic Insights into the Role of Nuclear Quantum Effects in Proton Transfer Reactions of Nucleobase Pairs",
-    "journal": "Physical Chemistry Chemical Physics",
-    "volume": "27",
+    "title": "A cooperative proton-relay pathway in imide racemization: An electronic-structure perspective",
+    "journal": "Chemical Physics Letters",
+    "volume": "895",
     "issue": "",
-    "pages": "8898–8902",
-    "doi": "10.1039/D5CP00698H",
-    "url": "https://doi.org/10.1039/D5CP00698H",
-    "category": "Beyond Born–Oppenheimer Chemistry",
-    "selected": true,
+    "pages": "142877",
+    "doi": "10.1016/j.cplett.2026.142877",
+    "url": "https://doi.org/10.1016/j.cplett.2026.142877",
+    "category": "Molecular Structure and Reactivity",
+    "selected": false,
     "badges": [],
-    "image": "assets/images/pub-nqe.svg",
+    "image": "assets/images/selected-imide-racemization-2026.png",
     "summary": {
-      "ja": "核量子効果が核酸塩基対のプロトン移動反応に与える電子構造的影響を解明。",
-      "en": "Electronic-structure analysis of nuclear quantum effects in proton transfer reactions of nucleobase pairs."
+      "ja": "イミド化合物のラセミ化を促進する協同的プロトンリレー経路を、電子構造の観点から解明した。",
+      "en": "An electronic-structure analysis reveals a cooperative proton-relay pathway governing imide racemization."
+    },
+    "pillar": {
+      "id": "reaction",
+      "number": "04",
+      "ja": "自律型反応探索",
+      "en": "Autonomous Reaction Exploration"
+    }
+  },
+  {
+    "year": 2026,
+    "date": "2026-05-18",
+    "type": "under-review",
+    "authors": "K. Motoki and H. Mori",
+    "title": "Orbital-Isotopic Modulation of Stereoelectronic Interactions",
+    "journal": "Under review",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "",
+    "url": "",
+    "category": "Beyond Born-Oppenheimer Theory",
+    "selected": false,
+    "badges": [
+      "Under Review",
+      "Corresponding Author"
+    ],
+    "summary": {
+      "ja": "同位体置換が分子構造と軌道相互作用を変化させる機構を、核量子効果を含む電子状態計算から解析した。",
+      "en": "Analysis of isotopic modulation of stereoelectronic interactions from nuclear-quantum and electronic-structure perspectives (submitted May 18, 2026; under review)."
+    },
+    "pillar": {
+      "id": "beyond-bo",
+      "number": "03",
+      "ja": "Beyond Born-Oppenheimer 理論",
+      "en": "Beyond Born-Oppenheimer Theory"
     }
   },
   {
@@ -116,15 +149,47 @@
     "pages": "2612–2617",
     "doi": "10.1021/acs.jpca.4c07367",
     "url": "https://doi.org/10.1021/acs.jpca.4c07367",
-    "category": "Electronic-State Intelligence",
+    "category": "Electronic-State Informatics",
     "selected": true,
     "badges": [
       "Cover"
     ],
-    "image": "assets/images/pub-acidity.svg",
+    "image": "assets/images/selected-acidity-2025.png",
     "summary": {
-      "ja": "半経験的分子軌道計算と機械学習を統合し、任意溶媒中の酸性度を予測。",
+      "ja": "半経験的分子軌道計算から得られる電子状態記述子と機械学習を組み合わせ、多様な溶媒中の酸性度を予測する手法を構築した。",
       "en": "Machine learning informed by semiempirical molecular orbital calculations predicts acidity in arbitrary solvents."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
+    }
+  },
+  {
+    "year": 2025,
+    "type": "peer-reviewed",
+    "authors": "K. Motoki and H. Mori",
+    "title": "Electronic Insights into the Role of Nuclear Quantum Effects in Proton Transfer Reactions of Nucleobase Pairs",
+    "journal": "Physical Chemistry Chemical Physics",
+    "volume": "27",
+    "issue": "",
+    "pages": "8898–8902",
+    "doi": "10.1039/D5CP00698H",
+    "url": "https://doi.org/10.1039/D5CP00698H",
+    "category": "Beyond Born-Oppenheimer Theory",
+    "selected": true,
+    "badges": [],
+    "image": "assets/images/selected-nqe-2025.png",
+    "summary": {
+      "ja": "核量子効果が核酸塩基対のプロトン移動障壁と電子状態を変化させ、生成物の存在比にも大きな影響を及ぼすことを明らかにした。",
+      "en": "Electronic-structure analysis of nuclear quantum effects in proton transfer reactions of nucleobase pairs."
+    },
+    "pillar": {
+      "id": "beyond-bo",
+      "number": "03",
+      "ja": "Beyond Born-Oppenheimer 理論",
+      "en": "Beyond Born-Oppenheimer Theory"
     }
   },
   {
@@ -138,15 +203,21 @@
     "pages": "2419–2424",
     "doi": "10.1021/acs.jpclett.4c03519",
     "url": "https://doi.org/10.1021/acs.jpclett.4c03519",
-    "category": "Electronic-State Intelligence",
+    "category": "Electronic-State Informatics",
     "selected": true,
     "badges": [
       "Cover"
     ],
-    "image": "assets/images/pub-informatics.svg",
+    "image": "assets/images/selected-color-informatics-2025.png",
     "summary": {
-      "ja": "電子状態記述子と機械学習により、有機エレクトロニクス材料の超精密な色調制御を実現。",
+      "ja": "電子状態記述子と機械学習を用いて、有機エレクトロニクス材料の色調を精密に予測・設計する方法を示した。",
       "en": "Electronic-state informatics enables ultrafine color tuning of organic electronic materials."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
     }
   },
   {
@@ -159,16 +230,48 @@
     "issue": "",
     "pages": "",
     "doi": "",
-    "url": "https://chemrxiv.org/engage/chemrxiv/article-details/647469034f8b1884b775b20f",
-    "category": "Beyond Born–Oppenheimer Chemistry",
+    "url": "",
+    "category": "Beyond Born-Oppenheimer Theory",
     "selected": false,
     "badges": [
       "Preprint"
     ],
     "image": "assets/images/pub-nqe.svg",
     "summary": {
-      "ja": "サリドマイド類縁体と重水素置換体を対象とするBorn–Oppenheimer近似を超えた医薬品量子化学。",
+      "ja": "サリドマイド類縁体と重水素置換体を対象に、核量子効果が立体反転と電子状態に及ぼす影響を解析し、薬理作用や安全性評価に関わる同位体効果の可能性を示した。",
       "en": "Beyond-Born–Oppenheimer pharmaceutical quantum chemistry of thalidomide analogs and deuterated substituents."
+    },
+    "pillar": {
+      "id": "beyond-bo",
+      "number": "03",
+      "ja": "Beyond Born-Oppenheimer 理論",
+      "en": "Beyond Born-Oppenheimer Theory"
+    }
+  },
+  {
+    "year": 2025,
+    "type": "peer-reviewed",
+    "authors": "D. Goto and H. Mori",
+    "title": "Reconciling Color Purity and Redox Potential in Electrochromic Materials via Electronic-State-Informed Molecular Design",
+    "journal": "Chemical Communications",
+    "volume": "61",
+    "issue": "",
+    "pages": "16010–16013",
+    "doi": "10.1039/D5CC04421A",
+    "url": "https://doi.org/10.1039/D5CC04421A",
+    "category": "Electronic-State Informatics",
+    "selected": false,
+    "badges": [],
+    "image": "assets/images/selected-electrochromic-2025.png",
+    "summary": {
+      "ja": "電子状態に基づく分子設計により、エレクトロクロミック材料の色純度と酸化還元電位を両立する設計指針を示した。",
+      "en": "Electronic-state-informed molecular design reconciles color purity and redox potential."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
     }
   },
   {
@@ -182,15 +285,21 @@
     "pages": "8205–8210",
     "doi": "10.1021/acs.jpclett.4c01783",
     "url": "https://doi.org/10.1021/acs.jpclett.4c01783",
-    "category": "Electronic-State Intelligence",
+    "category": "Electronic-State Informatics",
     "selected": false,
     "badges": [
       "Cover"
     ],
     "image": "assets/images/pub-color.svg",
     "summary": {
-      "ja": "量子化学的分子設計により、エレクトロクロミック材料の光環化劣化を回避。",
+      "ja": "光環化によるエレクトロクロミック材料の劣化機構を量子化学的に解析し、劣化を抑制する分子設計指針を提案した。",
       "en": "Quantum-chemical molecular design avoids photocyclized degradation in electrochromic materials."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
     }
   },
   {
@@ -203,23 +312,29 @@
     "issue": "217",
     "pages": "199–202",
     "doi": "",
-    "url": "https://www.jstage.jst.go.jp/article/jcombsj/66/217/66_2402a/_article/-char/en",
-    "category": "Autonomous Reaction Discovery",
+    "url": "",
+    "category": "Autonomous Reaction Exploration",
     "selected": false,
     "badges": [
       "Invited"
     ],
     "image": "assets/images/pub-hypergolic.svg",
     "summary": {
-      "ja": "超原子価イオン液体の反応経路に対するアニオン電子状態の影響を概説。",
+      "ja": "ハイパーゴリックイオン液体のアニオン電子状態が、酸化剤との初期反応経路と反応性を左右する機構を整理した。",
       "en": "An invited overview of how anion electronic states affect reaction pathways of hypergolic ionic liquids."
+    },
+    "pillar": {
+      "id": "reaction",
+      "number": "04",
+      "ja": "自律型反応探索",
+      "en": "Autonomous Reaction Exploration"
     }
   },
   {
     "year": 2023,
     "type": "peer-reviewed",
     "authors": "S. Watabe, N. Kuroki, and H. Mori",
-    "title": "COSMO-RS Exploration of Highly CO2-Selective Hydrogen-Bonded Binary Liquid Absorbents under Humid Conditions: Role of Trace Ionic Species",
+    "title": "COSMO-RS Exploration of Highly CO₂-Selective Hydrogen-Bonded Binary Liquid Absorbents under Humid Conditions: Role of Trace Ionic Species",
     "journal": "ACS Omega",
     "volume": "8",
     "issue": "16",
@@ -234,15 +349,21 @@
     ],
     "image": "assets/images/pub-co2.svg",
     "summary": {
-      "ja": "湿潤条件下の高CO2選択性水素結合性二成分吸収液をCOSMO-RSで解析。",
-      "en": "COSMO-RS exploration of highly CO2-selective hydrogen-bonded binary liquid absorbents under humid conditions."
+      "ja": "COSMO-RS計算により、湿潤条件下でも高いCO₂選択性を示す二成分吸収液と、微量イオン種の役割を明らかにした。",
+      "en": "COSMO-RS exploration of highly CO₂-selective hydrogen-bonded binary liquid absorbents under humid conditions."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
     }
   },
   {
     "year": 2023,
     "type": "peer-reviewed",
     "authors": "N. Kuroki, D. Kodama, Y. Suzuki, F. Chowdhury, H. Yamada, and H. Mori",
-    "title": "Machine Learning Boosted Design of Ionic Liquids for CO2 Absorption and Experimental Verification",
+    "title": "Machine Learning Boosted Design of Ionic Liquids for CO₂ Absorption and Experimental Verification",
     "journal": "The Journal of Physical Chemistry B",
     "volume": "127",
     "issue": "",
@@ -250,7 +371,7 @@
     "doi": "10.1021/acs.jpcb.2c07305",
     "url": "https://doi.org/10.1021/acs.jpcb.2c07305",
     "category": "Molecular and Materials Discovery",
-    "selected": true,
+    "selected": false,
     "badges": [
       "Open Access",
       "Cover",
@@ -258,8 +379,14 @@
     ],
     "image": "assets/images/pub-co2.svg",
     "summary": {
-      "ja": "機械学習によるイオン液体設計を実験検証までつなげたCO2吸収材料研究。",
-      "en": "Machine-learning-driven ionic-liquid design for CO2 absorption followed by experimental verification."
+      "ja": "計算データと機械学習を用いてCO₂吸収用イオン液体を設計し、候補物質の性能を実験的に検証した。",
+      "en": "Machine-learning-driven ionic-liquid design for CO₂ absorption followed by experimental verification."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
     }
   },
   {
@@ -272,16 +399,22 @@
     "issue": "",
     "pages": "3942–3946",
     "doi": "",
-    "url": "https://pubs.rsc.org/en/content/articlelanding/2023/ra/d2ra07630a",
-    "category": "Electronic-State Intelligence",
+    "url": "",
+    "category": "Electronic-State Informatics",
     "selected": false,
     "badges": [
       "Open Access"
     ],
     "image": "assets/images/pub-informatics.svg",
     "summary": {
-      "ja": "NIR-TADF分子におけるドナー–アクセプター架橋型分子内水素結合を解析。",
+      "ja": "近赤外TADF分子に形成されるドナー–アクセプター架橋型分子内水素結合の構造と電子的役割を解析した。",
       "en": "Analysis of donor–acceptor-bridging intramolecular hydrogen bonds in NIR-TADF molecules."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
     }
   },
   {
@@ -303,8 +436,96 @@
     ],
     "image": "assets/images/pub-informatics.svg",
     "summary": {
-      "ja": "有機・無機・物理化学を横断して理解する実践的計算化学教育プログラム。",
+      "ja": "分子間相互作用から化学反応までを計算化学で扱い、有機・無機・物理化学を横断的に学ぶ教育プログラムを提案した。",
       "en": "A practical computational chemistry course integrating organic, inorganic, and physical chemistry."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
+    }
+  },
+  {
+    "year": 2023,
+    "type": "review",
+    "authors": "N. Kuroki",
+    "title": "計算化学・機械学習による機能性液体の研究",
+    "journal": "理論化学会誌 フロンティア",
+    "volume": "5",
+    "issue": "1",
+    "pages": "35–41",
+    "doi": "",
+    "url": "",
+    "category": "Electronic-State Informatics",
+    "selected": false,
+    "badges": [
+      "Invited"
+    ],
+    "image": "",
+    "summary": {
+      "ja": "本質的に限りある実験データを計算化学と機械学習で補完し、機能性液体の物性理解と合理的設計につなげる研究を概説した。",
+      "en": "This study investigates 計算化学・機械学習による機能性液体の研究 using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
+    }
+  },
+  {
+    "year": 2022,
+    "type": "peer-reviewed",
+    "authors": "Y. Suzuki, D. Kodama, H. Mori, N. Kuroki, F. Chowdhury, and H. Yamada",
+    "title": "CO₂/Hydrocarbon Selectivity of Trihexyl(tetradecyl)phosphonium-Based Ionic Liquids",
+    "journal": "Industrial & Engineering Chemistry Research",
+    "volume": "61",
+    "issue": "",
+    "pages": "16584–16592",
+    "doi": "10.1021/acs.iecr.2c02281",
+    "url": "https://doi.org/10.1021/acs.iecr.2c02281",
+    "category": "Molecular and Materials Discovery",
+    "selected": false,
+    "badges": [],
+    "image": "assets/images/pub-co2.svg",
+    "summary": {
+      "ja": "ホスホニウム系イオン液体へのCO₂および炭化水素の溶解性を評価し、ガス分離選択性を支配する要因を検討した。",
+      "en": "Evaluation of CO₂/hydrocarbon selectivity in phosphonium-based ionic liquids."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
+    }
+  },
+  {
+    "year": 2022,
+    "type": "peer-reviewed",
+    "authors": "N. Kuroki, Y. Uchino, T. Funakura, and H. Mori",
+    "title": "Electronic Fluctuation in Physiological Solutions: Trimethylamine N-Oxide and tert-Butyl Alcohol",
+    "journal": "Scientific Reports",
+    "volume": "12",
+    "issue": "",
+    "pages": "19417",
+    "doi": "10.1038/s41598-022-24049-0",
+    "url": "https://doi.org/10.1038/s41598-022-24049-0",
+    "category": "Complex Systems Quantum Chemistry",
+    "selected": false,
+    "badges": [
+      "Open Access"
+    ],
+    "image": "assets/images/pub-qmmm.svg",
+    "summary": {
+      "ja": "TMAOおよびtert-ブチルアルコール水溶液を対象に、溶液構造に伴って揺らぐ溶質・溶媒の電子状態を解析した。",
+      "en": "Electronic fluctuations in physiological solutions containing TMAO and tert-butyl alcohol."
+    },
+    "pillar": {
+      "id": "adaptive",
+      "number": "02",
+      "ja": "複雑系量子化学",
+      "en": "Complex Systems Quantum Chemistry"
     }
   },
   {
@@ -323,50 +544,14 @@
     "badges": [],
     "image": "assets/images/pub-informatics.svg",
     "summary": {
-      "ja": "GIAO NMR計算とDP4/DP4+解析による海洋マクロライド天然物の立体化学帰属。",
+      "ja": "GIAO NMR計算とDP4／DP4+解析の信頼性を検証し、海洋マクロライド天然物の相対立体配置を帰属した。",
       "en": "GIAO NMR and DP4/DP4+ analyses for stereochemical assignment of marine macrolide natural products."
-    }
-  },
-  {
-    "year": 2022,
-    "type": "peer-reviewed",
-    "authors": "N. Kuroki, Y. Uchino, T. Funakura, and H. Mori",
-    "title": "Electronic Fluctuation in Physiological Solutions: Trimethylamine N-Oxide and tert-Butyl Alcohol",
-    "journal": "Scientific Reports",
-    "volume": "12",
-    "issue": "",
-    "pages": "19417",
-    "doi": "10.1038/s41598-022-24049-0",
-    "url": "https://doi.org/10.1038/s41598-022-24049-0",
-    "category": "Adaptive Quantum Simulation",
-    "selected": false,
-    "badges": [
-      "Open Access"
-    ],
-    "image": "assets/images/pub-qmmm.svg",
-    "summary": {
-      "ja": "生理溶液中のTMAOとtert-ブチルアルコールにおける電子揺らぎを解析。",
-      "en": "Electronic fluctuations in physiological solutions containing TMAO and tert-butyl alcohol."
-    }
-  },
-  {
-    "year": 2022,
-    "type": "peer-reviewed",
-    "authors": "Y. Suzuki, D. Kodama, H. Mori, N. Kuroki, F. Chowdhury, and H. Yamada",
-    "title": "CO2/Hydrocarbon Selectivity of Trihexyl(tetradecyl)phosphonium-Based Ionic Liquids",
-    "journal": "Industrial & Engineering Chemistry Research",
-    "volume": "61",
-    "issue": "",
-    "pages": "16584–16592",
-    "doi": "10.1021/acs.iecr.2c02281",
-    "url": "https://doi.org/10.1021/acs.iecr.2c02281",
-    "category": "Molecular and Materials Discovery",
-    "selected": false,
-    "badges": [],
-    "image": "assets/images/pub-co2.svg",
-    "summary": {
-      "ja": "ホスホニウム系イオン液体のCO2／炭化水素選択性を評価。",
-      "en": "Evaluation of CO2/hydrocarbon selectivity in phosphonium-based ionic liquids."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
     }
   },
   {
@@ -380,15 +565,1713 @@
     "pages": "176",
     "doi": "10.1038/s41524-022-00860-1",
     "url": "https://doi.org/10.1038/s41524-022-00860-1",
-    "category": "Electronic-State Intelligence",
+    "category": "Electronic-State Informatics",
     "selected": false,
     "badges": [
       "Open Access"
     ],
     "image": "assets/images/pub-informatics.svg",
     "summary": {
-      "ja": "機械学習を用いてシングレットフィッション材料の設計原理を探索。",
+      "ja": "機械学習と量子化学計算を組み合わせ、シバラクロット誘導体におけるシングレットフィッション材料の設計原理を探索した。",
       "en": "Machine-learning-assisted discovery of design principles for singlet-fission materials."
+    },
+    "pillar": {
+      "id": "intelligence",
+      "number": "01",
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
+    }
+  },
+  {
+    "year": 2021,
+    "type": "peer-reviewed",
+    "authors": "N. Kuroki and H. Mori",
+    "title": "Comprehensive Physical Chemistry Learning Based on Blended Learning: A New Laboratory Course",
+    "journal": "Journal of Chemical Education",
+    "volume": "98",
+    "issue": "12",
+    "pages": "3864–3870",
+    "doi": "10.1021/acs.jchemed.1c00666",
+    "url": "https://doi.org/10.1021/acs.jchemed.1c00666",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [
+      "Inside Cover",
+      "Open Access"
+    ],
+    "image": "",
+    "summary": {
+      "ja": "反転学習用動画、クラウド計算環境、遠隔会議システムを組み合わせ、実験・量子化学計算・データ科学を横断的に学ぶ物理化学実験科目を構築した。",
+      "en": "This study investigates Comprehensive Physical Chemistry Learning Based on Blended Learning: A New Laboratory Course using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2021,
+    "type": "peer-reviewed",
+    "authors": "R. Miyake, E. Suganuma, S. Kimura, H. Mori, J. Okabayashi, and T. Kusamoto",
+    "title": "Cyclic Heterometallic Interactions Formed from a Flexible Tripeptide Complex Showing Effective Antiferromagnetic Spin Coupling",
+    "journal": "Angewandte Chemie International Edition",
+    "volume": "60",
+    "issue": "",
+    "pages": "5179–5183",
+    "doi": "10.1002/anie.202013373",
+    "url": "https://doi.org/10.1002/anie.202013373",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "柔軟なトリペプチド配位子が形成する異種金属環状構造を解析し、金属間の反強磁性的スピン結合を明らかにした。",
+      "en": "This study investigates Cyclic Heterometallic Interactions Formed from a Flexible Tripeptide Complex Showing Effective Antiferromagnetic Spin Coupling using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2021,
+    "type": "peer-reviewed",
+    "authors": "K. Abe, A. Nakada, T. Matsumoto, D. Uchijyo, H. Mori, and H.-C. Chang",
+    "title": "Functional-Group-Directed Photochemical Reactions of Aromatic Alcohols, Amines, and Thiols Triggered by Excited-State Hydrogen Detachment: Additive-Free Oligomerization, Disulfidation, and C(sp2)–H Carboxylation with CO₂",
+    "journal": "The Journal of Organic Chemistry",
+    "volume": "86",
+    "issue": "",
+    "pages": "959–969",
+    "doi": "10.1021/acs.joc.0c02456",
+    "url": "https://doi.org/10.1021/acs.joc.0c02456",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "励起状態での水素脱離を利用し、芳香族アルコール・アミン・チオールから添加剤なしで多様な光化学反応を誘起した。",
+      "en": "This study investigates Functional-Group-Directed Photochemical Reactions of Aromatic Alcohols, Amines, and Thiols Triggered by Excited-State Hydrogen Detachment: Additive-Free Oligomerization, Disulfidation, and C(sp2)–H Carboxylation with CO₂ using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2021,
+    "type": "peer-reviewed",
+    "authors": "T. Ono, K. Kimura, M. Ihara, Y. Yamanaka, M. Sasaki, H. Mori, and Y. Hisaeda",
+    "title": "Room-Temperature Phosphorescence Emitters Exhibiting Red to Near-Infrared Emission Derived from Intermolecular Charge-Transfer Triplet States of Naphthalenediimide–Halobenzoate Triad Molecules",
+    "journal": "Chemistry – A European Journal",
+    "volume": "27",
+    "issue": "",
+    "pages": "9335–9341",
+    "doi": "10.1002/chem.202100906",
+    "url": "https://doi.org/10.1002/chem.202100906",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [
+      "Front Cover"
+    ],
+    "image": "",
+    "summary": {
+      "ja": "分子間電荷移動三重項状態を利用し、赤色から近赤外域に発光する室温リン光分子の設計原理を示した。",
+      "en": "This study investigates Room-Temperature Phosphorescence Emitters Exhibiting Red to Near-Infrared Emission Derived from Intermolecular Charge-Transfer Triplet States of Naphthalenediimide–Halobenzoate Triad Molecules using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2020,
+    "type": "peer-reviewed",
+    "authors": "K. Urushibara, T. Yamada, A. Yokoyama, H. Mori, H. Masu, I. Azumaya, H. Kagechika, T. Yokozawa, and A. Tanatani",
+    "title": "Development of Helical Aromatic Amide Foldamers with a Diphenylacetylene Backbone",
+    "journal": "The Journal of Organic Chemistry",
+    "volume": "85",
+    "issue": "",
+    "pages": "2019–2039",
+    "doi": "10.1021/acs.joc.9b02758",
+    "url": "https://doi.org/10.1021/acs.joc.9b02758",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ジフェニルアセチレン骨格をもつ芳香族アミドオリゴマーを合成し、安定なヘリカル構造を形成する要因を解析した。",
+      "en": "This study investigates Development of Helical Aromatic Amide Foldamers with a Diphenylacetylene Backbone using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2020,
+    "type": "peer-reviewed",
+    "authors": "N. Kuroki, S. Maruyama, and H. Mori",
+    "title": "Theoretical Strategy for Improving CO₂ Absorption of Mixed Ionic Liquids Focusing on the Anion Effect: A Comprehensive COSMO-RS Study",
+    "journal": "Industrial & Engineering Chemistry Research",
+    "volume": "59",
+    "issue": "",
+    "pages": "8848–8854",
+    "doi": "10.1021/acs.iecr.0c00488",
+    "url": "https://doi.org/10.1021/acs.iecr.0c00488",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [
+      "Inside Cover"
+    ],
+    "image": "",
+    "summary": {
+      "ja": "COSMO-RS計算により混合イオン液体のアニオン効果を系統的に評価し、CO₂吸収性能を向上させる設計指針を示した。",
+      "en": "This study investigates Theoretical Strategy for Improving CO₂ Absorption of Mixed Ionic Liquids Focusing on the Anion Effect: A Comprehensive COSMO-RS Study using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2019,
+    "type": "peer-reviewed",
+    "authors": "N. Kuroki and H. Mori",
+    "title": "Applicability of Effective Fragment Potential Version 2–Molecular Dynamics (EFP2-MD) Simulations for Predicting Dynamic Liquid Properties Including Supercritical Fluid Phase",
+    "journal": "The Journal of Physical Chemistry B",
+    "volume": "123",
+    "issue": "",
+    "pages": "194–200",
+    "doi": "10.1021/acs.jpcb.8b07446",
+    "url": "https://doi.org/10.1021/acs.jpcb.8b07446",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [
+      "Inside Cover",
+      "Most Downloaded"
+    ],
+    "image": "",
+    "summary": {
+      "ja": "EFP2-MD法を液体から超臨界流体まで適用し、拡散や動的物性を第一原理的に予測できる可能性を検証した。",
+      "en": "This study investigates Applicability of Effective Fragment Potential Version 2–Molecular Dynamics (EFP2-MD) Simulations for Predicting Dynamic Liquid Properties Including Supercritical Fluid Phase using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2019,
+    "type": "peer-reviewed",
+    "authors": "C. Masuda and N. Kuroki",
+    "title": "Statistical Thermodynamics Database Construction to Search for Novel Ionic Liquids with Gas Selectivity",
+    "journal": "Journal of Computer Chemistry, Japan",
+    "volume": "18",
+    "issue": "",
+    "pages": "217–220",
+    "doi": "10.2477/jccj.2019-0046",
+    "url": "https://doi.org/10.2477/jccj.2019-0046",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "COSMO-RS法により68,775種のイオン液体に対する15種類の気体のHenry定数を計算し、ガス分離材料探索のための第一原理データベースを構築するとともに、吸収能の予測にはイオンの幾何構造と電子状態の双方が重要であることを示した。",
+      "en": "This study investigates Statistical Thermodynamics Database Construction to Search for Novel Ionic Liquids with Gas Selectivity using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2019,
+    "type": "peer-reviewed",
+    "authors": "K. Yamada, H. Mori, T. Sugaya, M. Tadokoro, J. Maeba, K. Nozaki, and M. Haga",
+    "title": "Synthesis, X-ray Structure, Photophysical Properties, and Theoretical Studies of Six-Membered Cyclometalated Iridium(III) Complexes: Revisiting Ir(pnbi)2(acac)",
+    "journal": "Dalton Transactions",
+    "volume": "48",
+    "issue": "",
+    "pages": "15212–15219",
+    "doi": "10.1039/C9DT03392K",
+    "url": "https://doi.org/10.1039/C9DT03392K",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "六員環シクロメタル化イリジウム錯体の構造と発光特性を、合成・結晶構造解析・量子化学計算から再検討した。",
+      "en": "This study investigates Synthesis, X-ray Structure, Photophysical Properties, and Theoretical Studies of Six-Membered Cyclometalated Iridium(III) Complexes: Revisiting Ir(pnbi)2(acac) using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2018,
+    "type": "peer-reviewed",
+    "authors": "N. Kuroki and H. Mori",
+    "title": "Applicability of Effective Fragment Potential Version 2–Molecular Dynamics (EFP2-MD) Simulations for Predicting Excess Properties of Mixed Solvents",
+    "journal": "Chemical Physics Letters",
+    "volume": "694",
+    "issue": "",
+    "pages": "82–85",
+    "doi": "10.1016/j.cplett.2018.01.042",
+    "url": "https://doi.org/10.1016/j.cplett.2018.01.042",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [
+      "Frontiers Article"
+    ],
+    "image": "",
+    "summary": {
+      "ja": "EFP2-MD法を混合溶媒に適用し、過剰体積や過剰エンタルピーなどの非理想混合物性の再現性を検証した。",
+      "en": "This study investigates Applicability of Effective Fragment Potential Version 2–Molecular Dynamics (EFP2-MD) Simulations for Predicting Excess Properties of Mixed Solvents using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2018,
+    "type": "peer-reviewed",
+    "authors": "Y. Tojo, K. Urushibara, S. Yamamoto, H. Mori, H. Masu, M. Kudo, T. Hirano, I. Azumaya, H. Kagechika, and A. Tanatani",
+    "title": "Conformational Properties of Aromatic Oligoamides Bearing Pyrrole Rings",
+    "journal": "The Journal of Organic Chemistry",
+    "volume": "83",
+    "issue": "",
+    "pages": "4606–4617",
+    "doi": "10.1021/acs.joc.8b00349",
+    "url": "https://doi.org/10.1021/acs.joc.8b00349",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ピロール環を含む芳香族オリゴアミドの配座特性を解析し、分子内相互作用が折りたたみ構造に与える影響を示した。",
+      "en": "This study investigates Conformational Properties of Aromatic Oligoamides Bearing Pyrrole Rings using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2018,
+    "type": "peer-reviewed",
+    "authors": "H. Sato, K. Takimoto, H. Mori, and A. Yamagishi",
+    "title": "Stereoselective Interactions as Revealed by Vibrational Circular Dichroism: Interplay of Chiral Metal Complexes Co-adsorbed in a Montmorillonite Clay",
+    "journal": "Physical Chemistry Chemical Physics",
+    "volume": "20",
+    "issue": "",
+    "pages": "25421–25427",
+    "doi": "10.1039/C8CP04753G",
+    "url": "https://doi.org/10.1039/C8CP04753G",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "モンモリロナイト粘土上に共吸着したキラル金属錯体間の立体選択的相互作用を、振動円二色性と計算から解明した。",
+      "en": "This study investigates Stereoselective Interactions as Revealed by Vibrational Circular Dichroism: Interplay of Chiral Metal Complexes Co-adsorbed in a Montmorillonite Clay using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2018,
+    "type": "peer-reviewed",
+    "authors": "K. Urushibara, H. Masu, H. Mori, I. Azumaya, T. Hirano, H. Kagechika, and A. Tanatani",
+    "title": "Synthesis and Conformational Analysis of Alternately N-Alkylated Aromatic Amide Oligomers",
+    "journal": "The Journal of Organic Chemistry",
+    "volume": "83",
+    "issue": "",
+    "pages": "14338–14349",
+    "doi": "10.1021/acs.joc.8b02045",
+    "url": "https://doi.org/10.1021/acs.joc.8b02045",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "交互にN-アルキル化した芳香族アミドオリゴマーを合成し、置換様式による配座制御の機構を解析した。",
+      "en": "This study investigates Synthesis and Conformational Analysis of Alternately N-Alkylated Aromatic Amide Oligomers using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2017,
+    "type": "peer-reviewed",
+    "authors": "K. Miyazaki and H. Mori",
+    "title": "Origin of High Oxygen Reduction Reaction Activity of Pt₁₂ and Strategy to Obtain Better Catalyst Using Subnanosized Pt-Alloy Clusters",
+    "journal": "Scientific Reports",
+    "volume": "7",
+    "issue": "",
+    "pages": "45381",
+    "doi": "10.1038/srep45381",
+    "url": "https://doi.org/10.1038/srep45381",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "Pt₁₂クラスターの高い酸素還元活性の電子的起源を明らかにし、サブナノ合金クラスターによる高活性触媒設計を提案した。",
+      "en": "This study investigates Origin of High Oxygen Reduction Reaction Activity of Pt₁₂ and Strategy to Obtain Better Catalyst Using Subnanosized Pt-Alloy Clusters using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2016,
+    "type": "peer-reviewed",
+    "authors": "N. Kuroki and H. Mori",
+    "title": "Effective Fragment Potential Version 2–Molecular Dynamics (EFP2-MD) Simulation for Investigating Solution Structures of Ionic Liquids",
+    "journal": "Chemistry Letters",
+    "volume": "45",
+    "issue": "",
+    "pages": "1009–1011",
+    "doi": "10.1246/cl.160366",
+    "url": "https://doi.org/10.1246/cl.160366",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "EFP2-MD法をイオン液体へ適用し、分極や分子間相互作用を考慮した溶液構造解析の有効性を示した。",
+      "en": "This study investigates Effective Fragment Potential Version 2–Molecular Dynamics (EFP2-MD) Simulation for Investigating Solution Structures of Ionic Liquids using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2016,
+    "type": "peer-reviewed",
+    "authors": "A. Matsuda and H. Mori",
+    "title": "Theoretical Study on Crystal-Facet Dependency of Hydrogen Storage Rate for Shape-Controlled Pd Nanoparticles",
+    "journal": "Chemical Physics Letters",
+    "volume": "644",
+    "issue": "",
+    "pages": "255–260",
+    "doi": "10.1016/j.cplett.2015.12.021",
+    "url": "https://doi.org/10.1016/j.cplett.2015.12.021",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "形状制御パラジウムナノ粒子における水素吸蔵速度の結晶面依存性を解析し、表面構造と反応性の関係を示した。",
+      "en": "This study investigates Theoretical Study on Crystal-Facet Dependency of Hydrogen Storage Rate for Shape-Controlled Pd Nanoparticles using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学とデータ科学の融合への転換期",
+      "en": "Transition toward integrated quantum chemistry and data science"
+    }
+  },
+  {
+    "year": 2015,
+    "type": "proceedings",
+    "authors": "T. Fujiwara, H. Mori, Y. Komeiji, and Y. Mochizuki",
+    "title": "Fragment Molecular Orbital-Based Molecular Dynamics Study on Hydrated Ln(III) Ions",
+    "journal": "JPS Conference Proceedings",
+    "volume": "5",
+    "issue": "",
+    "pages": "011001",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "FMO-MD法により水和ランタノイド三価イオンの溶媒和構造と動的挙動を解析した。",
+      "en": "This study investigates Fragment Molecular Orbital-Based Molecular Dynamics Study on Hydrated Ln(III) Ions using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "大規模分子・溶液シミュレーション",
+      "en": "Large-scale molecular and solution simulation"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "peer-reviewed",
+    "authors": "A. Matsuda and H. Mori",
+    "title": "A Quantum Chemical Study on Hydration of Ra(II): Comparison with the Other Hydrated Divalent Alkaline Earth Metal Ions",
+    "journal": "Journal of Computer Chemistry, Japan",
+    "volume": "13",
+    "issue": "",
+    "pages": "105–113",
+    "doi": "10.2477/jccj.2013-0011",
+    "url": "https://doi.org/10.2477/jccj.2013-0011",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ラジウム二価イオンの水和構造を量子化学的に解析し、他のアルカリ土類金属イオンとの違いを比較した。",
+      "en": "This study investigates A Quantum Chemical Study on Hydration of Ra(II): Comparison with the Other Hydrated Divalent Alkaline Earth Metal Ions using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "溶液・水和構造の量子化学",
+      "en": "Quantum chemistry of solvation and hydration"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "peer-reviewed",
+    "authors": "M. Tanaka and H. Mori",
+    "title": "Electronic Structures of Platinum(II) Complexes with 2-Arylpyridine and 1,3-Diketonate Ligands: A Relativistic Density Functional Study on Photoexcitation and Phosphorescent Properties",
+    "journal": "The Journal of Physical Chemistry C",
+    "volume": "118",
+    "issue": "",
+    "pages": "12443–12449",
+    "doi": "10.1021/jp500484a",
+    "url": "https://doi.org/10.1021/jp500484a",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "白金(II)錯体の励起状態とリン光特性を相対論的DFT計算で解析し、配位子構造と発光特性の関係を示した。",
+      "en": "This study investigates Electronic Structures of Platinum(II) Complexes with 2-Arylpyridine and 1,3-Diketonate Ligands: A Relativistic Density Functional Study on Photoexcitation and Phosphorescent Properties using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的電子状態理論と光機能",
+      "en": "Relativistic electronic-structure theory and photofunctions"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "peer-reviewed",
+    "authors": "Y. Kato, T. Fujiwara, Y. Komeiji, T. Nakano, H. Mori, Y. Okiyama, and Y. Mochizuki",
+    "title": "Fragment Molecular Orbital-Based Molecular Dynamics (FMO-MD) Simulations on Hydrated Cu(II) Ion",
+    "journal": "Chem-Bio Informatics Journal",
+    "volume": "14",
+    "issue": "",
+    "pages": "1–13",
+    "doi": "10.1273/cbij.14.1",
+    "url": "https://doi.org/10.1273/cbij.14.1",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "FMO-MD法を用いて水和銅(II)イオンの配位構造と水分子交換を動的に解析した。",
+      "en": "This study investigates Fragment Molecular Orbital-Based Molecular Dynamics (FMO-MD) Simulations on Hydrated Cu(II) Ion using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "大規模分子・溶液シミュレーション",
+      "en": "Large-scale molecular and solution simulation"
+    }
+  },
+  {
+    "year": 2014,
+    "type": "peer-reviewed",
+    "authors": "A. Matsuda and H. Mori",
+    "title": "Theoretical Study on Hydration Structure of Divalent Radium Ion Using Fragment Molecular Orbital–Molecular Dynamics (FMO-MD) Simulation",
+    "journal": "Journal of Solution Chemistry",
+    "volume": "43",
+    "issue": "",
+    "pages": "1669–1675",
+    "doi": "10.1007/s10953-014-0235-7",
+    "url": "https://doi.org/10.1007/s10953-014-0235-7",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "FMO-MDシミュレーションにより、ラジウム二価イオン周囲の水和数と動的水和構造を評価した。",
+      "en": "This study investigates Theoretical Study on Hydration Structure of Divalent Radium Ion Using Fragment Molecular Orbital–Molecular Dynamics (FMO-MD) Simulation using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "大規模分子・溶液シミュレーション",
+      "en": "Large-scale molecular and solution simulation"
+    }
+  },
+  {
+    "year": 2013,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, R. Kojima, Y. Mochizuki, W. Uenohara, I. Umezawa, and N. Matsushita",
+    "title": "Importance of Spin–Orbit Coupling Effect and Solvent Effect in Electronic Transition Assignments of Pt(II) Complexes: The Case of cis/trans-[PtCl₂(NH₃)₂]",
+    "journal": "Journal of Molecular Structure",
+    "volume": "1035",
+    "issue": "",
+    "pages": "218–223",
+    "doi": "10.1016/j.molstruc.2012.11.027",
+    "url": "https://doi.org/10.1016/j.molstruc.2012.11.027",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "シスプラチンおよびトランスプラチンの電子遷移帰属において、スピン–軌道相互作用と溶媒効果が不可欠であることを示した。",
+      "en": "This study investigates Importance of Spin–Orbit Coupling Effect and Solvent Effect in Electronic Transition Assignments of Pt(II) Complexes: The Case of cis/trans-[PtCl₂(NH₃)₂] using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的電子状態理論と光機能",
+      "en": "Relativistic electronic-structure theory and photofunctions"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, T. Zeng, and M. Klobukowski",
+    "title": "Assessment of Chemical Core Potentials for the Computation of Enthalpies of Formation of Transition-Metal Complexes",
+    "journal": "Chemical Physics Letters",
+    "volume": "521",
+    "issue": "",
+    "pages": "150–156",
+    "doi": "10.1016/j.cplett.2011.11.044",
+    "url": "https://doi.org/10.1016/j.cplett.2011.11.044",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "遷移金属錯体の生成エンタルピー計算について、化学的コアポテンシャルの精度と適用性を体系的に評価した。",
+      "en": "This study investigates Assessment of Chemical Core Potentials for the Computation of Enthalpies of Formation of Transition-Metal Complexes using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, N. Hirayama, Y. Komeiji, and Y. Mochizuki",
+    "title": "Differences in Hydration between cis- and trans-Platin: Quantum Insights by ab Initio Fragment Molecular Orbital-Based Molecular Dynamics (FMO-MD)",
+    "journal": "Computational and Theoretical Chemistry",
+    "volume": "986",
+    "issue": "",
+    "pages": "30–34",
+    "doi": "10.1016/j.comptc.2012.02.008",
+    "url": "https://doi.org/10.1016/j.comptc.2012.02.008",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "FMO-MD法によりシスプラチンとトランスプラチンの水和構造を比較し、異性体間で異なる溶媒応答を明らかにした。",
+      "en": "This study investigates Differences in Hydration between cis- and trans-Platin: Quantum Insights by ab Initio Fragment Molecular Orbital-Based Molecular Dynamics (FMO-MD) using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "大規模分子・溶液シミュレーション",
+      "en": "Large-scale molecular and solution simulation"
+    }
+  },
+  {
+    "year": 2012,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, Y. Odahara, D. Shigyo, T. Yoshitake, and E. Miyoshi",
+    "title": "Electronic Band Structure Calculations on Thin Films of the L21 Full-Heusler Alloys X₂YSi (X, Y = Mn, Fe, and Co): Toward Spintronic Materials",
+    "journal": "Thin Solid Films",
+    "volume": "520",
+    "issue": "",
+    "pages": "4979–4983",
+    "doi": "10.1016/j.tsf.2012.03.045",
+    "url": "https://doi.org/10.1016/j.tsf.2012.03.045",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "フルホイスラー合金薄膜の電子バンド構造を計算し、スピントロニクス材料としての電子的特性を評価した。",
+      "en": "This study investigates Electronic Band Structure Calculations on Thin Films of the L21 Full-Heusler Alloys X₂YSi (X, Y = Mn, Fe, and Co): Toward Spintronic Materials using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "peer-reviewed",
+    "authors": "T. Fujiwara, H. Mori, Y. Mochizuki, Y. Osanai, and E. Miyoshi",
+    "title": "4f-in-Core Model Core Potentials for Trivalent Lanthanides",
+    "journal": "Chemical Physics Letters",
+    "volume": "510",
+    "issue": "",
+    "pages": "261–266",
+    "doi": "10.1016/j.cplett.2011.05.028",
+    "url": "https://doi.org/10.1016/j.cplett.2011.05.028",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "4f電子を内殻に含めるモデルコアポテンシャルを三価ランタノイドへ展開し、効率的な電子状態計算を可能にした。",
+      "en": "This study investigates 4f-in-Core Model Core Potentials for Trivalent Lanthanides using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "peer-reviewed",
+    "authors": "H. Mori and K. Ueno-Noto",
+    "title": "A Theoretical Study of the Physicochemical Mechanisms Associated with DNA Recognition Modulation in Artificial Zinc-Finger Proteins",
+    "journal": "The Journal of Physical Chemistry B",
+    "volume": "115",
+    "issue": "",
+    "pages": "4774–4780",
+    "doi": "10.1021/jp1097348",
+    "url": "https://doi.org/10.1021/jp1097348",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "人工ジンクフィンガータンパク質によるDNA認識の変化を解析し、配列選択性を左右する物理化学的要因を示した。",
+      "en": "This study investigates A Theoretical Study of the Physicochemical Mechanisms Associated with DNA Recognition Modulation in Artificial Zinc-Finger Proteins using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "peer-reviewed",
+    "authors": "E. Nozaki, M. Gotoh, S. Hanazawa, H. Mori, S. Kobayashi, and K. Murakami-Murofushi",
+    "title": "Comparison of Inhibitory Activities of Stereoisomers of Cyclic Phosphatidic Acid (cPA) on Autotaxin",
+    "journal": "Cytologia",
+    "volume": "76",
+    "issue": "",
+    "pages": "73–80",
+    "doi": "10.1508/cytologia.76.73",
+    "url": "https://doi.org/10.1508/cytologia.76.73",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "cPA誘導体の立体異性体によるオートタキシン阻害活性を実験とQM/MM計算から比較し、2-carba-cPAが高い阻害活性を示す一方、そのキラリティーは阻害活性に大きく影響しないことを示した。",
+      "en": "This study investigates Comparison of Inhibitory Activities of Stereoisomers of Cyclic Phosphatidic Acid (cPA) on Autotaxin using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "peer-reviewed",
+    "authors": "M. Otsuka, H. Mori, H. Kikuchi, and K. Takano",
+    "title": "Density Functional Theory Calculations of Iodine Cluster Anions: Structures, Chemical Bonding Nature, and Vibrational Spectra",
+    "journal": "Computational and Theoretical Chemistry",
+    "volume": "973",
+    "issue": "",
+    "pages": "69–75",
+    "doi": "10.1016/j.comptc.2011.07.002",
+    "url": "https://doi.org/10.1016/j.comptc.2011.07.002",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ヨウ素クラスターアニオンの安定構造、化学結合性、振動スペクトルをDFT計算により解析した。",
+      "en": "This study investigates Density Functional Theory Calculations of Iodine Cluster Anions: Structures, Chemical Bonding Nature, and Vibrational Spectra using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "peer-reviewed",
+    "authors": "A. Matsuda and H. Mori",
+    "title": "Theoretical Study of Lanthanide Monocation-Mediated C–F Bond Activation",
+    "journal": "Chemical Physics",
+    "volume": "380",
+    "issue": "",
+    "pages": "48–53",
+    "doi": "10.1016/j.chemphys.2010.12.005",
+    "url": "https://doi.org/10.1016/j.chemphys.2010.12.005",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ランタノイド一価イオンによるC–F結合活性化の反応経路と電子的駆動力を量子化学的に解析した。",
+      "en": "This study investigates Theoretical Study of Lanthanide Monocation-Mediated C–F Bond Activation using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2011,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, A. Yamagishi, and H. Sato",
+    "title": "Theoretical Study on Vibrational Circular Dichroism Spectra of Tris(acetylacetonato)metal(III) Complexes: Anharmonic Effects and Low-Lying Excited States",
+    "journal": "The Journal of Chemical Physics",
+    "volume": "135",
+    "issue": "",
+    "pages": "084506",
+    "doi": "10.1063/1.3624605",
+    "url": "https://doi.org/10.1063/1.3624605",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "金属アセチルアセトナート錯体のVCDスペクトルに対する非調和性と低励起状態の影響を明らかにした。",
+      "en": "This study investigates Theoretical Study on Vibrational Circular Dichroism Spectra of Tris(acetylacetonato)metal(III) Complexes: Anharmonic Effects and Low-Lying Excited States using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2010,
+    "type": "peer-reviewed",
+    "authors": "T. Fujiwara, Y. Mochizuki, Y. Komeiji, Y. Okiyama, H. Mori, and E. Miyoshi",
+    "title": "Fragment Molecular Orbital-Based Molecular Dynamics (FMO-MD) Simulations on Hydrated Zn(II) Ion",
+    "journal": "Chemical Physics Letters",
+    "volume": "490",
+    "issue": "",
+    "pages": "41–45",
+    "doi": "10.1016/j.cplett.2010.03.020",
+    "url": "https://doi.org/10.1016/j.cplett.2010.03.020",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "FMO-MD法により水和亜鉛(II)イオンの配位構造と周囲の水分子の動的挙動を解析した。",
+      "en": "This study investigates Fragment Molecular Orbital-Based Molecular Dynamics (FMO-MD) Simulations on Hydrated Zn(II) Ion using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "大規模分子・溶液シミュレーション",
+      "en": "Large-scale molecular and solution simulation"
+    }
+  },
+  {
+    "year": 2010,
+    "type": "peer-reviewed",
+    "authors": "A. Fitzsimmons, H. Mori, E. Miyoshi, and M. Klobukowski",
+    "title": "Model Core Potential Studies of Molecules Containing Rare Gas Atoms",
+    "journal": "The Journal of Physical Chemistry A",
+    "volume": "114",
+    "issue": "",
+    "pages": "8786–8792",
+    "doi": "10.1021/jp101765m",
+    "url": "https://doi.org/10.1021/jp101765m",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "希ガス元素を含む分子にモデルコアポテンシャルを適用し、構造・結合・分光特性の計算精度を評価した。",
+      "en": "This study investigates Model Core Potential Studies of Molecules Containing Rare Gas Atoms using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2010,
+    "type": "peer-reviewed",
+    "authors": "T. Fujiwara, H. Mori, Y. Mochizuki, H. Tatewaki, and E. Miyoshi",
+    "title": "Theoretical Study of Hydration Models of Trivalent Rare-Earth Ions Using Model Core Potentials",
+    "journal": "Journal of Molecular Structure: THEOCHEM",
+    "volume": "949",
+    "issue": "",
+    "pages": "28–35",
+    "doi": "10.1016/j.theochem.2010.02.032",
+    "url": "https://doi.org/10.1016/j.theochem.2010.02.032",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "モデルコアポテンシャルを用いて三価希土類イオンの水和モデルを比較し、イオン半径と水和構造の関係を解析した。",
+      "en": "This study investigates Theoretical Study of Hydration Models of Trivalent Rare-Earth Ions Using Model Core Potentials using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的電子状態理論と水和構造",
+      "en": "Relativistic electronic structure and hydration"
+    }
+  },
+  {
+    "year": 2009,
+    "type": "proceedings",
+    "authors": "L. Li, J. P. Kenny, M.-S. Wu, K. Huck, A. Gaenko, M. S. Gordon, C. L. Janssen, L. C. McInnes, H. Mori, H. Netzloff, B. Norris, and T. L. Windus",
+    "title": "Adaptive Application Composition in Quantum Chemistry",
+    "journal": "Proceedings of the 5th International Conference on the Quality of Software Architectures (QoSA 2009)",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "目的や計算環境に応じて複数の量子化学コードを適応的に組み合わせ、大規模複雑系の計算を一元的に実行する情報科学的基盤を検討した。",
+      "en": "This study investigates Adaptive Application Composition in Quantum Chemistry using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学ソフトウェアと高性能計算",
+      "en": "Quantum chemistry software and high-performance computing"
+    }
+  },
+  {
+    "year": 2009,
+    "type": "peer-reviewed",
+    "authors": "S. Tsukamoto, H. Mori, H. Tatewaki, and E. Miyoshi",
+    "title": "CASSCF and CASPT2 Calculations for Lanthanide Trihalides LnX₃ Using Model Core Potentials",
+    "journal": "Chemical Physics Letters",
+    "volume": "474",
+    "issue": "",
+    "pages": "28–32",
+    "doi": "10.1016/j.cplett.2009.04.018",
+    "url": "https://doi.org/10.1016/j.cplett.2009.04.018",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ランタノイド三ハロゲン化物の多参照電子状態を計算し、モデルコアポテンシャルの適用性を検証した。",
+      "en": "This study investigates CASSCF and CASPT2 Calculations for Lanthanide Trihalides LnX₃ Using Model Core Potentials using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2009,
+    "type": "peer-reviewed",
+    "authors": "T. Zeng, H. Mori, E. Miyoshi, and M. Klobukowski",
+    "title": "Calibration of New Model Core Potentials for Main-Group Elements",
+    "journal": "International Journal of Quantum Chemistry",
+    "volume": "109",
+    "issue": "",
+    "pages": "3235–3245",
+    "doi": "10.1002/qua.22120",
+    "url": "https://doi.org/10.1002/qua.22120",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "典型元素向けの新しいモデルコアポテンシャルを較正し、原子・分子物性に対する再現精度を評価した。",
+      "en": "This study investigates Calibration of New Model Core Potentials for Main-Group Elements using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2009,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, K. Ueno-Noto, Y. Osanai, T. Noro, T. Fujiwara, M. Klobukowski, and E. Miyoshi",
+    "title": "Revised Model Core Potentials for Third-Row Transition-Metal Atoms from Hf to Hg",
+    "journal": "Chemical Physics Letters",
+    "volume": "476",
+    "issue": "",
+    "pages": "317–322",
+    "doi": "10.1016/j.cplett.2009.06.019",
+    "url": "https://doi.org/10.1016/j.cplett.2009.06.019",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "第3遷移系列元素に対する改良型モデルコアポテンシャルを開発し、相対論効果を含む高効率計算を実現した。",
+      "en": "This study investigates Revised Model Core Potentials for Third-Row Transition-Metal Atoms from Hf to Hg using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2009,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, K. Takeshita, E. Miyoshi, and N. Ohta",
+    "title": "Theoretical Quest for Photoconversion Molecules Having Opposite Directions of the Electric Dipole Moment in the S0 and S1 States",
+    "journal": "The Journal of Chemical Physics",
+    "volume": "130",
+    "issue": "",
+    "pages": "184311",
+    "doi": "10.1063/1.3127245",
+    "url": "https://doi.org/10.1063/1.3127245",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "基底状態と励起状態で双極子モーメントが反転する分子を探索し、光誘起電荷移動材料の設計可能性を示した。",
+      "en": "This study investigates Theoretical Quest for Photoconversion Molecules Having Opposite Directions of the Electric Dipole Moment in the S0 and S1 States using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2008,
+    "type": "proceedings",
+    "authors": "M.-S. Wu, H. Mori, J. Bentz, T. Windus, H. Netzloff, M. Sosonkina, and M. S. Gordon",
+    "title": "Constructing a Performance Database for Large-Scale Quantum Chemistry Packages",
+    "journal": "Proceedings of the High Performance Computing and Simulation Symposium (HPCS 2008)",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "大規模複雑系の量子化学計算に必要な複数の計算コードと計算資源を適切に選択・統合するため、量子化学ソフトウェアの性能データベースを構築した。",
+      "en": "This study investigates Constructing a Performance Database for Large-Scale Quantum Chemistry Packages using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "量子化学ソフトウェアと高性能計算",
+      "en": "Quantum chemistry software and high-performance computing"
+    }
+  },
+  {
+    "year": 2008,
+    "type": "peer-reviewed",
+    "authors": "M. Gajewski, J. Tuszynski, H. Mori, E. Miyoshi, and M. Klobukowski",
+    "title": "DFT Studies of the Electronic Structure and Geometry of 18-Crown-6, Hexaaza[18]annulene, and Their Complexes with Cations of the Heavier Alkali and Alkaline-Earth Metals",
+    "journal": "Inorganica Chimica Acta",
+    "volume": "361",
+    "issue": "",
+    "pages": "2166–2171",
+    "doi": "10.1016/j.ica.2007.10.033",
+    "url": "https://doi.org/10.1016/j.ica.2007.10.033",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "大環状配位子と重アルカリ・アルカリ土類金属イオンの錯形成構造と結合性をDFT計算で比較した。",
+      "en": "This study investigates DFT Studies of the Electronic Structure and Geometry of 18-Crown-6, Hexaaza[18]annulene, and Their Complexes with Cations of the Heavier Alkali and Alkaline-Earth Metals using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2008,
+    "type": "peer-reviewed",
+    "authors": "Y. Kataoka, D. Paul, H. Miyake, T. Yaita, E. Miyoshi, H. Mori, S. Tsukamoto, H. Tatewaki, S. Shinoda, and H. Tsukube",
+    "title": "Experimental and Theoretical Approaches toward Anion-Responsive Tripodal Lanthanide Complexes: Mixed-Donor Ligand Effects on Highly Coordinated Complexation and Luminescence Sensing Profiles",
+    "journal": "Chemistry – A European Journal",
+    "volume": "14",
+    "issue": "",
+    "pages": "5258–5266",
+    "doi": "10.1002/chem.200701898",
+    "url": "https://doi.org/10.1002/chem.200701898",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "アニオン応答性ランタノイド錯体の配位構造と発光応答を、実験と理論計算を組み合わせて解明した。",
+      "en": "This study investigates Experimental and Theoretical Approaches toward Anion-Responsive Tripodal Lanthanide Complexes: Mixed-Donor Ligand Effects on Highly Coordinated Complexation and Luminescence Sensing Profiles using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2008,
+    "type": "peer-reviewed",
+    "authors": "H. Mori and E. Miyoshi",
+    "title": "Photo-Induced State Conversion Mechanism for an Optical Durable Molecular Memory with Controlled Hydrogen Bond: A Spin–Orbit CI Study of [Co(2,2′-biimidazole)(C₆H₄O₂)(NH₃)₂]2",
+    "journal": "Bulletin of the Chemical Society of Japan",
+    "volume": "81",
+    "issue": "",
+    "pages": "235–240",
+    "doi": "10.1246/bcsj.81.235",
+    "url": "https://doi.org/10.1246/bcsj.81.235",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "水素結合で制御されたコバルト錯体の光誘起状態変換機構を、スピン–軌道CI計算から明らかにした。",
+      "en": "This study investigates Photo-Induced State Conversion Mechanism for an Optical Durable Molecular Memory with Controlled Hydrogen Bond: A Spin–Orbit CI Study of [Co(2,2′-biimidazole)(C₆H₄O₂)(NH₃)₂]2 using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的電子状態理論と光機能",
+      "en": "Relativistic electronic-structure theory and photofunctions"
+    }
+  },
+  {
+    "year": 2008,
+    "type": "peer-reviewed",
+    "authors": "Y. Osanai, M. S. Mon, T. Noro, H. Mori, H. Nakashima, M. Klobukowski, and E. Miyoshi",
+    "title": "Revised Model Core Potentials for First-Row Transition-Metal Atoms from Sc to Zn",
+    "journal": "Chemical Physics Letters",
+    "volume": "452",
+    "issue": "",
+    "pages": "210–214",
+    "doi": "10.1016/j.cplett.2007.12.019",
+    "url": "https://doi.org/10.1016/j.cplett.2007.12.019",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "第一遷移系列元素用のモデルコアポテンシャルを改良し、分子構造と電子状態の計算精度を向上させた。",
+      "en": "This study investigates Revised Model Core Potentials for First-Row Transition-Metal Atoms from Sc to Zn using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2008,
+    "type": "peer-reviewed",
+    "authors": "Y. Osanai, E. Soejima, T. Noro, H. Mori, M. S. Mon, M. Klobukowski, and E. Miyoshi",
+    "title": "Revised Model Core Potentials for Second-Row Transition-Metal Atoms from Y to Cd",
+    "journal": "Chemical Physics Letters",
+    "volume": "463",
+    "issue": "",
+    "pages": "230–234",
+    "doi": "10.1016/j.cplett.2008.07.091",
+    "url": "https://doi.org/10.1016/j.cplett.2008.07.091",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "第二遷移系列元素に対する改良型モデルコアポテンシャルを開発し、相対論的量子化学計算の効率化を図った。",
+      "en": "This study investigates Revised Model Core Potentials for Second-Row Transition-Metal Atoms from Y to Cd using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2008,
+    "type": "peer-reviewed",
+    "authors": "M. S. Mon, H. Mori, and E. Miyoshi",
+    "title": "Theoretical Study of Low-Lying Electronic States of Mn₂ Using a Newly Developed Relativistic Model Core Potential",
+    "journal": "Chemical Physics Letters",
+    "volume": "462",
+    "issue": "",
+    "pages": "23–26",
+    "doi": "10.1016/j.cplett.2008.07.011",
+    "url": "https://doi.org/10.1016/j.cplett.2008.07.011",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "新規相対論的モデルコアポテンシャルを用いてMn₂の複雑な低励起電子状態を解析した。",
+      "en": "This study investigates Theoretical Study of Low-Lying Electronic States of Mn₂ Using a Newly Developed Relativistic Model Core Potential using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2007,
+    "type": "proceedings",
+    "authors": "Y. Osanai, M. S. Mon, T. Noro, H. Mori, H. Nakashima, M. Klobukowski, and E. Miyoshi",
+    "title": "Application of Newly Developed spdsMCPs for First-Row Transition-Metal Elements",
+    "journal": "Proceedings of the 1st WESEA International Conference on Computational Chemistry",
+    "volume": "",
+    "issue": "",
+    "pages": "14–18",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "第一遷移系列元素用に開発したspds型モデルコアポテンシャルを分子計算へ適用し、その性能を検証した。",
+      "en": "This study investigates Application of Newly Developed spdsMCPs for First-Row Transition-Metal Elements using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2007,
+    "type": "peer-reviewed",
+    "authors": "M. Mine, H. Mori, M. Ogata, S. Tanaka, T. Tsutsui, and E. Miyoshi",
+    "title": "Computational Research on the Electronic Structure of the Benzene Trimer Cation by ab Initio Methods",
+    "journal": "Chemical Physics Letters",
+    "volume": "438",
+    "issue": "",
+    "pages": "157–161",
+    "doi": "10.1016/j.cplett.2007.02.072",
+    "url": "https://doi.org/10.1016/j.cplett.2007.02.072",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ベンゼントリマーカチオンの構造と正電荷の非局在化をab initio計算により解析した。",
+      "en": "This study investigates Computational Research on the Electronic Structure of the Benzene Trimer Cation by ab Initio Methods using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2007,
+    "type": "peer-reviewed",
+    "authors": "T. Zeng, Z. Jamshidi, H. Mori, E. Miyoshi, and M. Klobukowski",
+    "title": "Electron Affinities of Heavier Phosphoryl and Thiophosphoryl Halides APX₃ (A = O, S; X = Br, I)",
+    "journal": "Journal of Computational Chemistry",
+    "volume": "28",
+    "issue": "",
+    "pages": "2027–2033",
+    "doi": "10.1002/jcc.20726",
+    "url": "https://doi.org/10.1002/jcc.20726",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "重元素を含むホスホリル・チオホスホリルハライドの電子親和力を計算し、元素置換効果を明らかにした。",
+      "en": "This study investigates Electron Affinities of Heavier Phosphoryl and Thiophosphoryl Halides APX₃ (A = O, S; X = Br, I) using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2007,
+    "type": "peer-reviewed",
+    "authors": "H. Anjima, S. Tsukamoto, H. Mori, M. Mine, M. Klobukowski, and E. Miyoshi",
+    "title": "Revised Model Core Potentials for s-Block Elements",
+    "journal": "Journal of Computational Chemistry",
+    "volume": "28",
+    "issue": "",
+    "pages": "2424–2430",
+    "doi": "10.1002/jcc.20612",
+    "url": "https://doi.org/10.1002/jcc.20612",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "sブロック元素用モデルコアポテンシャルを改良し、原子・分子物性を効率よく再現する基盤を整備した。",
+      "en": "This study investigates Revised Model Core Potentials for s-Block Elements using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2007,
+    "type": "peer-reviewed",
+    "authors": "H. Mori and E. Miyoshi",
+    "title": "Theoretical Design of a Molecular Switch with Controlled Hydrogen Bond: Electronic and Vibrational Spectra of [Co(2,2′-biimidazole)(C₆H₄O₂)(NH₃)₂]2",
+    "journal": "Bulletin of the Chemical Society of Japan",
+    "volume": "80",
+    "issue": "",
+    "pages": "1335–1340",
+    "doi": "10.1246/bcsj.80.1335",
+    "url": "https://doi.org/10.1246/bcsj.80.1335",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "水素結合と酸化還元状態を利用するコバルト錯体分子スイッチについて、電子・振動スペクトルと動作機構を予測した。",
+      "en": "This study investigates Theoretical Design of a Molecular Switch with Controlled Hydrogen Bond: Electronic and Vibrational Spectra of [Co(2,2′-biimidazole)(C₆H₄O₂)(NH₃)₂]2 using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "電子状態理論と分子光機能",
+      "en": "Electronic-structure theory and molecular photofunctions"
+    }
+  },
+  {
+    "year": 2007,
+    "type": "proceedings",
+    "authors": "H. Nakashima, H. Mori, and E. Miyoshi",
+    "title": "Theoretical Study on Structures of Gold, Silver, and Copper Clusters Using Relativistic Model Core Potentials",
+    "journal": "Proceedings of the 1st WESEA International Conference on Computational Chemistry",
+    "volume": "",
+    "issue": "",
+    "pages": "11–13",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "金・銀・銅クラスターの安定構造を相対論的モデルコアポテンシャルで解析し、金属種による構造差を比較した。",
+      "en": "This study investigates Theoretical Study on Structures of Gold, Silver, and Copper Clusters Using Relativistic Model Core Potentials using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "相対論的モデル内殻ポテンシャル",
+      "en": "Relativistic model core potentials"
+    }
+  },
+  {
+    "year": 2006,
+    "type": "peer-reviewed",
+    "authors": "T. Ishikawa, Y. Mochizuki, K. Imamura, T. Nakano, H. Mori, H. Tokiwa, K. Tanaka, E. Miyoshi, and S. Tanaka",
+    "title": "Application of the Fragment Molecular Orbital Scheme to Silicon-Containing Systems",
+    "journal": "Chemical Physics Letters",
+    "volume": "430",
+    "issue": "",
+    "pages": "361–366",
+    "doi": "10.1016/j.cplett.2006.09.015",
+    "url": "https://doi.org/10.1016/j.cplett.2006.09.015",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "FMO法をケイ素含有分子へ拡張し、重元素を含む大規模系の電子状態計算への適用性を示した。",
+      "en": "This study investigates Application of the Fragment Molecular Orbital Scheme to Silicon-Containing Systems using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "大規模分子計算・フラグメント法",
+      "en": "Large-scale molecular calculations and fragment methods"
+    }
+  },
+  {
+    "year": 2006,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, K. Ishii, and E. Miyoshi",
+    "title": "Electronic Structure and Photochemistry of Inorganic Photochromic Complex [Cu(N,N′-diethylethylenediamine)₂]²⁺: Planar–Tetrahedral Geometry Change Accompanied by d9–d10 Electronic Transition",
+    "journal": "Journal of Theoretical and Computational Chemistry",
+    "volume": "5",
+    "issue": "",
+    "pages": "887–894",
+    "doi": "10.1142/S0219633606002714",
+    "url": "https://doi.org/10.1142/S0219633606002714",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "銅錯体の光誘起平面–四面体構造変化とd⁹–d¹⁰電子状態変換の機構を量子化学的に解析した。",
+      "en": "This study investigates Electronic Structure and Photochemistry of Inorganic Photochromic Complex [Cu(N,N′-diethylethylenediamine)₂]²⁺: Planar–Tetrahedral Geometry Change Accompanied by d9–d10 Electronic Transition using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "理論・計算化学の基盤形成期",
+      "en": "Foundations in theoretical and computational chemistry"
+    }
+  },
+  {
+    "year": 2006,
+    "type": "peer-reviewed",
+    "authors": "T. Ishikawa, Y. Mochizuki, T. Nakano, S. Amari, H. Mori, H. Honda, T. Fujita, H. Tokiwa, S. Tanaka, Y. Komeiji, K. Fukuzawa, K. Tanaka, and E. Miyoshi",
+    "title": "Fragment molecular orbital calculations on large-scale systems containing a heavy-metal atom",
+    "journal": "Chemical Physics Letters",
+    "volume": "427",
+    "issue": "",
+    "pages": "159–165",
+    "doi": "10.1016/j.cplett.2006.06.103",
+    "url": "https://doi.org/10.1016/j.cplett.2006.06.103",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "重金属原子を含む大規模分子系へFMO法を適用し、計算精度と大規模計算への実用性を検証した。",
+      "en": "This study investigates Fragment molecular orbital calculations on large-scale systems containing a heavy-metal atom using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "大規模分子計算・重元素電子状態",
+      "en": "Large-scale molecular calculations and heavy-element electronic structure"
+    }
+  },
+  {
+    "year": 2005,
+    "type": "peer-reviewed",
+    "authors": "E. Miyoshi, H. Mori, R. Hirayama, Y. Osanai, T. Noro, H. Honda, and M. Klobukowski",
+    "title": "Compact and efficient basis sets of s- and p-block elements for model core potential method",
+    "journal": "The Journal of Chemical Physics",
+    "volume": "122",
+    "issue": "7",
+    "pages": "074104",
+    "doi": "10.1063/1.1845392",
+    "url": "https://doi.org/10.1063/1.1845392",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "モデルコアポテンシャル法に適した典型元素用のコンパクトな基底関数を開発し、精度と計算効率を両立した。",
+      "en": "This study investigates Compact and efficient basis sets of s- and p-block elements for model core potential method using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "モデル内殻ポテンシャルと基底関数",
+      "en": "Model core potentials and basis sets"
+    }
+  },
+  {
+    "year": 2005,
+    "type": "peer-reviewed",
+    "authors": "H. Mori and E. Miyoshi",
+    "title": "Possibility of molecular-switch with controlled hydrogen bond: Utility of combination of 2,2′-biimidazole and redox-active ligand",
+    "journal": "Journal of Theoretical and Computational Chemistry",
+    "volume": "4",
+    "issue": "1",
+    "pages": "333–344",
+    "doi": "10.1142/S0219633605001477",
+    "url": "https://doi.org/10.1142/S0219633605001477",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "2,2′-ビイミダゾールと酸化還元活性配位子を組み合わせ、水素結合で制御される分子スイッチの可能性を示した。",
+      "en": "This study investigates Possibility of molecular-switch with controlled hydrogen bond: Utility of combination of 2,2′-biimidazole and redox-active ligand using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "電子状態理論と分子スイッチ",
+      "en": "Electronic-structure theory and molecular switching"
+    }
+  },
+  {
+    "year": 2005,
+    "type": "proceedings",
+    "authors": "T. Tsutsui, X. Liu, Y. Hirayama, N. Katahira, H. Mori, M. Kondo, and E. Miyoshi",
+    "title": "ハイドロキシフェニルベンズオキサゾール誘導体亜鉛錯体の薄膜構造についての再考察",
+    "journal": "有機EL討論会第一回例会論文集",
+    "volume": "",
+    "issue": "",
+    "pages": "17–18",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "量子化学計算を用いて、有機EL用亜鉛錯体が薄膜中と溶液中で異なる会合状態をとり、二量体または単量体として安定化される可能性を示した。",
+      "en": "This study investigates ハイドロキシフェニルベンズオキサゾール誘導体亜鉛錯体の薄膜構造についての再考察 using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "発光材料の電子状態設計",
+      "en": "Electronic-structure design of luminescent materials"
+    }
+  },
+  {
+    "year": 2005,
+    "type": "proceedings",
+    "authors": "M. Kondo, H. Mori, and E. Miyoshi",
+    "title": "有機EL亜鉛錯体の密度汎関数法による理論研究",
+    "journal": "有機EL討論会第二回例会論文集",
+    "volume": "",
+    "issue": "",
+    "pages": "27–28",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "DFT計算により、有機EL用亜鉛錯体の単量体・二量体構造と電子状態を比較し、周囲の環境による会合状態の変化を解析した。",
+      "en": "This study investigates 有機EL亜鉛錯体の密度汎関数法による理論研究 using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "発光材料の電子状態設計",
+      "en": "Electronic-structure design of luminescent materials"
+    }
+  },
+  {
+    "year": 2005,
+    "type": "proceedings",
+    "authors": "H. Mori, M. Kondo, X. Liu, Y. Hirayama, N. Katahira, T. Tsutsui, and E. Miyoshi",
+    "title": "溶媒効果と置換基の立体障害による有機EL材料の電子構造変化―量子化学計算で見る2-(o-hydroxyphenyl)benzoxazole Zn錯体の幾何構造―",
+    "journal": "有機EL討論会第一回例会論文集",
+    "volume": "",
+    "issue": "",
+    "pages": "7–8",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "溶媒効果と置換基の立体障害が、有機EL用亜鉛錯体の単量体・二量体平衡と電子状態に及ぼす影響を量子化学的に解析した。",
+      "en": "This study investigates 溶媒効果と置換基の立体障害による有機EL材料の電子構造変化―量子化学計算で見る2-(o-hydroxyphenyl)benzoxazole Zn錯体の幾何構造― using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "発光材料の電子状態設計",
+      "en": "Electronic-structure design of luminescent materials"
+    }
+  },
+  {
+    "year": 2004,
+    "type": "peer-reviewed",
+    "authors": "H. Mori and E. Miyoshi",
+    "title": "The hydrogen bond of the one-dimensional assembled complex [Ni(2,2′-biimidazole)₂]: The effect of transition metals on the hydrogen bond",
+    "journal": "Bulletin of the Chemical Society of Japan",
+    "volume": "77",
+    "issue": "4",
+    "pages": "687–690",
+    "doi": "10.1246/bcsj.77.687",
+    "url": "https://doi.org/10.1246/bcsj.77.687",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "一次元ニッケル錯体の水素結合構造を解析し、遷移金属中心が水素結合強度と電子状態に与える影響を示した。",
+      "en": "This study investigates The hydrogen bond of the one-dimensional assembled complex [Ni(2,2′-biimidazole)₂]: The effect of transition metals on the hydrogen bond using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "水素結合と分子集合体の電子状態",
+      "en": "Electronic structure of hydrogen-bonded molecular assemblies"
+    }
+  },
+  {
+    "year": 2004,
+    "type": "peer-reviewed",
+    "authors": "H. Mori and E. Miyoshi",
+    "title": "Theoretical design of a new optical durable molecular switch",
+    "journal": "Chemistry Letters",
+    "volume": "33",
+    "issue": "6",
+    "pages": "758–759",
+    "doi": "10.1246/cl.2004.758",
+    "url": "https://doi.org/10.1246/cl.2004.758",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "光照射後も状態を保持できる分子スイッチを理論設計し、水素結合と金属錯体の電子状態変換を利用する原理を提案した。",
+      "en": "This study investigates Theoretical design of a new optical durable molecular switch using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "電子状態理論と分子スイッチ",
+      "en": "Electronic-structure theory and molecular switching"
+    }
+  },
+  {
+    "year": 2003,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, H. Sekiya, E. Miyoshi, K. Mogi, and Y. Sakai",
+    "title": "Effects of intermolecular interaction on proton tunneling: Theoretical study on two-dimensional potential energy surfaces for 9-hydroxyphenalenone–CO₂/H₂O complexes",
+    "journal": "The Journal of Chemical Physics",
+    "volume": "119",
+    "issue": "8",
+    "pages": "4159–4165",
+    "doi": "10.1063/1.1592505",
+    "url": "https://doi.org/10.1063/1.1592505",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "9-ヒドロキシフェナレノンとCO₂／H₂Oの錯形成がプロトントンネルポテンシャルに及ぼす影響を二次元ポテンシャル面から解析した。",
+      "en": "This study investigates Effects of intermolecular interaction on proton tunneling: Theoretical study on two-dimensional potential energy surfaces for 9-hydroxyphenalenone–CO₂/H₂O complexes using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "分子間相互作用とプロトントンネル",
+      "en": "Intermolecular interactions and proton tunneling"
+    }
+  },
+  {
+    "year": 2003,
+    "type": "peer-reviewed",
+    "authors": "E. Miyoshi, T. Iura, Y. Sakai, H. Tochihara, S. Tanaka, and H. Mori",
+    "title": "Molecular orbital study for Na, Mg, and Al adsorption on the Si(111) surface",
+    "journal": "Journal of Molecular Structure: THEOCHEM",
+    "volume": "630",
+    "issue": "1–3",
+    "pages": "225–232",
+    "doi": "10.1016/S0166-1280(03)00172-6",
+    "url": "https://doi.org/10.1016/S0166-1280(03)00172-6",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "Si(111)表面へのNa、Mg、Al吸着を分子軌道計算で比較し、金属種による結合様式と電子構造の違いを示した。",
+      "en": "This study investigates Molecular orbital study for Na, Mg, and Al adsorption on the Si(111) surface using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "表面・界面の電子状態",
+      "en": "Electronic structure of surfaces and interfaces"
+    }
+  },
+  {
+    "year": 2002,
+    "type": "peer-reviewed",
+    "authors": "N. Otsubo, C. Okabe, H. Mori, K. Sakota, K. Amimoto, T. Kawato, and H. Sekiya",
+    "title": "Excited-state intramolecular proton transfer in photochromic jet-cooled N-salicylideneaniline",
+    "journal": "Journal of Photochemistry and Photobiology A: Chemistry",
+    "volume": "154",
+    "issue": "1",
+    "pages": "33–39",
+    "doi": "10.1016/S1010-6030(02)00306-4",
+    "url": "https://doi.org/10.1016/S1010-6030(02)00306-4",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ジェット冷却N-サリチリデンアニリンの励起状態分子内プロトン移動を分光実験と理論計算から解析した。",
+      "en": "This study investigates Excited-state intramolecular proton transfer in photochromic jet-cooled N-salicylideneaniline using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "分子分光と励起状態プロトン移動",
+      "en": "Molecular spectroscopy and excited-state proton transfer"
+    }
+  },
+  {
+    "year": 2002,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, J. Furusawa, and H. Sekiya",
+    "title": "Experimental and theoretical study on proton tunneling in jet-cooled 9-hydroxyphenalenone–CO₂ van der Waals complex",
+    "journal": "Bulletin of the Polish Academy of Sciences: Chemistry",
+    "volume": "50",
+    "issue": "4",
+    "pages": "451–462",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "ジェット冷却錯体の分光測定と理論計算を組み合わせ、CO₂との相互作用がプロトントンネル運動に及ぼす影響を明らかにした。",
+      "en": "This study investigates Experimental and theoretical study on proton tunneling in jet-cooled 9-hydroxyphenalenone–CO₂ van der Waals complex using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "分子分光とプロトントンネル",
+      "en": "Molecular spectroscopy and proton tunneling"
+    }
+  },
+  {
+    "year": 2002,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, H. Kugisaki, Y. Inokuchi, N. Nishi, E. Miyoshi, K. Sakota, K. Ohashi, and H. Sekiya",
+    "title": "LIF and IR dip spectra of jet-cooled p-aminophenol–M (M = CO, N₂): Hydrogen-bonded or van der Waals-bonded structure?",
+    "journal": "The Journal of Physical Chemistry A",
+    "volume": "106",
+    "issue": "19",
+    "pages": "4886–4890",
+    "doi": "10.1021/jp014594j",
+    "url": "https://doi.org/10.1021/jp014594j",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "p-アミノフェノールとCOまたはN₂の錯体について、分光測定と計算から水素結合型かvan der Waals型かを判定した。",
+      "en": "This study investigates LIF and IR dip spectra of jet-cooled p-aminophenol–M (M = CO, N₂): Hydrogen-bonded or van der Waals-bonded structure? using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "分子分光と弱い分子間相互作用",
+      "en": "Molecular spectroscopy and weak intermolecular interactions"
+    }
+  },
+  {
+    "year": 2002,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, H. Kugisaki, Y. Inokuchi, N. Nishi, E. Miyoshi, K. Sakota, K. Ohashi, and H. Sekiya",
+    "title": "Structure and intermolecular hydrogen bond of jet-cooled p-aminophenol–(H₂O)₁ studied by electronic and IR-dip spectroscopy and density functional theory calculations",
+    "journal": "Chemical Physics",
+    "volume": "277",
+    "issue": "2",
+    "pages": "105–115",
+    "doi": "10.1016/S0301-0104(02)00308-7",
+    "url": "https://doi.org/10.1016/S0301-0104(02)00308-7",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "p-アミノフェノール–水錯体の構造と分子間水素結合を、電子・赤外分光とDFT計算から決定した。",
+      "en": "This study investigates Structure and intermolecular hydrogen bond of jet-cooled p-aminophenol–(H₂O)₁ studied by electronic and IR-dip spectroscopy and density functional theory calculations using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "分子分光と弱い分子間相互作用",
+      "en": "Molecular spectroscopy and weak intermolecular interactions"
+    }
+  },
+  {
+    "year": 2002,
+    "type": "peer-reviewed",
+    "authors": "E. Miyoshi, H. Mori, S. Tanaka, and Y. Sakai",
+    "title": "Theoretical study of interactions between the Si(111) surface and metal atoms",
+    "journal": "Surface Science",
+    "volume": "514",
+    "issue": "1–3",
+    "pages": "383–388",
+    "doi": "10.1016/S0039-6028(02)01656-4",
+    "url": "https://doi.org/10.1016/S0039-6028(02)01656-4",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "Si(111)表面と金属原子の相互作用を理論解析し、吸着構造と表面電子状態の関係を検討した。",
+      "en": "This study investigates Theoretical study of interactions between the Si(111) surface and metal atoms using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "表面・界面の電子状態",
+      "en": "Electronic structure of surfaces and interfaces"
+    }
+  },
+  {
+    "year": 2002,
+    "type": "peer-reviewed",
+    "authors": "H. Mori, N. Shida, E. Miyoshi, and H. Sekiya",
+    "title": "Theoretical study on proton tunneling potential of 9-hydroxyphenalenone–CO₂ complex",
+    "journal": "Japanese Journal of Deuterium Science",
+    "volume": "11",
+    "issue": "1",
+    "pages": "9–21",
+    "doi": "",
+    "url": "",
+    "category": "Research Foundations",
+    "selected": false,
+    "badges": [],
+    "image": "",
+    "summary": {
+      "ja": "9-ヒドロキシフェナレノン–CO₂錯体のプロトン移動ポテンシャルを計算し、錯形成によるトンネル挙動の変化を解析した。",
+      "en": "This study investigates Theoretical study on proton tunneling potential of 9-hydroxyphenalenone–CO₂ complex using theoretical, computational, or experimental approaches as appropriate."
+    },
+    "historical_theme": {
+      "ja": "同位体効果とプロトントンネル",
+      "en": "Isotope effects and proton tunneling"
     }
   }
 ]

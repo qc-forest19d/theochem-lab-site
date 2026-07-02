@@ -1,0 +1,1379 @@
+[
+  {
+    "year": 2025,
+    "members": [
+      {
+        "year": 2025,
+        "name_ja": "有松 怜生",
+        "name": "Rei ARIMATSU",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "後藤 大輔",
+        "name": "Daisuke Goto",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": {
+          "ja": "博士後期課程修了",
+          "en": "Completed the Doctoral Program"
+        },
+        "source_type": "student",
+        "degree_label": {
+          "ja": "博士（工学）",
+          "en": "Doctor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "加納 萌々香",
+        "name": "Momoka KANO",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "笠岡 碧",
+        "name": "Aoi KASAOKA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "草本 陸",
+        "name": "Riku KUSAMOTO",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "前田 尚志",
+        "name": "Naoshi Maeda",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": {
+          "ja": "博士前期課程修了",
+          "en": "Completed the Master's Program"
+        },
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（工学）",
+          "en": "Master of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "三林 鈴果",
+        "name": "Suzuka MIBAYASHI",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "中嶋 悠人",
+        "name": "Yuto NAKAJIMA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "下村 悟",
+        "name": "Satoru SHIMOMURA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "鈴木 愛菜",
+        "name": "Aina SUZUKI",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "鈴木 良佳",
+        "name": "Ryoka SUZUKI",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2025,
+        "name_ja": "臼倉 一樹",
+        "name": "Kazuki USUKURA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "members": [
+      {
+        "year": 2024,
+        "name_ja": "藤田 華",
+        "name": "Hana FUJITA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2024,
+        "name_ja": "岸野 晃也",
+        "name": "Koya KISHINO",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2024,
+        "name_ja": "小松 莉子",
+        "name": "Riko KOMATSU",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2024,
+        "name_ja": "岡田 陸斗",
+        "name": "Rikuto OKADA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2024,
+        "name_ja": "Amol Patil",
+        "name": "Amol Patil",
+        "affiliation": {
+          "ja": "研究スタッフ",
+          "en": "Research staff"
+        },
+        "note": {
+          "ja": "元博士研究員",
+          "en": "Former Postdoctoral Researcher"
+        },
+        "source_type": "staff",
+        "degree_label": {
+          "ja": "博士研究員（PD）",
+          "en": "Postdoctoral Researcher (PD)"
+        }
+      },
+      {
+        "year": 2024,
+        "name_ja": "住吉 剛",
+        "name": "Takeshi Sumiyoshi",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": {
+          "ja": "博士前期課程修了",
+          "en": "Completed the Master's Program"
+        },
+        "source_type": "student",
+        "degree_label": {
+          "ja": "博士（工学）",
+          "en": "Doctor of Engineering"
+        }
+      },
+      {
+        "year": 2024,
+        "name_ja": "鈴木 大耀",
+        "name": "Taiyo SUZUKI",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2024,
+        "name_ja": "坪野 梨華",
+        "name": "Rika TSUBONO",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2024,
+        "name_ja": "上村 浩喜",
+        "name": "Hiroki UEMURA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "members": [
+      {
+        "year": 2023,
+        "name_ja": "坂内 伸光",
+        "name": "Nobumitsu BAN-NAI",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "川越 理暉",
+        "name": "Riki KAWAGOE",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "黒木 菜保子",
+        "name": "Nahoko Kuroki",
+        "affiliation": {
+          "ja": "研究スタッフ",
+          "en": "Research staff"
+        },
+        "note": {
+          "ja": "元博士研究員・助教",
+          "en": "Former Postdoctoral Researcher and Assistant Professor"
+        },
+        "source_type": "staff",
+        "degree_label": {
+          "ja": "助教",
+          "en": "Assistant Professor"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "信岡 春香",
+        "name": "Haruka NOBUOKA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": {
+          "ja": "卒業研究II履修者名簿で確認",
+          "en": "Confirmed in the Graduation Research II roster"
+        },
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "斉藤 一成",
+        "name": "Issei SAITO",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "高橋 唯華",
+        "name": "Yuika TAKAHASHI",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "M2",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（工学）",
+          "en": "Master of Engineering"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "高月 壮太",
+        "name": "Sota TAKATSUKI",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "武 和希",
+        "name": "Kazuki TAKE",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2023,
+        "name_ja": "渡部 栞",
+        "name": "Shiori WATABE",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "M2",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（工学）",
+          "en": "Master of Engineering"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "members": [
+      {
+        "year": 2022,
+        "name_ja": "黒瀬 竜亮",
+        "name": "Ryosuke KUROSE",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2022,
+        "name_ja": "松岡 直輝",
+        "name": "Naoki MATSUOKA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2022,
+        "name_ja": "篠原 芳輝",
+        "name": "Yoshiki SHINOHARA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2022,
+        "name_ja": "田邊 光希",
+        "name": "Koki TANABE",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2022,
+        "name_ja": "鳥居 瑞季",
+        "name": "Mizuki TORII",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2022,
+        "name_ja": "渡部 尚汰郎",
+        "name": "Shotaro WATANABE",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2022,
+        "name_ja": "Fabian Weber",
+        "name": "Fabian Weber",
+        "affiliation": {
+          "ja": "研究スタッフ",
+          "en": "Research staff"
+        },
+        "note": {
+          "ja": "元博士研究員",
+          "en": "Former Postdoctoral Researcher"
+        },
+        "source_type": "staff",
+        "degree_label": {
+          "ja": "博士研究員（PD）",
+          "en": "Postdoctoral Researcher (PD)"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "members": [
+      {
+        "year": 2021,
+        "name_ja": "伊波 伸通",
+        "name": "Nobumichi IHA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2021,
+        "name_ja": "伊藤 隼",
+        "name": "Jun ITO",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2021,
+        "name_ja": "今田 篤史",
+        "name": "Atsushi KONDA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2021,
+        "name_ja": "岡野 春子",
+        "name": "Haruko OKANO",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2021,
+        "name_ja": "滝原 慧",
+        "name": "Kei TAKIHARA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "members": [
+      {
+        "year": 2020,
+        "name_ja": "阿久津 将史",
+        "name": "Masashi AKUTSU",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "八東 優介",
+        "name": "Yusuke HATTO",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "石井 美帆",
+        "name": "Miho ISHII",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "石塚 遥稀",
+        "name": "Haruki ISHIZUKA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "磯田 真帆",
+        "name": "Maho ISODA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "小林 航",
+        "name": "Wataru KOBAYASHI",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "村松 丈太郎",
+        "name": "Jotaro MURAMATSU",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "滝田 雄大",
+        "name": "Yudai TAKITA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "田澤 由佳",
+        "name": "Yuka TAZAWA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2020,
+        "name_ja": "湯川 友登",
+        "name": "Yuto YUKAWA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "members": [
+      {
+        "year": 2019,
+        "name_ja": "船倉 多聞",
+        "name": "Tamon FUNAKURA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2019,
+        "name_ja": "土方 恵梨",
+        "name": "Eri HIJIKATA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2019,
+        "name_ja": "丸山 峻太",
+        "name": "Shunta MARUYAMA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      },
+      {
+        "year": 2019,
+        "name_ja": "増田 千夏",
+        "name": "Chika MASUDA",
+        "affiliation": {
+          "ja": "中央大学 理工学部 応用化学科",
+          "en": "Department of Applied Chemistry, Chuo University"
+        },
+        "note": null,
+        "degree": "B4",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（工学）",
+          "en": "Bachelor of Engineering"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "members": [
+      {
+        "year": 2018,
+        "name_ja": "按田 侑子",
+        "name": "Yuko ANDA",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "お茶の水女子大学 伊村研究室",
+          "en": "Imura Group, Ochanomizu University"
+        },
+        "degree": "B→M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      },
+      {
+        "year": 2018,
+        "name_ja": "黒木 菜保子",
+        "name": "Nahoko KUROKI",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "博士後期課程修了。日本学術振興会特別研究員DC2、JST ACT-I",
+          "en": "Completed the Doctoral Program. JSPS Research Fellow DC2; JST ACT-I"
+        },
+        "degree": "D",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "博士（理学）",
+          "en": "Doctor of Science"
+        }
+      },
+      {
+        "year": 2018,
+        "name_ja": "佐々木 美織",
+        "name": "Miori SASAKI",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "お茶の水女子大学 山田研究室",
+          "en": "Yamada Group, Ochanomizu University"
+        },
+        "degree": "B→M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      },
+      {
+        "year": 2018,
+        "name_ja": "寺島 千絵子",
+        "name": "Chieko TERASHIMA",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "修士課程修了。MHIみらい奨学生",
+          "en": "Completed the Master's Program. MHI Mirai Scholar"
+        },
+        "degree": "M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（理学）",
+          "en": "Master of Science"
+        }
+      },
+      {
+        "year": 2018,
+        "name_ja": "内野 幸奈",
+        "name": "Yukina UCHINO",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "お茶の水女子大学 近藤研究室",
+          "en": "Kondo Group, Ochanomizu University"
+        },
+        "degree": "B→M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "members": [
+      {
+        "year": 2016,
+        "name_ja": "伊勢 茜",
+        "name": "Akane ISE",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "大阪大学",
+          "en": "Osaka University"
+        },
+        "degree": "B→M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      },
+      {
+        "year": 2016,
+        "name_ja": "宮崎 かすみ",
+        "name": "Kasumi MIYAZAKI",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "修士課程修了。東京大学・日本学術振興会特別研究員DC2",
+          "en": "Completed the Master's Program. The University of Tokyo; JSPS Research Fellow DC2"
+        },
+        "degree": "M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（理学）",
+          "en": "Master of Science"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "members": [
+      {
+        "year": 2015,
+        "name_ja": "松田 彩",
+        "name": "Aya MATSUDA",
+        "affiliation": {
+          "ja": "お茶の水女子大学 アカデミック・プロダクション",
+          "en": "Ochanomizu University Academic Production"
+        },
+        "note": {
+          "ja": "博士後期課程修了。日本学術振興会特別研究員DC1",
+          "en": "Completed the Doctoral Program. JSPS Research Fellow DC1"
+        },
+        "degree": "D",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "博士（理学）",
+          "en": "Doctor of Science"
+        }
+      },
+      {
+        "year": 2015,
+        "name_ja": "水野 花春",
+        "name": "Kaharu MIZUNO",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "東京大学",
+          "en": "The University of Tokyo"
+        },
+        "degree": "B→M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      },
+      {
+        "year": 2015,
+        "name_ja": "鈴木 祐里絵",
+        "name": "Yurie SUZUKI",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "東京大学",
+          "en": "The University of Tokyo"
+        },
+        "degree": "B→M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      },
+      {
+        "year": 2015,
+        "name_ja": "寺前 祐生子",
+        "name": "Yuko TERAMAE",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "兵庫県立大学",
+          "en": "University of Hyogo"
+        },
+        "degree": "B→M/D",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "members": [
+      {
+        "year": 2014,
+        "name_ja": "川島 愛咲",
+        "name": "Asaki KAWASHIMA",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": null,
+        "degree": "B",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      },
+      {
+        "year": 2014,
+        "name_ja": "田中 美恵",
+        "name": "Mie TANAKA",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "修士課程修了",
+          "en": "Completed the Master's Program"
+        },
+        "degree": "M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（理学）",
+          "en": "Master of Science"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "members": [
+      {
+        "year": 2013,
+        "name_ja": "山田 有紗",
+        "name": "Arisa YAMADA",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "横浜市立大学",
+          "en": "Yokohama City University"
+        },
+        "degree": "B→M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "members": [
+      {
+        "year": 2012,
+        "name_ja": "平山 奈津実",
+        "name": "Natsumi HIRAYAMA",
+        "affiliation": {
+          "ja": "お茶の水女子大学 アカデミック・プロダクション",
+          "en": "Ochanomizu University Academic Production"
+        },
+        "note": {
+          "ja": "修士課程修了",
+          "en": "Completed the Master's Program"
+        },
+        "degree": "M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（理学）",
+          "en": "Master of Science"
+        }
+      },
+      {
+        "year": 2012,
+        "name_ja": "久保 綾子",
+        "name": "Ayako KUBO",
+        "affiliation": {
+          "ja": "お茶の水女子大学 理学部 化学科",
+          "en": "Department of Chemistry, Ochanomizu University"
+        },
+        "note": {
+          "ja": "東京大学",
+          "en": "The University of Tokyo"
+        },
+        "degree": "B→D",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "学士（理学）",
+          "en": "Bachelor of Science"
+        }
+      },
+      {
+        "year": 2012,
+        "name_ja": "佐藤 夏名子",
+        "name": "Kanako SATO",
+        "affiliation": {
+          "ja": "お茶の水女子大学 アカデミック・プロダクション",
+          "en": "Ochanomizu University Academic Production"
+        },
+        "note": {
+          "ja": "修士課程修了",
+          "en": "Completed the Master's Program"
+        },
+        "degree": "M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（理学）",
+          "en": "Master of Science"
+        }
+      },
+      {
+        "year": 2012,
+        "name_ja": "土田 敦子",
+        "name": "Atsuko Tsuchida",
+        "affiliation": {
+          "ja": "研究スタッフ",
+          "en": "Research staff"
+        },
+        "note": {
+          "ja": "元博士研究員",
+          "en": "Former Postdoctoral Researcher"
+        },
+        "source_type": "staff",
+        "degree_label": {
+          "ja": "博士研究員（PD）",
+          "en": "Postdoctoral Researcher (PD)"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "members": [
+      {
+        "year": 2011,
+        "name_ja": "藤原 崇幸",
+        "name": "Takayuki FUJIWARA",
+        "affiliation": {
+          "ja": "立教大学",
+          "en": "Rikkyo University"
+        },
+        "note": null,
+        "degree": "D",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "博士（理学）",
+          "en": "Doctor of Science"
+        }
+      },
+      {
+        "year": 2011,
+        "name_ja": "小嶋 亮平",
+        "name": "Ryohei KOJIMA",
+        "affiliation": {
+          "ja": "お茶の水女子大学 アカデミック・プロダクション",
+          "en": "Ochanomizu University Academic Production"
+        },
+        "note": {
+          "ja": "立教大学・望月祐志教授研究室",
+          "en": "Mochizuki Group, Rikkyo University"
+        },
+        "degree": "M",
+        "source_type": "student",
+        "degree_label": {
+          "ja": "修士（理学）",
+          "en": "Master of Science"
+        }
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "members": [
+      {
+        "year": 2010,
+        "name_ja": "能登 香",
+        "name": "Kaori Noto",
+        "affiliation": {
+          "ja": "研究スタッフ",
+          "en": "Research staff"
+        },
+        "note": {
+          "ja": "元博士研究員",
+          "en": "Former Postdoctoral Researcher"
+        },
+        "source_type": "staff",
+        "degree_label": {
+          "ja": "博士研究員（PD）",
+          "en": "Postdoctoral Researcher (PD)"
+        }
+      }
+    ]
+  }
+]

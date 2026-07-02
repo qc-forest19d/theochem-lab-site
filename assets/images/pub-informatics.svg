@@ -1,28 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="700" viewBox="0 0 1200 700" width="1200" xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#164a86"/><stop offset="1" stop-color="#23a6a8"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#164a86"/><stop offset="1" stop-color="#23a6a8"/></linearGradient>
 </defs>
-<rect width="1200" height="700" fill="url(#g)"/>
+<rect fill="url(#g)" height="700" width="1200"/>
 <g stroke="rgba(255,255,255,.35)" stroke-width="3">
-<line x1="100" y1="90" x2="183" y2="227"/>
-<line x1="100" y1="90" x2="349" y2="501"/>
-<line x1="183" y1="227" x2="266" y2="364"/>
-<line x1="183" y1="227" x2="432" y2="168"/>
-<line x1="266" y1="364" x2="349" y2="501"/>
-<line x1="266" y1="364" x2="515" y2="305"/>
-<line x1="349" y1="501" x2="432" y2="168"/>
-<line x1="349" y1="501" x2="598" y2="442"/>
-<line x1="432" y1="168" x2="515" y2="305"/>
-<line x1="432" y1="168" x2="681" y2="109"/>
-<line x1="515" y1="305" x2="598" y2="442"/>
-<line x1="515" y1="305" x2="764" y2="246"/>
-<line x1="598" y1="442" x2="681" y2="109"/>
-<line x1="598" y1="442" x2="847" y2="383"/>
-<line x1="681" y1="109" x2="764" y2="246"/>
-<line x1="681" y1="109" x2="930" y2="520"/>
-<line x1="764" y1="246" x2="847" y2="383"/>
-<line x1="847" y1="383" x2="930" y2="520"/>
+<line x1="100" x2="183" y1="90" y2="227"/>
+<line x1="100" x2="349" y1="90" y2="501"/>
+<line x1="183" x2="266" y1="227" y2="364"/>
+<line x1="183" x2="432" y1="227" y2="168"/>
+<line x1="266" x2="349" y1="364" y2="501"/>
+<line x1="266" x2="515" y1="364" y2="305"/>
+<line x1="349" x2="432" y1="501" y2="168"/>
+<line x1="349" x2="598" y1="501" y2="442"/>
+<line x1="432" x2="515" y1="168" y2="305"/>
+<line x1="432" x2="681" y1="168" y2="109"/>
+<line x1="515" x2="598" y1="305" y2="442"/>
+<line x1="515" x2="764" y1="305" y2="246"/>
+<line x1="598" x2="681" y1="442" y2="109"/>
+<line x1="598" x2="847" y1="442" y2="383"/>
+<line x1="681" x2="764" y1="109" y2="246"/>
+<line x1="681" x2="930" y1="109" y2="520"/>
+<line x1="764" x2="847" y1="246" y2="383"/>
+<line x1="847" x2="930" y1="383" y2="520"/>
 </g>
-<g fill="white"><circle cx="100" cy="90" r="18" opacity="1"/><circle cx="183" cy="227" r="12" opacity="0.75"/><circle cx="266" cy="364" r="12" opacity="1"/><circle cx="349" cy="501" r="18" opacity="0.75"/><circle cx="432" cy="168" r="12" opacity="1"/><circle cx="515" cy="305" r="12" opacity="0.75"/><circle cx="598" cy="442" r="18" opacity="1"/><circle cx="681" cy="109" r="12" opacity="0.75"/><circle cx="764" cy="246" r="12" opacity="1"/><circle cx="847" cy="383" r="18" opacity="0.75"/><circle cx="930" cy="520" r="12" opacity="1"/></g>
-<text x="70" y="620" fill="white" font-size="44" font-family="Arial, sans-serif" font-weight="700">Electronic State Informatics</text>
+<g fill="white"><circle cx="100" cy="90" opacity="1" r="18"/><circle cx="183" cy="227" opacity="0.75" r="12"/><circle cx="266" cy="364" opacity="1" r="12"/><circle cx="349" cy="501" opacity="0.75" r="18"/><circle cx="432" cy="168" opacity="1" r="12"/><circle cx="515" cy="305" opacity="0.75" r="12"/><circle cx="598" cy="442" opacity="1" r="18"/><circle cx="681" cy="109" opacity="0.75" r="12"/><circle cx="764" cy="246" opacity="1" r="12"/><circle cx="847" cy="383" opacity="0.75" r="18"/><circle cx="930" cy="520" opacity="1" r="12"/></g>
+<text fill="white" font-family="Arial, sans-serif" font-size="44" font-weight="700" x="70" y="620">Electronic State Informatics</text>
 </svg>

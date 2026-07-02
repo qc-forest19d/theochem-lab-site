@@ -1,0 +1,255 @@
+[
+  {
+    "year": 2022,
+    "type": {
+      "ja": "分担執筆",
+      "en": "Contributed article"
+    },
+    "authors": {
+      "ja": "黒木 菜保子",
+      "en": "Nahoko Kuroki"
+    },
+    "title": {
+      "ja": "電子状態インフォマティクス",
+      "en": "Electronic-State Informatics"
+    },
+    "book": {
+      "ja": "Yano E plus 166",
+      "en": "Yano E plus 166"
+    },
+    "publisher": {
+      "ja": "矢野経済研究所",
+      "en": "Yano Research Institute"
+    },
+    "pages": "4-5. 学校法人 中央大学 (1)森研究室の基本的コンセプト、(2)CO₂を分離回収可能なイオン液体（IL）探索のための理論研究",
+    "isbn": "",
+    "doi": "",
+    "url": "https://www.yano.co.jp/eplus/D63100801",
+    "link_label": {
+      "ja": "掲載誌ページ",
+      "en": "Publication page"
+    }
+  },
+  {
+    "year": 2021,
+    "type": {
+      "ja": "監訳",
+      "en": "Supervised translation"
+    },
+    "authors": {
+      "ja": "ジェームス・M・ラッセル 著、中井川玲子 訳、森 寛敏 監訳",
+      "en": "James M. Russell; translated by Reiko Nakaigawa; supervised by Hirotoshi Mori"
+    },
+    "title": {
+      "ja": "118元素全百科",
+      "en": "118 Elements: The Complete Encyclopedia"
+    },
+    "book": {
+      "ja": "単行本",
+      "en": "Book"
+    },
+    "publisher": {
+      "ja": "ニュートンプレス",
+      "en": "Newton Press"
+    },
+    "pages": "192 pp.",
+    "isbn": "978-4-315-52316-4",
+    "doi": "",
+    "url": "https://www.newtonpress.co.jp/book/other/210115_118Elementary.html",
+    "link_label": {
+      "ja": "出版社ページ",
+      "en": "Publisher page"
+    }
+  },
+  {
+    "year": 2021,
+    "type": {
+      "ja": "分担執筆",
+      "en": "Book chapter"
+    },
+    "authors": {
+      "ja": "Y. Mochizuki, T. Nakano, K. Sakakura, Y. Okiyama, H. Watanabe, K. Kato, Y. Akinaga, S. Sato, J.-I. Yamamoto, K. Yamashita, T. Murase, T. Ishikawa, Y. Komeiji, Y. Kato, N. Watanabe, T. Tsukamoto, H. Mori, K. Okuwaki, S. Tanaka, A. Kato, C. Watanabe, and K. Fukuzawa",
+      "en": "Y. Mochizuki, T. Nakano, K. Sakakura, Y. Okiyama, H. Watanabe, K. Kato, Y. Akinaga, S. Sato, J.-I. Yamamoto, K. Yamashita, T. Murase, T. Ishikawa, Y. Komeiji, Y. Kato, N. Watanabe, T. Tsukamoto, H. Mori, K. Okuwaki, S. Tanaka, A. Kato, C. Watanabe, and K. Fukuzawa"
+    },
+    "title": {
+      "ja": "The ABINIT-MP Program",
+      "en": "The ABINIT-MP Program"
+    },
+    "book": {
+      "ja": "Recent Advances of the Fragment Molecular Orbital Method: Enhanced Performance and Applicability",
+      "en": "Recent Advances of the Fragment Molecular Orbital Method: Enhanced Performance and Applicability"
+    },
+    "publisher": {
+      "ja": "Springer Singapore",
+      "en": "Springer Singapore"
+    },
+    "pages": "53–67",
+    "isbn": "978-981-15-9235-5",
+    "doi": "10.1007/978-981-15-9235-5_4",
+    "url": "https://doi.org/10.1007/978-981-15-9235-5_4",
+    "link_label": {
+      "ja": "章のページ",
+      "en": "Chapter page"
+    }
+  },
+  {
+    "year": 2021,
+    "type": {
+      "ja": "年鑑記事",
+      "en": "Yearbook article"
+    },
+    "authors": {
+      "ja": "森 寛敏",
+      "en": "Hirotoshi Mori"
+    },
+    "title": {
+      "ja": "計算機の高度利用：Quick & Dirty から Quick & Clear へ",
+      "en": "Advanced Use of Computers: From Quick & Dirty to Quick & Clear"
+    },
+    "book": {
+      "ja": "化学工学会年鑑 2021「基礎物性」",
+      "en": "SCEJ Annual Review 2021: Fundamental Properties"
+    },
+    "publisher": {
+      "ja": "化学工学会",
+      "en": "Society of Chemical Engineers, Japan"
+    },
+    "pages": "85, 10",
+    "isbn": "",
+    "doi": "",
+    "url": "https://www.scej.org/",
+    "link_label": {
+      "ja": "化学工学会",
+      "en": "SCEJ"
+    }
+  },
+  {
+    "year": 2020,
+    "type": {
+      "ja": "分担執筆",
+      "en": "Book contribution"
+    },
+    "authors": {
+      "ja": "森 寛敏、黒木 菜保子",
+      "en": "Hirotoshi Mori and Nahoko Kuroki"
+    },
+    "title": {
+      "ja": "Q9.10（担当）",
+      "en": "Section Q9.10"
+    },
+    "book": {
+      "ja": "マテリアルズ・インフォマティクスQ&A集―解析実務と応用事例―",
+      "en": "Materials Informatics Q&A: Practical Analysis and Applications"
+    },
+    "publisher": {
+      "ja": "情報機構",
+      "en": "Johokiko Co., Ltd."
+    },
+    "pages": "",
+    "isbn": "978-4-86502-204-9",
+    "doi": "",
+    "url": "https://johokiko.co.jp/publishing/BC201201.php",
+    "link_label": {
+      "ja": "出版社ページ",
+      "en": "Publisher page"
+    }
+  },
+  {
+    "year": 2020,
+    "type": {
+      "ja": "解説",
+      "en": "Review article"
+    },
+    "authors": {
+      "ja": "森 寛敏、黒木 菜保子",
+      "en": "Hirotoshi Mori and Nahoko Kuroki"
+    },
+    "title": {
+      "ja": "有効断片ポテンシャル分子動力学法による機能性溶液の物性予測",
+      "en": "Property Prediction of Functional Solutions Using Effective Fragment Potential Molecular Dynamics"
+    },
+    "book": {
+      "ja": "化学と工業 73(4)",
+      "en": "Chemistry & Chemical Industry 73(4)"
+    },
+    "publisher": {
+      "ja": "日本化学会 ディビジョン・トピックス（理論化学・情報化学・計算化学）",
+      "en": "The Chemical Society of Japan, Division Topics (Theoretical, Information, and Computational Chemistry)"
+    },
+    "pages": "342",
+    "isbn": "",
+    "doi": "",
+    "url": "https://www.chemistry.or.jp/division-topics/2020/03/post-156.html",
+    "link_label": {
+      "ja": "日本化学会ページ",
+      "en": "CSJ page"
+    },
+    "secondary_url": "https://www.chemistry.or.jp/journal/014dcaa6cd0135b72e159f23d4cb4d4530a814a1.pdf",
+    "secondary_link_label": {
+      "ja": "PDF",
+      "en": "PDF"
+    }
+  },
+  {
+    "year": 2012,
+    "type": {
+      "ja": "分担執筆",
+      "en": "Book chapter"
+    },
+    "authors": {
+      "ja": "Y. Komeiji, Y. Mochizuki, T. Nakano, and H. Mori",
+      "en": "Y. Komeiji, Y. Mochizuki, T. Nakano, and H. Mori"
+    },
+    "title": {
+      "ja": "Recent Advances in Fragment Molecular Orbital-Based Molecular Dynamics (FMO-MD) Simulations",
+      "en": "Recent Advances in Fragment Molecular Orbital-Based Molecular Dynamics (FMO-MD) Simulations"
+    },
+    "book": {
+      "ja": "Molecular Dynamics: Theoretical Developments and Applications in Nanotechnology and Energy",
+      "en": "Molecular Dynamics: Theoretical Developments and Applications in Nanotechnology and Energy"
+    },
+    "publisher": {
+      "ja": "IntechOpen",
+      "en": "IntechOpen"
+    },
+    "pages": "3–24",
+    "isbn": "979-953-307-615-6",
+    "doi": "10.5772/35247",
+    "url": "https://doi.org/10.5772/35247",
+    "link_label": {
+      "ja": "オープンアクセス章",
+      "en": "Open-access chapter"
+    }
+  },
+  {
+    "year": 2011,
+    "type": {
+      "ja": "分担執筆",
+      "en": "Book chapter"
+    },
+    "authors": {
+      "ja": "森 寛敏",
+      "en": "Hirotoshi Mori"
+    },
+    "title": {
+      "ja": "計算科学によるレアメタル抽出錯体設計の課題",
+      "en": "Challenges in Computational Design of Extractant Complexes for Rare Metals"
+    },
+    "book": {
+      "ja": "レアメタル・希少金属リサイクル技術の最先端―ナノ・有機・メタラジーが広げるリサイクル技術―",
+      "en": "Frontiers in Rare-Metal and Minor-Metal Recycling Technologies"
+    },
+    "publisher": {
+      "ja": "フロンティア出版",
+      "en": "Frontier Publishing"
+    },
+    "pages": "第6章 6-1",
+    "isbn": "978-4-902410-22-8",
+    "doi": "",
+    "url": "https://www.tic-co.com/books/11ftb016.html",
+    "link_label": {
+      "ja": "出版社情報",
+      "en": "Publisher information"
+    }
+  }
+]

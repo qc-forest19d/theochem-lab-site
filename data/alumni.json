@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Naoshi Maeda",
+    "name_ja": "前田 尚志",
+    "year": 2026,
+    "degree": {
+      "ja": "博士前期課程修了",
+      "en": "Completed the Master's Program"
+    },
+    "topic": {
+      "ja": "第一原理統計熱力学計算と転移学習を連携した温室効果ガス分離性高分子膜の設計",
+      "en": "Design of greenhouse-gas-separation polymer membranes by combining first-principles statistical thermodynamics and transfer learning"
+    },
+    "awards": [
+      {
+        "year": 2025,
+        "ja": "化学工学会第56回秋季大会 学生優秀講演賞",
+        "en": "Student Outstanding Presentation Award, 56th Autumn Meeting of the Society of Chemical Engineers, Japan",
+        "detail": {
+          "ja": "発表題目：第一原理計算と転移学習に基づくCO₂分離膜性能予測モデルの検討",
+          "en": "Presentation: CO₂-separation membrane performance prediction using first-principles calculations and transfer learning"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2025/09/82259/"
+      },
+      {
+        "year": 2025,
+        "ja": "分離技術会年会2025 大阪ガスケミカル奨励賞（優秀講演賞）",
+        "en": "Osaka Gas Chemicals Encouragement Award / Outstanding Presentation Award, Separation Technology Conference 2025",
+        "detail": {
+          "ja": "発表題目：ガス分離膜の機能最適化のための第一原理計算と転移学習の連携",
+          "en": "Presentation: Integrating first-principles calculations and transfer learning to optimize gas-separation membranes"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2025/11/82936/"
+      }
+    ],
+    "current_position": null
+  },
+  {
+    "name": "Daisuke Goto",
+    "name_ja": "後藤 大輔",
+    "year": 2026,
+    "degree": {
+      "ja": "博士後期課程修了",
+      "en": "Completed the Doctoral Program"
+    },
+    "topic": {
+      "ja": "電子状態インフォマティクスによるエレクトロクロミック材料設計",
+      "en": "Electronic-state-informed design of electrochromic materials"
+    },
+    "awards": [
+      {
+        "year": 2021,
+        "ja": "第44回ケモインフォマティクス討論会 優秀賞",
+        "en": "Excellence Award, 44th Symposium on Chemoinformatics",
+        "detail": {
+          "ja": "電子状態インフォマティクスを用いた機能性分子設計に関する研究",
+          "en": "Research on functional molecular design using electronic-state informatics"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/graduateschool/science/news/2021/12/57720/"
+      }
+    ],
+    "current_position": null
+  },
+  {
+    "name": "Takeshi Sumiyoshi",
+    "name_ja": "住吉 剛",
+    "year": 2025,
+    "degree": {
+      "ja": "博士前期課程修了",
+      "en": "Completed the Master's Program"
+    },
+    "topic": {
+      "ja": "電子状態インフォマティクスによるアクチノイド／ランタノイド選択性因子の解明",
+      "en": "Electronic-state informatics for identifying factors governing actinide/lanthanide selectivity"
+    },
+    "awards": [
+      {
+        "year": 2024,
+        "ja": "第14回CSJ化学フェスタ2024 優秀ポスター発表賞",
+        "en": "Excellent Poster Presentation Award, 14th CSJ Chemistry Festa 2024",
+        "detail": {
+          "ja": "発表題目：電子状態インフォマティクスを用いたアクチノイド／ランタノイド選択性因子の探索",
+          "en": "Presentation: Identification of actinide/lanthanide selectivity factors using electronic-state informatics"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2024/12/77924/"
+      },
+      {
+        "year": 2023,
+        "ja": "日本放射化学会第67回討論会 若手優秀発表賞",
+        "en": "Young Researcher Outstanding Presentation Award, 67th Symposium of the Japan Society of Nuclear and Radiochemical Sciences",
+        "detail": {
+          "ja": "アクチノイド／ランタノイド分離選択性の電子状態解析に関する研究",
+          "en": "Research on electronic-state analysis of actinide/lanthanide separation selectivity"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2023/09/67922/"
+      }
+    ],
+    "current_position": null
+  },
+  {
+    "name": "Shiori Watabe",
+    "name_ja": "渡部 栞",
+    "year": 2024,
+    "degree": {
+      "ja": "博士前期課程修了",
+      "en": "Completed the Master's Program"
+    },
+    "topic": {
+      "ja": "第一原理統計熱力学計算および分子動力学計算によるCO₂吸収性深共融溶媒・水素結合性混合液体の設計と溶液構造解析",
+      "en": "Design and solution-structure analysis of CO₂-absorbing deep eutectic solvents and hydrogen-bonded liquid mixtures using first-principles statistical thermodynamics and molecular dynamics"
+    },
+    "awards": [
+      {
+        "year": 2024,
+        "ja": "化学工学会第89回年会 学生奨励賞",
+        "en": "Student Encouragement Award, 89th Annual Meeting of the Society of Chemical Engineers, Japan",
+        "detail": {
+          "ja": "CO₂吸収性水素結合性混合液体の理論設計に関する研究",
+          "en": "Research on theoretical design of CO₂-absorbing hydrogen-bonded liquid mixtures"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2024/04/70646/"
+      }
+    ],
+    "current_position": null
+  },
+  {
+    "name": "Yuika Takahashi",
+    "name_ja": "高橋 唯華",
+    "year": 2024,
+    "degree": {
+      "ja": "博士前期課程修了",
+      "en": "Completed the Master's Program"
+    },
+    "topic": {
+      "ja": "電子状態インフォマティクスと機械学習によるスピン軌道相互作用の高精度・高速予測",
+      "en": "Accurate and rapid prediction of spin–orbit coupling using electronic-state informatics and machine learning"
+    },
+    "awards": [],
+    "current_position": null
+  }
+]

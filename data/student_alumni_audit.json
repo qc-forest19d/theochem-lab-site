@@ -1,0 +1,186 @@
+{
+  "basis": {
+    "ja": "2019–2023年度の旧卒業生ページと、2020–2025年度の卒業研究II履修者名簿を照合した。",
+    "en": "The former alumni page for FY2019–FY2023 was cross-checked against Graduation Research II rosters for FY2020–FY2025."
+  },
+  "important_note": {
+    "ja": "履修者名簿は在籍確認資料であり、単独では卒業を証明しない。翌年度名簿への継続掲載、現在のメンバー情報、旧卒業生ページを併用して年度を判定した。",
+    "en": "A course roster confirms enrollment, not graduation by itself. Years were assigned using the following-year roster, current-member information, and the former alumni page."
+  },
+  "corrections": [
+    {
+      "year": 2023,
+      "action": "added",
+      "name": "信岡 春香"
+    },
+    {
+      "year": 2023,
+      "action": "spelling",
+      "from": "坂内 信光",
+      "to": "坂内 伸光"
+    },
+    {
+      "year": 2023,
+      "action": "spelling",
+      "from": "高月 壯太",
+      "to": "高月 壮太"
+    },
+    {
+      "year": 2023,
+      "action": "spelling",
+      "from": "斎藤 一成",
+      "to": "斉藤 一成"
+    },
+    {
+      "year": 2024,
+      "action": "added_roster_cohort",
+      "count": 7
+    },
+    {
+      "year": 2025,
+      "action": "added_roster_cohort",
+      "count": 10,
+      "excluded_continuing_member": "大場 皓太"
+    },
+    {
+      "year": 2020,
+      "action": "removed",
+      "name": "奥山 拓海",
+      "reason": {
+        "ja": "卒業していないため卒業生一覧から除外",
+        "en": "Removed because he did not graduate"
+      }
+    },
+    {
+      "year": 2022,
+      "action": "added",
+      "name": "黒瀬 竜亮"
+    }
+  ],
+  "rosters": {
+    "2020": [
+      "石塚 遥稀",
+      "滝田 雄大",
+      "奥山 拓海",
+      "田澤 由佳",
+      "磯田 真帆",
+      "渡部 尚汰郎",
+      "阿久津 将史",
+      "八東 優介",
+      "村松 丈太郎",
+      "湯川 友登",
+      "石井 美帆",
+      "小林 航"
+    ],
+    "2021": [
+      "滝原 慧",
+      "今田 篤史",
+      "伊藤 隼",
+      "高橋 唯華",
+      "渡部 栞",
+      "伊波 伸通",
+      "岡野 春子",
+      "元木 康平"
+    ],
+    "2022": [
+      "松岡 直輝",
+      "小澤 二千夏",
+      "黒瀬 竜亮",
+      "住吉 剛",
+      "野上田 光織",
+      "篠原 芳輝",
+      "鳥居 瑞季",
+      "田邊 光希"
+    ],
+    "2023": [
+      "坂内 伸光",
+      "川越 理暉",
+      "信岡 春香",
+      "前田 尚志",
+      "高月 壮太",
+      "藤田 華",
+      "武 和希",
+      "斉藤 一成"
+    ],
+    "2024": [
+      "岸野 晃也",
+      "鈴木 大耀",
+      "岡田 陸斗",
+      "小松 莉子",
+      "坪野 梨華",
+      "上村 浩喜",
+      "藤田 華"
+    ],
+    "2025": [
+      "三林 鈴果",
+      "中嶋 悠人",
+      "加納 萌々香",
+      "鈴木 愛菜",
+      "笠岡 碧",
+      "大場 皓太",
+      "鈴木 良佳",
+      "下村 悟",
+      "有松 怜生",
+      "草本 陸",
+      "臼倉 一樹"
+    ]
+  },
+  "non_graduates": [
+    {
+      "year": 2020,
+      "name": "奥山 拓海",
+      "note": {
+        "ja": "履修者名簿には掲載されているが、卒業生ではない",
+        "en": "Listed in the course roster but not a graduate"
+      }
+    }
+  ],
+  "manual_corrections": [
+    {
+      "name": "松田 彩",
+      "from": 2009,
+      "to": 2015,
+      "status_ja": "博士後期課程修了"
+    },
+    {
+      "name": "佐藤 夏名子",
+      "from": 2010,
+      "to": 2012,
+      "status_ja": "修士課程修了"
+    },
+    {
+      "name": "平山 奈津実",
+      "from": 2010,
+      "to": 2012,
+      "status_ja": "修士課程修了"
+    },
+    {
+      "name": "田中 美恵",
+      "from": 2012,
+      "to": 2014,
+      "status_ja": "修士課程修了"
+    },
+    {
+      "name": "黒木 菜保子",
+      "from": 2013,
+      "to": 2018,
+      "status_ja": "博士後期課程修了"
+    },
+    {
+      "name": "宮崎 かすみ",
+      "from": 2014,
+      "to": 2016,
+      "status_ja": "修士課程修了"
+    },
+    {
+      "name": "寺島 千絵子",
+      "from": 2016,
+      "to": 2018,
+      "status_ja": "修士課程修了"
+    }
+  ],
+  "note_on_years": {
+    "ja": "年度は研究室への参加開始年ではなく、修了・離籍年度で整理している。",
+    "en": "Years indicate completion or departure, not the year of joining the group."
+  }
+}

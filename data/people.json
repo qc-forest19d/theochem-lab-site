@@ -1,50 +1,209 @@
 [
   {
     "name": "Hirotoshi Mori",
+    "name_ja": "森 寛敏",
     "role": {
-      "ja": "教授 / Principal Investigator",
+      "ja": "教授・研究代表者",
       "en": "Professor / Principal Investigator"
     },
     "topic": {
-      "ja": "理論化学・量子分子インテリジェンス",
-      "en": "Theoretical chemistry and quantum molecular intelligence"
+      "ja": "理論化学、電子状態インフォマティクス、複雑系量子化学、核量子効果",
+      "en": "Theoretical chemistry, electronic-state informatics, complex systems quantum chemistry, and nuclear quantum effects"
+    },
+    "group": "faculty",
+    "affiliation": {
+      "ja": "中央大学 理工学術院（理工学部応用化学科／理工学研究科応用化学専攻 担当）",
+      "en": "Professor,<br>Academic Group of Science and Engineering, Chuo University<br>(responsible for the Department of Applied Chemistry, Faculty of Science and Engineering, and the Applied Chemistry Program, Graduate School of Science and Engineering)"
+    },
+    "photo": "assets/images/people-hirotoshi-mori.jpg",
+    "profile_url": "pi.html"
+  },
+  {
+    "name": "Rima Suzuki",
+    "name_ja": "鈴木 里麻",
+    "role": {
+      "ja": "博士後期課程3年",
+      "en": "PhD Student (D3)"
+    },
+    "topic": {
+      "ja": "電子状態インフォマティクスによる超強酸設計・ab initio 機械学習ポテンシャル",
+      "en": "Superacid design by electronic-state informatics and ab initio machine-learning potentials"
+    },
+    "group": "student",
+    "affiliation": {
+      "ja": "中央大学",
+      "en": "Chuo University"
+    },
+    "photo": "",
+    "highlights": [
+      {
+        "year": 2025,
+        "ja": "筆頭著者論文が The Journal of Physical Chemistry A のカバーに採用",
+        "en": "First-author paper selected for a cover of The Journal of Physical Chemistry A",
+        "detail": {
+          "ja": "Acidity Prediction in Arbitrary Solvents: Machine Learning Based on Semiempirical Molecular Orbital Calculation",
+          "en": "Acidity Prediction in Arbitrary Solvents: Machine Learning Based on Semiempirical Molecular Orbital Calculation"
+        },
+        "url": "https://doi.org/10.1021/acs.jpca.4c07367"
+      }
+    ]
+  },
+  {
+    "name": "Kohei Motoki",
+    "name_ja": "元木 康平",
+    "role": {
+      "ja": "博士後期課程3年 / 理論化学会 若手の会 世話人",
+      "en": "PhD Student (D3) / Organizer, Young Researchers' Association of Theoretical Chemistry"
+    },
+    "topic": {
+      "ja": "核・電子軌道法を基盤とするBorn–Oppenheimer近似を超えた量子化学",
+      "en": "Beyond-Born–Oppenheimer quantum chemistry based on nuclear–electronic orbital methods"
+    },
+    "group": "student",
+    "affiliation": {
+      "ja": "中央大学",
+      "en": "Chuo University"
+    },
+    "photo": "",
+    "awards": [
+      {
+        "year": 2026,
+        "ja": "第28回理論化学討論会 優秀ポスター賞",
+        "en": "Outstanding Poster Award, 28th Symposium on Theoretical Chemistry",
+        "detail": {
+          "ja": "発表題目：同位体効果の電子構造起源：多成分密度汎関数法による新しい理解",
+          "en": "Presentation: Electronic-structure origin of isotope effects: new insights from multicomponent density functional theory"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2026/06/86700/"
+      },
+      {
+        "year": 2024,
+        "ja": "第14回CSJ化学フェスタ2024 優秀ポスター発表賞",
+        "en": "Excellent Poster Presentation Award, 14th CSJ Chemistry Festa 2024",
+        "detail": {
+          "ja": "発表題目：核量子効果が分子間相互作用および化学結合に与える影響",
+          "en": "Presentation: Effects of nuclear quantum effects on intermolecular interactions and chemical bonding"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2024/12/77924/"
+      }
+    ]
+  },
+  {
+    "name": "Miori Nogamida",
+    "name_ja": "野上田 光織",
+    "role": {
+      "ja": "博士後期課程2年 / JST SPRING 研究員",
+      "en": "PhD Student (D2) / JST SPRING Fellow"
+    },
+    "topic": {
+      "ja": "量子化学計算と反応速度論を連携した連鎖反応解析法の開発と燃料設計への応用",
+      "en": "Chain-reaction analysis combining quantum chemistry and kinetics, with applications to fuel design"
+    },
+    "group": "student",
+    "affiliation": {
+      "ja": "中央大学",
+      "en": "Chuo University"
+    },
+    "photo": "",
+    "awards": [
+      {
+        "year": 2023,
+        "ja": "第13回CSJ化学フェスタ2023 優秀ポスター発表賞",
+        "en": "Excellent Poster Presentation Award, 13th CSJ Chemistry Festa 2023",
+        "detail": {
+          "ja": "発表題目：量子化学計算によるハイパーゴリック性イオン液体の反応機構解析",
+          "en": "Presentation: Quantum-chemical analysis of reaction mechanisms of hypergolic ionic liquids"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2023/12/68996/"
+      }
+    ]
+  },
+  {
+    "name": "Kota Ohba",
+    "name_ja": "大場 皓太",
+    "role": {
+      "ja": "博士前期課程1年",
+      "en": "Master's Student (M1)"
+    },
+    "topic": {
+      "ja": "機械学習による量子化学計算の高速化",
+      "en": "Acceleration of quantum-chemical calculations using machine learning"
+    },
+    "group": "student",
+    "affiliation": {
+      "ja": "中央大学",
+      "en": "Chuo University"
     },
     "photo": ""
   },
   {
-    "name": "Member A",
+    "name": "Natsuki Shimose",
+    "name_ja": "下瀬 なつき",
     "role": {
-      "ja": "博士課程",
-      "en": "PhD Student"
+      "ja": "博士前期課程進学予定（M0）",
+      "en": "Prospective Master's Student (M0)"
     },
     "topic": {
-      "ja": "核量子効果",
-      "en": "Nuclear quantum effects"
+      "ja": "研究テーマを検討中",
+      "en": "Research topic in preparation"
+    },
+    "group": "student",
+    "affiliation": {
+      "ja": "中央大学",
+      "en": "Chuo University"
     },
     "photo": ""
   },
   {
-    "name": "Member B",
+    "name": "Nichika Ozawa",
+    "name_ja": "小澤 二千夏",
     "role": {
-      "ja": "修士課程",
-      "en": "Master's Student"
+      "ja": "博士後期課程2年（共同研究学生）",
+      "en": "PhD Student (D2), Collaborating Student"
     },
     "topic": {
-      "ja": "電子状態インフォマティクス",
-      "en": "Electronic-state informatics"
+      "ja": "FMO/MM計算と生化学実験を融合した糖タンパク質の構造・機能相関の解明",
+      "en": "Structural and functional studies of glycoproteins using FMO/MM calculations and biochemical experiments"
     },
-    "photo": ""
-  },
-  {
-    "name": "Member C",
-    "role": {
-      "ja": "学部生",
-      "en": "Undergraduate Student"
+    "group": "collaborator",
+    "affiliation": {
+      "ja": "お茶の水女子大学",
+      "en": "Ochanomizu University"
     },
-    "topic": {
-      "ja": "適応型QM/MM",
-      "en": "Adaptive QM/MM"
-    },
-    "photo": ""
+    "photo": "",
+    "awards": [
+      {
+        "year": 2024,
+        "ja": "第14回CSJ化学フェスタ2024 優秀ポスター発表賞",
+        "en": "Excellent Poster Presentation Award, 14th CSJ Chemistry Festa 2024",
+        "detail": {
+          "ja": "発表題目：QM/MM法のための活性領域定義―フラグメント化による高速高精度手法―",
+          "en": "Presentation: Active-region definition for QM/MM using a fast and accurate fragmentation approach"
+        },
+        "url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2024/12/77924/"
+      }
+    ],
+    "highlights": [
+      {
+        "year": 2026,
+        "ja": "筆頭著者論文の研究成果が共同プレスリリース",
+        "en": "First-author research featured in a joint press release",
+        "detail": {
+          "ja": "電子状態応答に基づく予測型QM/MM法",
+          "en": "Predictive QM/MM based on electronic-state response"
+        },
+        "url": "https://www.chuo-u.ac.jp/aboutus/communication/press/2026/01/83918/"
+      },
+      {
+        "year": 2025,
+        "ja": "筆頭著者論文を Advanced Science に発表",
+        "en": "First-author paper published in Advanced Science",
+        "detail": {
+          "ja": "Ligand-Induced Electronic Response Enables Predictive QM/MM Simulations",
+          "en": "Ligand-Induced Electronic Response Enables Predictive QM/MM Simulations"
+        },
+        "url": "https://doi.org/10.1002/advs.202519137"
+      }
+    ]
   }
 ]

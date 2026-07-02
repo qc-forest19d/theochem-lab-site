@@ -1,25 +1,151 @@
 [
   {
+    "date": "2026-06-17",
+    "category": {
+      "ja": "受賞",
+      "en": "Award"
+    },
+    "title": {
+      "ja": "第28回理論化学討論会で優秀ポスター賞を受賞しました",
+      "en": "Our group received an Outstanding Poster Award at the 28th Symposium on Theoretical Chemistry"
+    },
+    "url": "https://theocomp.chem.okayama-u.ac.jp/Theochem28_HP/index.html#result",
+    "link_label": {
+      "ja": "第28回理論化学討論会 受賞結果",
+      "en": "28th Symposium award results"
+    },
+    "secondary_url": "https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2026/06/86700/",
+    "secondary_link_label": {
+      "ja": "中央大学 受賞記事",
+      "en": "Chuo University award news"
+    },
+    "image": "assets/images/news-theochem28-award.jpg",
+    "body": {
+      "ja": "元木康平さんが、第28回理論化学討論会において優秀ポスター賞を受賞しました。同位体効果の電子構造起源を多成分密度汎関数法から解明する研究成果を発表しました。",
+      "en": "Kohei Motoki received an Outstanding Poster Award at the 28th Symposium on Theoretical Chemistry for his research on nuclear quantum effects and orbital interactions."
+    }
+  },
+  {
+    "date": "2026-06-12",
+    "category": {
+      "ja": "講演",
+      "en": "Lecture"
+    },
+    "title": {
+      "ja": "JACI合同技術セミナーで依頼講演を行いました",
+      "en": "Invited lecture delivered at a JACI joint technical seminar"
+    },
+    "body": {
+      "ja": "森教授が、新化学技術推進協会（JACI）の合同技術セミナーにおいて、電子状態インフォマティクスを基盤とする分子・材料設計について依頼講演を行いました。",
+      "en": "Prof. Mori delivered an invited lecture at a JACI joint technical seminar on electronic-state informatics and data-driven materials design."
+    },
+    "url": "https://www.jaci.or.jp/",
+    "image": "assets/images/news-jaci-lecture.jpg"
+  },
+  {
     "date": "2026-06-09",
     "category": {
       "ja": "論文",
       "en": "Publication"
     },
     "title": {
-      "ja": "ACS Omega 論文が採択されました。",
-      "en": "A new paper has been accepted in ACS Omega."
+      "ja": "ACS Omega 論文が採択されました",
+      "en": "ACS Omega paper accepted"
+    },
+    "image": "assets/images/news-acsomega-hypergolic.jpg",
+    "body": {
+      "ja": "野上田光織さんの筆頭著者論文がACS Omegaに採択されました。ハイパーゴリックイオン液体と過酸化水素の自己着火を支配する初期反応経路を、量子化学的に明らかにした研究です。",
+      "en": "A first-author paper by Miori Nogamida was accepted for publication in ACS Omega. The study elucidates the initial quantum-chemical reaction pathways governing self-ignition of hypergolic ionic liquids with hydrogen peroxide."
     }
   },
   {
-    "date": "2026-05-20",
+    "date": "2026-06-04",
     "category": {
-      "ja": "受賞",
-      "en": "Award"
+      "ja": "国際会議",
+      "en": "International Conference"
     },
     "title": {
-      "ja": "第28回理論化学討論会で優秀ポスター賞を受賞しました。",
-      "en": "Our group received an Outstanding Poster Award at the 28th Symposium on Theoretical Chemistry."
+      "ja": "ICQC 2026で口頭発表を行いました",
+      "en": "Oral presentation delivered at ICQC 2026"
+    },
+    "body": {
+      "ja": "森教授が、カリフォルニア大学バークレー校で開催されたICQC 2026において、解釈可能かつ転移可能な設計原理を目指す電子状態インフォマティクスについて口頭発表を行いました。",
+      "en": "Prof. Mori gave an oral presentation at ICQC 2026 in Berkeley on molecular design enabled by electronic-state informatics."
+    },
+    "url": "https://www.icqc2026.org/",
+    "image": "assets/images/news-icqc-2026.png",
+    "link_label": {
+      "ja": "ICQC 2026 公式サイト",
+      "en": "ICQC 2026 official website"
+    },
+    "secondary_url": "https://www.linkedin.com/feed/update/urn:li:activity:7465697618661240834/",
+    "secondary_link_label": {
+      "ja": "講演報告（LinkedIn）",
+      "en": "Presentation report (LinkedIn)"
     }
+  },
+  {
+    "date": "2026-05-29",
+    "category": {
+      "ja": "国際ワークショップ",
+      "en": "International Workshop"
+    },
+    "title": {
+      "ja": "NSF–JST共同オンラインワークショップに招待参加しました",
+      "en": "Invited participation in the NSF–JST Joint Online Workshop"
+    },
+    "body": {
+      "ja": "森教授が、NSFとJSTが共同開催した「Embodied AI for Science」オンラインワークショップに招待参加し、AIと自動化が切り拓く科学研究の将来像について議論しました。",
+      "en": "Prof. Mori participated by invitation in the Joint NSF–JST Workshops on Embodied AI for Science and discussed future directions for autonomous scientific discovery."
+    },
+    "url": "https://www.jst.go.jp/program/arise/events/us_jp_workshop2605.html",
+    "link_label": {
+      "ja": "JST公式イベントページ",
+      "en": "JST official event page"
+    },
+    "image": "assets/images/news-nsf-jst-workshop-2026.jpg"
+  },
+  {
+    "date": "2026-05-17",
+    "category": {
+      "ja": "論文",
+      "en": "Publication"
+    },
+    "title": {
+      "ja": "Chemical Physics Letters 論文が採択されました",
+      "en": "Chemical Physics Letters paper accepted"
+    },
+    "body": {
+      "ja": "元木康平さんの筆頭著者論文がChemical Physics Lettersに採択されました。イミド化合物のラセミ化における協同的プロトンリレー経路と、その電子構造的起源を明らかにした研究です。",
+      "en": "A first-author paper by Kohei Motoki was accepted for publication in Chemical Physics Letters. The study reveals a cooperative proton-relay pathway in imide racemization and clarifies its electronic-structure origin."
+    },
+    "url": "https://doi.org/10.1016/j.cplett.2026.142877",
+    "link_label": {
+      "ja": "Chemical Physics Letters 論文",
+      "en": "Chemical Physics Letters paper"
+    },
+    "image": "assets/images/selected-imide-racemization-2026.png"
+  },
+  {
+    "date": "2026-03-18",
+    "category": {
+      "ja": "論文",
+      "en": "Publication"
+    },
+    "title": {
+      "ja": "Inorganic Chemistry 論文が採択されました",
+      "en": "Inorganic Chemistry paper accepted"
+    },
+    "body": {
+      "ja": "住吉剛さんの筆頭著者論文がInorganic Chemistryに採択されました。電子状態インフォマティクスにより、アクチノイド／ランタノイド選択性を支配する配位子設計因子を明らかにした研究です。",
+      "en": "A first-author paper by Tsuyoshi Sumiyoshi was accepted for publication in Inorganic Chemistry. The study uses electronic-structure informatics to identify ligand design factors governing actinide/lanthanide selectivity."
+    },
+    "url": "https://doi.org/10.1021/acs.inorgchem.5c05680",
+    "link_label": {
+      "ja": "Inorganic Chemistry 論文",
+      "en": "Inorganic Chemistry paper"
+    },
+    "image": "assets/images/selected-anln-2026.png"
   },
   {
     "date": "2026-03-01",
@@ -28,8 +154,23 @@
       "en": "Publication"
     },
     "title": {
-      "ja": "Advanced Science にQM/MM研究が掲載されました。",
-      "en": "Our QM/MM study was published in Advanced Science."
+      "ja": "Advanced Science にQM/MM研究が掲載されました",
+      "en": "QM/MM study published in Advanced Science"
+    },
+    "url": "https://www.chuo-u.ac.jp/aboutus/communication/press/2026/01/83918/",
+    "link_label": {
+      "ja": "中央大学・お茶の水女子大学 共同プレスリリース",
+      "en": "Joint press release by Chuo University and Ochanomizu University"
+    },
+    "secondary_url": "https://doi.org/10.1002/advs.202519137",
+    "secondary_link_label": {
+      "ja": "Advanced Science 論文",
+      "en": "Advanced Science paper"
+    },
+    "image": "assets/images/news-advanced-science-qmmm.jpg",
+    "body": {
+      "ja": "小澤 二千夏さんの筆頭著者論文がAdvanced Scienceに掲載されました。リガンド誘起電子応答に基づき、QM/MM領域を客観的に設計する予測的手法を提案した研究です。",
+      "en": "A first-author paper by Nichika Ozawa was published in Advanced Science. The study introduces a predictive strategy for defining QM/MM regions from ligand-induced electronic responses."
     }
   }
 ]

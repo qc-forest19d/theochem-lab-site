@@ -1,0 +1,100 @@
+{
+  "publication_records": 90,
+  "records_with_doi_links": 75,
+  "records_without_doi": 15,
+  "doi_policy": "All DOI-bearing records use canonical https://doi.org/<DOI> links.",
+  "corrected_records": [
+    {
+      "year": 2006,
+      "title": "Application of the Fragment Molecular Orbital Scheme to Silicon-Containing Systems",
+      "doi": "10.1016/j.cplett.2006.09.015"
+    },
+    {
+      "year": 2006,
+      "title": "Fragment molecular orbital calculations on large-scale systems containing a heavy-metal atom",
+      "doi": "10.1016/j.cplett.2006.06.103"
+    },
+    {
+      "year": 2021,
+      "title": "Room-Temperature Phosphorescence Emitters Exhibiting Red to Near-Infrared Emission Derived from Intermolecular Charge-Transfer Triplet States of Naphthalenediimide–Halobenzoate Triad Molecules",
+      "pages": "9335–9341"
+    }
+  ],
+  "records_without_doi_list": [
+    {
+      "year": 2025,
+      "title": "Beyond Born–Oppenheimer Pharmaceutical Quantum Chemistry of Thalidomide Analogs and Deuterium Substituents",
+      "journal": "ChemRxiv"
+    },
+    {
+      "year": 2024,
+      "title": "Effect of Anion Electronic State on the Hypergolic Ionic Liquids’ Reaction Pathways",
+      "journal": "Journal of the Combustion Society of Japan"
+    },
+    {
+      "year": 2023,
+      "title": "On Donor–Acceptor-Bridging Intramolecular Hydrogen Bonds in NIR-TADF Molecules",
+      "journal": "RSC Advances"
+    },
+    {
+      "year": 2023,
+      "title": "計算化学・機械学習による機能性液体の研究",
+      "journal": "理論化学会誌 フロンティア"
+    },
+    {
+      "year": 2022,
+      "title": "GIAO NMR Calculation-Driven Stereochemical Assignment of Marine Macrolide Natural Products: Assessment of the Performance of DP4 and DP4+ Analyses and Assignment of the Relative Configuration of Leptolyngbyalide A–C/Oscillariolide Macrolactone",
+      "journal": "Bulletin of the Chemical Society of Japan"
+    },
+    {
+      "year": 2015,
+      "title": "Fragment Molecular Orbital-Based Molecular Dynamics Study on Hydrated Ln(III) Ions",
+      "journal": "JPS Conference Proceedings"
+    },
+    {
+      "year": 2009,
+      "title": "Adaptive Application Composition in Quantum Chemistry",
+      "journal": "Proceedings of the 5th International Conference on the Quality of Software Architectures (QoSA 2009)"
+    },
+    {
+      "year": 2008,
+      "title": "Constructing a Performance Database for Large-Scale Quantum Chemistry Packages",
+      "journal": "Proceedings of the High Performance Computing and Simulation Symposium (HPCS 2008)"
+    },
+    {
+      "year": 2007,
+      "title": "Application of Newly Developed spdsMCPs for First-Row Transition-Metal Elements",
+      "journal": "Proceedings of the 1st WESEA International Conference on Computational Chemistry"
+    },
+    {
+      "year": 2007,
+      "title": "Theoretical Study on Structures of Gold, Silver, and Copper Clusters Using Relativistic Model Core Potentials",
+      "journal": "Proceedings of the 1st WESEA International Conference on Computational Chemistry"
+    },
+    {
+      "year": 2005,
+      "title": "ハイドロキシフェニルベンズオキサゾール誘導体亜鉛錯体の薄膜構造についての再考察",
+      "journal": "有機EL討論会第一回例会論文集"
+    },
+    {
+      "year": 2005,
+      "title": "有機EL亜鉛錯体の密度汎関数法による理論研究",
+      "journal": "有機EL討論会第二回例会論文集"
+    },
+    {
+      "year": 2005,
+      "title": "溶媒効果と置換基の立体障害による有機EL材料の電子構造変化―量子化学計算で見る2-(o-hydroxyphenyl)benzoxazole Zn錯体の幾何構造―",
+      "journal": "有機EL討論会第一回例会論文集"
+    },
+    {
+      "year": 2002,
+      "title": "Experimental and theoretical study on proton tunneling in jet-cooled 9-hydroxyphenalenone–CO₂ van der Waals complex",
+      "journal": "Bulletin of the Polish Academy of Sciences: Chemistry"
+    },
+    {
+      "year": 2002,
+      "title": "Theoretical study on proton tunneling potential of 9-hydroxyphenalenone–CO₂ complex",
+      "journal": "Japanese Journal of Deuterium Science"
+    }
+  ]
+}

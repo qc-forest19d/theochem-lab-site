@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="700" viewBox="0 0 1200 700" width="1200" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop stop-color="#4b1d0f"/>
+<stop offset="1" stop-color="#d2691e"/>
+</linearGradient>
+</defs>
+<rect fill="url(#g)" height="700" width="1200"/>
+<g fill="none" stroke="rgba(255,255,255,.42)" stroke-width="4">
+<path d="M110 350 C250 140, 420 140, 560 350 S870 560, 1080 310"/>
+<path d="M120 510 C300 380, 400 520, 600 390 S900 210, 1080 370"/>
+<line x1="250" x2="420" y1="210" y2="420"/>
+<line x1="560" x2="730" y1="350" y2="180"/>
+<line x1="760" x2="930" y1="470" y2="280"/>
+</g>
+<g fill="white">
+<circle cx="110" cy="350" r="22"/>
+<circle cx="250" cy="210" r="18"/>
+<circle cx="420" cy="420" r="24"/>
+<circle cx="560" cy="350" r="20"/>
+<circle cx="730" cy="180" r="18"/>
+<circle cx="760" cy="470" r="24"/>
+<circle cx="930" cy="280" r="20"/>
+<circle cx="1080" cy="310" r="22"/>
+</g>
+<text fill="white" font-family="Arial, sans-serif" font-size="44" font-weight="700" x="70" y="620">Autonomous Reaction Exploration</text>
+</svg>
