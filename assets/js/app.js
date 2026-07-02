@@ -146,7 +146,7 @@ function renderUnifiedAlumni() {
         ${group.members.map(member => `
           <div class="alumni-simple-item">
             <div class="alumni-simple-name">
-              <strong>${member.name_ja}</strong>
+              <strong>${member.url ? `<a class="member-name-link" href="${member.url}" target="_blank" rel="noopener noreferrer">${member.name_ja}</a>` : member.name_ja}</strong>
               <span>${member.name}</span>
             </div>
             ${member.degree_label?.[lang] ? `<small class="alumni-degree">${member.degree_label[lang]}</small>` : ""}
