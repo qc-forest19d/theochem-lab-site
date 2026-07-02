@@ -100,7 +100,7 @@ function renderPeople() {
           ${p.photo ? `<img src="${p.photo}" alt="${displayName}">` : `<div class="avatar">${initials(p.name)}</div>`}
         </div>
         <div class="card-body">
-          <h3>${displayName}</h3>
+          <h3>${p.url ? `<a class="member-name-link" href="${p.url}" target="_blank" rel="noopener noreferrer">${displayName}</a>` : displayName}</h3>
           <p class="person-role">${p.role[lang]}</p>
           ${affiliation ? `<p class="person-affiliation">${affiliation}</p>` : ""}
           <p>${p.topic[lang]}</p>
