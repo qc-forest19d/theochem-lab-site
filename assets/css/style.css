@@ -2638,3 +2638,28 @@ html[lang="ja"] .pi-hero .pi-affiliation{
   text-decoration:underline;
   text-underline-offset:3px;
 }
+
+
+/* Banner institution wording */
+.brand-main{
+  white-space:nowrap;
+}
+
+.brand-sub{
+  white-space:nowrap;
+}
+
+html[lang="en"] .brand-sub{
+  font-size:.69rem;
+  letter-spacing:-0.01em;
+}
+
+@media(max-width:640px){
+  html[lang="ja"] .brand-main{
+    font-size:.94rem;
+  }
+
+  html[lang="en"] .brand-sub{
+    font-size:.62rem;
+  }
+}
