@@ -2072,3 +2072,52 @@ html[lang="ja"] .timeline{
     max-width:none;
   }
 }
+
+
+/* ==========================================================
+   PI page: use the full content width on both left and right
+   The previous 78ch paragraph cap stayed left-aligned, which made
+   only the left boundary appear to expand while leaving blank space
+   on the right.
+   ========================================================== */
+
+.pi-page .pi-hero-inner,
+.pi-page .pi-message-inner,
+.pi-page .pi-career-disclosure,
+.pi-page .pi-career-grid,
+.pi-page .pi-content-grid{
+  width:100%;
+  max-width:var(--max);
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.pi-page .pi-message-inner > p,
+.pi-page .pi-content-grid .pi-text,
+.pi-page .pi-career-disclosure .timeline{
+  width:100%;
+  max-width:none;
+  margin-left:0;
+  margin-right:0;
+}
+
+.pi-page .pi-message-inner h2{
+  width:100%;
+  max-width:none;
+}
+
+/* Keep the same inner horizontal padding rhythm as the main page */
+.pi-page .pi-message-section{
+  padding-left:var(--content-pad);
+  padding-right:var(--content-pad);
+}
+
+@media(max-width:900px){
+  .pi-page .pi-hero-inner,
+  .pi-page .pi-message-inner,
+  .pi-page .pi-career-disclosure,
+  .pi-page .pi-career-grid,
+  .pi-page .pi-content-grid{
+    max-width:100%;
+  }
+}
