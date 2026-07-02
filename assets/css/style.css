@@ -2030,3 +2030,45 @@ html[lang="ja"] .timeline{
     justify-self:end;
   }
 }
+
+
+/* ==========================================================
+   PI page content width alignment
+   Match the main page content axis and maximum width.
+   ========================================================== */
+
+.pi-message-inner,
+.pi-career-disclosure,
+.pi-content-grid,
+.pi-career-grid,
+.pi-page .section-head{
+  width:100%;
+  max-width:var(--max);
+  margin-left:auto;
+  margin-right:auto;
+}
+
+/* Keep long-form paragraphs readable while allowing the section itself
+   to align with the main page width. */
+.pi-message-inner > p,
+.pi-content-grid .pi-text,
+.pi-career-disclosure .timeline{
+  max-width:78ch;
+}
+
+.pi-content-grid{
+  grid-template-columns:minmax(0,1.2fr) minmax(280px,.8fr);
+  gap:clamp(28px,4vw,56px);
+}
+
+@media(max-width:900px){
+  .pi-content-grid{
+    grid-template-columns:1fr;
+  }
+
+  .pi-message-inner > p,
+  .pi-content-grid .pi-text,
+  .pi-career-disclosure .timeline{
+    max-width:none;
+  }
+}
