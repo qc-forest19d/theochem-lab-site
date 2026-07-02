@@ -2733,3 +2733,12 @@ html[lang="en"] .brand-sub{
     grid-template-columns:1fr;
   }
 }
+
+
+/* B4 heading without explanatory note */
+.b4-members-head{
+  display:block;
+}
+.b4-members-head h3{
+  margin-top:8px;
+}
