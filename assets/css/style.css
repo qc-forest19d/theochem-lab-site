@@ -2563,3 +2563,55 @@ html[lang="ja"] .pi-hero .pi-affiliation{
     white-space:normal;
   }
 }
+
+
+/* ==========================================================
+   PI philosophy blocks
+   Research Vision / Mentoring / Collaboration
+   ========================================================== */
+
+.pi-page .pi-philosophy-label{
+  width:100%;
+  max-width:var(--max);
+  margin:0 auto 14px;
+  color:var(--blue);
+  font-family:var(--font-en, Arial, sans-serif);
+  font-size:.78rem;
+  font-weight:800;
+  letter-spacing:.14em;
+  line-height:1.2;
+  text-transform:uppercase;
+}
+
+.pi-page .pi-philosophy-label-continuation{
+  position:absolute;
+  width:1px;
+  height:1px;
+  margin:-1px;
+  padding:0;
+  overflow:hidden;
+  clip:rect(0 0 0 0);
+  white-space:nowrap;
+  border:0;
+}
+
+/* Keep the two Research Vision sections visually connected */
+.pi-page .pi-message-section:has(.pi-philosophy-label-continuation){
+  border-top:0;
+  padding-top:18px;
+}
+
+.pi-page .pi-message-section:has(.pi-philosophy-label:not(.pi-philosophy-label-continuation)){
+  padding-top:42px;
+}
+
+@media(max-width:640px){
+  .pi-page .pi-philosophy-label{
+    margin-bottom:10px;
+    font-size:.72rem;
+  }
+
+  .pi-page .pi-message-section:has(.pi-philosophy-label-continuation){
+    padding-top:12px;
+  }
+}
