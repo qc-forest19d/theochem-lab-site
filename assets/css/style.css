@@ -2663,3 +2663,10 @@ html[lang="en"] .brand-sub{
     font-size:.62rem;
   }
 }
+
+
+/* English banner: Chuo University is already shown in the separate blue line */
+html[lang="en"] .brand-sub{
+  font-size:.75rem;
+  letter-spacing:0;
+}
