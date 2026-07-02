@@ -1947,3 +1947,86 @@ html[lang="ja"] .timeline{
     font-size:.96rem;
   }
 }
+
+
+/* ==========================================================
+   PI page header and language-switch alignment
+   ========================================================== */
+
+.pi-page .site-header{
+  display:block;
+  padding:0 var(--content-pad);
+}
+
+.pi-page .site-header-inner{
+  width:100%;
+  max-width:var(--max);
+  min-height:68px;
+  margin:0 auto;
+  display:grid;
+  grid-template-columns:auto 1fr auto auto;
+  align-items:center;
+  gap:24px;
+}
+
+.pi-page .site-header-inner .brand{
+  grid-column:1;
+  justify-self:start;
+}
+
+.pi-page .site-header-inner .nav{
+  grid-column:2;
+  justify-self:center;
+}
+
+.pi-page .site-header-inner .nav-toggle{
+  grid-column:3;
+  justify-self:end;
+}
+
+.pi-page .site-header-inner .lang-switch{
+  grid-column:4;
+  justify-self:end;
+  margin-left:0;
+}
+
+/* Prevent inherited PI-page flex rules from pulling controls left */
+.pi-page .lang-switch,
+.pi-page .nav-toggle{
+  position:static;
+}
+
+@media(max-width:1180px){
+  .pi-page .site-header-inner{
+    grid-template-columns:1fr auto auto;
+    gap:12px;
+  }
+
+  .pi-page .site-header-inner .brand{
+    grid-column:1;
+  }
+
+  .pi-page .site-header-inner .nav-toggle{
+    grid-column:2;
+    display:block;
+  }
+
+  .pi-page .site-header-inner .lang-switch{
+    grid-column:3;
+  }
+
+  .pi-page .site-header-inner .nav{
+    grid-column:auto;
+    justify-self:stretch;
+  }
+}
+
+@media(max-width:640px){
+  .pi-page .site-header-inner{
+    min-height:62px;
+  }
+
+  .pi-page .lang-switch{
+    justify-self:end;
+  }
+}
