@@ -1821,3 +1821,129 @@ html[lang="ja"] .nav a{
   html[lang="en"] .section-head h2,
   html[lang="en"] .section > h2{font-size:3.5rem}
 }
+
+
+/* ==========================================================
+   Final Japanese typography normalization
+   Reduce Japanese visual size consistently across the whole site.
+   English typography is left unchanged.
+   ========================================================== */
+
+html[lang="ja"]{
+  font-size:15px;
+}
+
+html[lang="ja"] body{
+  font-size:1rem;
+  line-height:1.75;
+}
+
+/* Hero and principal section headings */
+html[lang="ja"] .hero h1{
+  font-size:clamp(2.45rem,3.7vw,4.15rem);
+  line-height:1.13;
+  letter-spacing:-0.045em;
+}
+
+html[lang="ja"] .section-head h2,
+html[lang="ja"] .section > h2{
+  font-size:clamp(1.9rem,2.6vw,2.65rem);
+  line-height:1.18;
+  letter-spacing:-0.035em;
+}
+
+/* Introductory and explanatory text */
+html[lang="ja"] .hero-lead,
+html[lang="ja"] .section-lead,
+html[lang="ja"] .research-history-note p,
+html[lang="ja"] .project-note,
+html[lang="ja"] .pi-message-inner p{
+  font-size:.93rem;
+  line-height:1.82;
+}
+
+/* Cards and content blocks */
+html[lang="ja"] .card h3,
+html[lang="ja"] .selected-publication-card h3,
+html[lang="ja"] .news-item h3,
+html[lang="ja"] .network-card strong{
+  font-size:1rem;
+  line-height:1.48;
+}
+
+html[lang="ja"] .card p,
+html[lang="ja"] .publication-card p,
+html[lang="ja"] .selected-publication-card p,
+html[lang="ja"] .news-content p,
+html[lang="ja"] .network-card span,
+html[lang="ja"] .alumni-simple-name strong{
+  font-size:.91rem;
+  line-height:1.72;
+}
+
+/* Subsection and disclosure headings */
+html[lang="ja"] .publication-subsection > h3,
+html[lang="ja"] .year-list > h3,
+html[lang="ja"] .books-subsection > h3,
+html[lang="ja"] .publication-period summary,
+html[lang="ja"] .books-disclosure > summary,
+html[lang="ja"] .alumni-disclosure summary,
+html[lang="ja"] .network-group summary{
+  font-size:1rem;
+  line-height:1.4;
+}
+
+/* Metadata and secondary labels */
+html[lang="ja"] .pub-meta,
+html[lang="ja"] .card-meta,
+html[lang="ja"] .member-meta,
+html[lang="ja"] .alumni-simple-name span,
+html[lang="ja"] .network-count,
+html[lang="ja"] .alumni-total,
+html[lang="ja"] .eyebrow,
+html[lang="ja"] .section-kicker{
+  font-size:.78rem;
+}
+
+/* Header */
+html[lang="ja"] .brand-main{
+  font-size:1rem;
+  line-height:1.18;
+}
+
+html[lang="ja"] .brand-sub{
+  font-size:.63rem;
+}
+
+html[lang="ja"] .nav{
+  font-size:.84rem;
+}
+
+/* PI page */
+html[lang="ja"] .pi-title{
+  font-size:clamp(2rem,3vw,3rem);
+}
+
+html[lang="ja"] .timeline{
+  font-size:.91rem;
+}
+
+/* Keep phones readable; do not over-shrink */
+@media(max-width:640px){
+  html[lang="ja"]{
+    font-size:15.5px;
+  }
+
+  html[lang="ja"] .hero h1{
+    font-size:clamp(2.05rem,10vw,2.75rem);
+  }
+
+  html[lang="ja"] .section-head h2,
+  html[lang="ja"] .section > h2{
+    font-size:1.8rem;
+  }
+
+  html[lang="ja"] .brand-main{
+    font-size:.96rem;
+  }
+}
