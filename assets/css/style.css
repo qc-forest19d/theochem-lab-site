@@ -2531,3 +2531,35 @@ html[lang="ja"] .pi-hero .pi-affiliation{
     margin-top:14px;
   }
 }
+
+
+/* ==========================================================
+   PI external profile links
+   Chuo University researcher database placed after Google Scholar.
+   ========================================================== */
+
+.pi-hero .researcher-db-link{
+  white-space:nowrap;
+}
+
+.pi-hero .profile-links,
+.pi-hero .pi-links,
+.pi-hero .social-links{
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:10px;
+}
+
+@media(max-width:640px){
+  .pi-hero .profile-links,
+  .pi-hero .pi-links,
+  .pi-hero .social-links{
+    gap:8px;
+  }
+
+  .pi-hero .profile-link,
+  .pi-hero .researcher-db-link{
+    white-space:normal;
+  }
+}
