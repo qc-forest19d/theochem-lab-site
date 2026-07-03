@@ -95,13 +95,16 @@ function renderPeople() {
   q("#people-grid").innerHTML = people.filter(p => p.group !== "b4").map(p => {
     const displayName = lang === "ja" && p.name_ja ? p.name_ja : p.name;
     const affiliation = p.affiliation?.[lang] || "";
+    const nameMarkup = lang === "ja" && p.name_ja
+      ? `<span class="member-name-ja">${p.name_ja}</span><span class="member-name-en">${p.name}</span>`
+      : `<span class="member-name-en member-name-en-only">${p.name}</span>`;
     return `
       <article class="card people-card">
         <div class="card-media">
           ${p.photo ? `<img src="${p.photo}" alt="${displayName}">` : `<div class="avatar">${initials(p.name)}</div>`}
         </div>
         <div class="card-body">
-          <h3>${p.url ? `<a class="member-name-link" href="${p.url}" target="_blank" rel="noopener noreferrer">${displayName}</a>` : displayName}</h3>
+          <h3 class="member-name">${p.url ? `<a class="member-name-link" href="${p.url}" target="_blank" rel="noopener noreferrer">${nameMarkup}</a>` : nameMarkup}</h3>
           <p class="person-role">${p.role[lang]}</p>
           ${affiliation ? `<p class="person-affiliation">${affiliation}</p>` : ""}
           <p>${p.topic[lang]}</p>
