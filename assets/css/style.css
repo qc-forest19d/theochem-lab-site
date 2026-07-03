@@ -2717,6 +2717,23 @@ html[lang="en"] .brand-sub{
   font-weight:650;
   line-height:1.35;
 }
+.b4-name-ja,
+.b4-name-en{
+  display:block;
+}
+.b4-name-en{
+  margin-top:3px;
+  color:var(--muted);
+  font-size:.82rem;
+  font-weight:500;
+  letter-spacing:.01em;
+}
+.b4-name-en-only{
+  margin-top:0;
+  color:inherit;
+  font-size:inherit;
+  font-weight:650;
+}
 @media(max-width:760px){
   .b4-members-head{
     grid-template-columns:1fr;

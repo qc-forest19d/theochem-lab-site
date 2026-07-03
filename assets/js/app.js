@@ -136,8 +136,10 @@ function renderPeople() {
     b4Grid.innerHTML = people
       .filter(p => p.group === "b4")
       .map(p => {
-        const displayName = lang === "ja" && p.name_ja ? p.name_ja : p.name;
-        return `<div class="b4-name-item">${displayName}</div>`;
+        if (lang === "ja" && p.name_ja) {
+          return `<div class="b4-name-item"><span class="b4-name-ja">${p.name_ja}</span><span class="b4-name-en">${p.name}</span></div>`;
+        }
+        return `<div class="b4-name-item"><span class="b4-name-en b4-name-en-only">${p.name}</span></div>`;
       })
       .join("");
   }
