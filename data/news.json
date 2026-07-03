@@ -195,8 +195,8 @@
     },
     "image": "assets/images/news-advanced-science-qmmm.jpg",
     "body": {
-      "ja": "小澤 二千夏さんの筆頭著者論文がAdvanced Scienceに掲載されました。リガンド誘起電子応答に基づき、QM/MM領域を客観的に設計する予測的手法を提案した研究です。",
-      "en": "A first-author paper by Nichika Ozawa was published in Advanced Science. The study introduces a predictive strategy for defining QM/MM regions from ligand-induced electronic responses."
+      "ja": "小澤 二千夏さんの筆頭著者論文がAdvanced Scienceに掲載されました。リガンド誘起電子応答に基づき、QM/MM領域を物理的根拠に基づいて一貫して設定する方法を提案した研究です。",
+      "en": "A first-author paper by Nichika Ozawa was published in Advanced Science. The study proposes a method for consistently defining QM/MM regions on a physically grounded basis using ligand-induced electronic responses."
     }
   }
 ]

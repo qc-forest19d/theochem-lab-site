@@ -2833,6 +2833,15 @@ html[lang="en"] .brand-sub{
 @media(max-width:620px){.fluctuation-media-grid{grid-template-columns:1fr}.fluctuation-media-card{min-height:0}}
 
 
+
+.research-pillars-title{
+  width:100%;
+  max-width:var(--max);
+  margin:2.2rem auto 1rem;
+  font-size:clamp(1.35rem,2.2vw,1.8rem);
+  line-height:1.35;
+}
+
 /* Research narrative: one scientific question across four pillars */
 .research-common-lens{
   width:100%;
