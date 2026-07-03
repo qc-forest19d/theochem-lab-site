@@ -141,11 +141,30 @@
         <div class="card-grid research-grid" id="research-grid"></div>
 
       </section>
+      <section class="section alt" id="people">
+        <div class="section-head">
+          <div>
+            <p class="section-kicker">PEOPLE</p>
+            <h2 data-en="People" data-ja="メンバー">メンバー</h2>
+          </div>
+        </div>
+        <div class="card-grid people-grid" id="people-grid"></div>
+        <div class="b4-members" id="b4-members">
+          <div class="b4-members-head">
+            <p class="b4-members-kicker">UNDERGRADUATE STUDENTS</p>
+            <h3 data-en="Bachelor's Students (B4)" data-ja="学部4年生（B4）">学部4年生（B4）</h3>
+          </div>
+          <div class="b4-name-grid" id="b4-name-grid"></div>
+        </div>
+      </section>
       <section class="section" id="publications">
         <div class="section-head">
           <div>
             <p class="section-kicker">PUBLICATIONS</p>
             <h2 data-en="Publications" data-ja="研究業績">研究業績</h2>
+            <p class="section-lead"
+               data-en="Selected papers illustrate the laboratory’s four research pillars. Recent papers are shown first; earlier publications are available by year below."
+               data-ja="代表論文では4つの研究軸を象徴する成果を紹介します。最新論文を先に示し、過去の論文は年別に閲覧できます。">代表論文では4つの研究軸を象徴する成果を紹介します。最新論文を先に示し、過去の論文は年別に閲覧できます。</p>
           </div>
           <a
             class="text-link"
@@ -166,25 +185,25 @@
           ></div>
         </div>
         <div class="year-list">
-          <h3 data-en="Published Papers" data-ja="発表論文">発表論文</h3>
+          <h3 data-en="Recent Publications &amp; Archive" data-ja="最新論文・年別アーカイブ">最新論文・年別アーカイブ</h3>
           <div id="publications-by-year">
             <details
               class="publication-period publication-year"
               data-year="2026"
             >
               <summary>
-                <span>2026</span><span class="publication-period-count">6</span>
+                <span>2026</span><span class="publication-period-count" data-en="5 published/accepted + 1 under review" data-ja="発表・採択済み5報＋査読中1報">発表・採択済み5報＋査読中1報</span>
               </summary>
               <div class="publication-period-body">
                 <div class="pub-year-list">
                   <div class="pub-row">
                     <div class="pub-row-head">
-                      <span class="pub-list-pillar pub-pillar-reaction"
-                        ><span class="pub-pillar-number">04</span
+                      <span class="pub-list-pillar pub-pillar-adaptive"
+                        ><span class="pub-pillar-number">02</span
                         ><span
-                          data-en="Autonomous Reaction Exploration"
-                          data-ja="自律型反応探索"
-                          >自律型反応探索</span
+                          data-en="Complex Systems Quantum Chemistry"
+                          data-ja="複雑系量子化学"
+                          >複雑系量子化学</span
                         ></span
                       >
                       <div class="pub-title">
@@ -344,6 +363,9 @@
                     >
                       ハイパーゴリックイオン液体と過酸化水素の自己着火を支配する初期反応経路を、量子化学計算により明らかにした。
                     </p>
+                  </div>
+                  <div class="publication-status-divider">
+                    <span data-en="Preprint / Under review" data-ja="プレプリント・査読中">プレプリント・査読中</span>
                   </div>
                   <div class="pub-row">
                     <div class="pub-row-head">
@@ -2920,52 +2942,44 @@
           </div>
         </details>
       </section>
-      <section class="section alt" id="people">
+      <section class="section" id="news">
         <div class="section-head">
           <div>
-            <p class="section-kicker">PEOPLE</p>
-            <h2 data-en="People" data-ja="メンバー">メンバー</h2>
+            <p class="section-kicker">NEWS</p>
+            <h2 data-en="Latest News" data-ja="最新情報">最新情報</h2>
           </div>
         </div>
-        <div class="card-grid people-grid" id="people-grid"></div>
-        <div class="b4-members" id="b4-members">
-          <div class="b4-members-head">
-            <p class="b4-members-kicker">UNDERGRADUATE STUDENTS</p>
-            <h3 data-en="Bachelor's Students (B4)" data-ja="学部4年生（B4）">学部4年生（B4）</h3>
-          </div>
-          <div class="b4-name-grid" id="b4-name-grid"></div>
-        </div>
-      </section>
-      <section class="section" id="alumni">
-        <div class="section-head">
-          <div>
-            <p class="section-kicker">ALUMNI</p>
-            <h2
-              data-en="Alumni &amp; Former Members"
-              data-ja="卒業生・元メンバー"
-            >
-              卒業生・元メンバー
-            </h2>
-          </div>
-        </div>
-        <details class="alumni-disclosure">
+        <details class="media-coverage-disclosure">
           <summary>
-            <span
-              data-en="Show alumni &amp; former members"
-              data-ja="卒業生・元メンバー一覧を表示"
-              >卒業生・元メンバー一覧を表示</span
-            >
-            <span
-              class="alumni-total"
-              data-en="77 members (4 doctoral, 10 master's, 58 bachelor's, 5 former research staff)"
-              data-ja="77名（博士4名・修士10名・学士58名・元研究スタッフ5名）"
-              >77名（博士4名・修士10名・学士58名・元研究スタッフ5名）</span
-            >
+            <span data-en="Selected Media Coverage" data-ja="主なメディア掲載">主なメディア掲載</span>
+            <small data-en="Newspapers and science-media features" data-ja="新聞・科学メディアでの紹介">新聞・科学メディアでの紹介</small>
           </summary>
-          <div class="alumni-disclosure-body">
-            <div class="alumni-unified-list" id="alumni-unified-list"></div>
+          <div class="media-coverage-body">
+            <div class="fluctuation-media-head">
+              <span class="fluctuation-example-label" data-en="Selected media coverage" data-ja="主なメディア掲載">主なメディア掲載</span>
+              <h4 id="fluctuation-media-title" data-en="Research communicated beyond academic journals" data-ja="研究成果を社会へ伝える">研究成果を社会へ伝える</h4>
+              <p data-en="The laboratory's work on electronic-state fluctuations, functional liquids, and data-driven molecular design has also been introduced through scientific media and major news outlets." data-ja="電子状態ゆらぎ、機能性液体、データ駆動型分子設計に関する研究は、学術論文に加えて科学メディアや主要報道機関でも紹介されています。">電子状態ゆらぎ、機能性液体、データ駆動型分子設計に関する研究は、学術論文に加えて科学メディアや主要報道機関でも紹介されています。</p>
+            </div>
+            <div class="fluctuation-media-grid">
+              <a class="fluctuation-media-card" href="https://www.chem-station.com/blog/2022/11/tmao.html" target="_blank" rel="noopener">
+                <span class="fluctuation-media-source">Chem-Station</span>
+                <strong data-en="Spotlight Research: electronic fluctuations and hydration dynamics of TMAO" data-ja="スポットライトリサーチ：TMAOの電子状態ゆらぎと水和ダイナミクス">スポットライトリサーチ：TMAOの電子状態ゆらぎと水和ダイナミクス</strong>
+                <small>2022.12</small>
+              </a>
+              <a class="fluctuation-media-card" href="https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2022/11/63414/" target="_blank" rel="noopener">
+                <span class="fluctuation-media-source" data-en="Nikkei coverage" data-ja="日本経済新聞">日本経済新聞</span>
+                <strong data-en="TMAO hydration and electronic-fluctuation study featured in Nikkei" data-ja="TMAOの水和構造と電子状態ゆらぎの研究を紹介">TMAOの水和構造と電子状態ゆらぎの研究を紹介</strong>
+                <small>2022.11</small>
+              </a>
+              <a class="fluctuation-media-card" href="https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2023/03/65114/" target="_blank" rel="noopener">
+                <span class="fluctuation-media-source" data-en="Nikkei / The Science News" data-ja="日本経済新聞・科学新聞">日本経済新聞・科学新聞</span>
+                <strong data-en="Theory-guided realization of a high-capacity CO₂-absorbing ionic liquid" data-ja="高いCO₂物理吸収量を持つイオン液体の理論設計と迅速具現化">高いCO₂物理吸収量を持つイオン液体の理論設計と迅速具現化</strong>
+                <small>2023.02–04</small>
+              </a>
+            </div>
           </div>
         </details>
+        <div class="news-list" id="news-list"></div>
       </section>
       <section class="section" id="network">
         <div class="section-head">
@@ -3606,44 +3620,36 @@
           </details>
         </div>
       </section>
-      <section class="section" id="news">
+      <section class="section" id="alumni">
         <div class="section-head">
           <div>
-            <p class="section-kicker">NEWS</p>
-            <h2 data-en="Latest News" data-ja="最新情報">最新情報</h2>
+            <p class="section-kicker">ALUMNI</p>
+            <h2
+              data-en="Alumni &amp; Former Members"
+              data-ja="卒業生・元メンバー"
+            >
+              卒業生・元メンバー
+            </h2>
           </div>
         </div>
-        <details class="media-coverage-disclosure">
+        <details class="alumni-disclosure">
           <summary>
-            <span data-en="Selected Media Coverage" data-ja="主なメディア掲載">主なメディア掲載</span>
-            <small data-en="Newspapers and science-media features" data-ja="新聞・科学メディアでの紹介">新聞・科学メディアでの紹介</small>
+            <span
+              data-en="Show alumni &amp; former members"
+              data-ja="卒業生・元メンバー一覧を表示"
+              >卒業生・元メンバー一覧を表示</span
+            >
+            <span
+              class="alumni-total"
+              data-en="77 members (4 doctoral, 10 master's, 58 bachelor's, 5 former research staff)"
+              data-ja="77名（博士4名・修士10名・学士58名・元研究スタッフ5名）"
+              >77名（博士4名・修士10名・学士58名・元研究スタッフ5名）</span
+            >
           </summary>
-          <div class="media-coverage-body">
-            <div class="fluctuation-media-head">
-              <span class="fluctuation-example-label" data-en="Selected media coverage" data-ja="主なメディア掲載">主なメディア掲載</span>
-              <h4 id="fluctuation-media-title" data-en="Research communicated beyond academic journals" data-ja="研究成果を社会へ伝える">研究成果を社会へ伝える</h4>
-              <p data-en="The laboratory's work on electronic-state fluctuations, functional liquids, and data-driven molecular design has also been introduced through scientific media and major news outlets." data-ja="電子状態ゆらぎ、機能性液体、データ駆動型分子設計に関する研究は、学術論文に加えて科学メディアや主要報道機関でも紹介されています。">電子状態ゆらぎ、機能性液体、データ駆動型分子設計に関する研究は、学術論文に加えて科学メディアや主要報道機関でも紹介されています。</p>
-            </div>
-            <div class="fluctuation-media-grid">
-              <a class="fluctuation-media-card" href="https://www.chem-station.com/blog/2022/11/tmao.html" target="_blank" rel="noopener">
-                <span class="fluctuation-media-source">Chem-Station</span>
-                <strong data-en="Spotlight Research: electronic fluctuations and hydration dynamics of TMAO" data-ja="スポットライトリサーチ：TMAOの電子状態ゆらぎと水和ダイナミクス">スポットライトリサーチ：TMAOの電子状態ゆらぎと水和ダイナミクス</strong>
-                <small>2022.12</small>
-              </a>
-              <a class="fluctuation-media-card" href="https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2022/11/63414/" target="_blank" rel="noopener">
-                <span class="fluctuation-media-source" data-en="Nikkei coverage" data-ja="日本経済新聞">日本経済新聞</span>
-                <strong data-en="TMAO hydration and electronic-fluctuation study featured in Nikkei" data-ja="TMAOの水和構造と電子状態ゆらぎの研究を紹介">TMAOの水和構造と電子状態ゆらぎの研究を紹介</strong>
-                <small>2022.11</small>
-              </a>
-              <a class="fluctuation-media-card" href="https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2023/03/65114/" target="_blank" rel="noopener">
-                <span class="fluctuation-media-source" data-en="Nikkei / The Science News" data-ja="日本経済新聞・科学新聞">日本経済新聞・科学新聞</span>
-                <strong data-en="Theory-guided realization of a high-capacity CO₂-absorbing ionic liquid" data-ja="高いCO₂物理吸収量を持つイオン液体の理論設計と迅速具現化">高いCO₂物理吸収量を持つイオン液体の理論設計と迅速具現化</strong>
-                <small>2023.02–04</small>
-              </a>
-            </div>
+          <div class="alumni-disclosure-body">
+            <div class="alumni-unified-list" id="alumni-unified-list"></div>
           </div>
         </details>
-        <div class="news-list" id="news-list"></div>
       </section>
       <section class="section join-section" id="join">
         <div>
@@ -3655,10 +3661,10 @@
             大学院進学・共同研究を歓迎します
           </h2>
           <p
-            data-en="Please contact us if you are interested in quantum chemistry, molecular simulation, machine learning, materials science, or biomolecular science."
-            data-ja="量子化学、分子シミュレーション、機械学習を通じて、分子・材料・生体分子の研究に挑みたい方からのご連絡を歓迎します。"
+            data-en="We welcome inquiries from undergraduate and graduate students, postdoctoral researchers, and potential collaborators. Prior experience in quantum chemistry or programming is not required; members can build these skills step by step. Please contact us about laboratory visits, graduate study, postdoctoral opportunities, or collaborative research."
+            data-ja="学部生・大学院生・博士研究員・共同研究者からのご連絡を歓迎します。量子化学やプログラミングの経験が十分でなくても、基礎から段階的に学べます。分子・材料・生体分子を対象に、理論とデータから新しい化学を切り拓きたい方は、研究室見学や共同研究についてお問い合わせください。"
           >
-            量子化学、分子シミュレーション、機械学習を通じて、分子・材料・生体分子の研究に挑みたい方からのご連絡を歓迎します。
+            学部生・大学院生・博士研究員・共同研究者からのご連絡を歓迎します。量子化学やプログラミングの経験が十分でなくても、基礎から段階的に学べます。分子・材料・生体分子を対象に、理論とデータから新しい化学を切り拓きたい方は、研究室見学や共同研究についてお問い合わせください。
           </p>
         </div>
         <a

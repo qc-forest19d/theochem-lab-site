@@ -2960,3 +2960,22 @@ html[lang="en"] .brand-sub{
 @media(max-width:700px){
   .selected-publication-card > img{height:180px;}
 }
+
+/* Publication information hierarchy */
+.publication-status-divider{
+  margin:1.15rem 0 .5rem;
+  padding-top:1rem;
+  border-top:1px solid rgba(37,99,235,.18);
+  font-size:.78rem;
+  font-weight:800;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:#6b7280;
+}
+.publication-period-count{
+  text-align:right;
+  line-height:1.25;
+}
+@media (max-width:720px){
+  .publication-period-count{max-width:13rem;font-size:.78rem;}
+}
