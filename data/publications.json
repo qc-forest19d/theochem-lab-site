@@ -1,6 +1,36 @@
 [
   {
     "year": 2026,
+    "date": "2026-06-25",
+    "type": "peer-reviewed",
+    "authors": "J. Wang, J. H. Marks, C. Zhang, A. M. Turner, M. McAnally, M. Nogamida, and R. I. Kaiser",
+    "title": "Non-Equilibrium Formation of the Elusive Dibridged Diboranyl (B₂H₅) Radical and Boranes in Low-Temperature Diborane Ices",
+    "journal": "Chemical Science",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "doi": "10.1039/D6SC04215E",
+    "url": "https://doi.org/10.1039/D6SC04215E",
+    "category": "Molecular Structure and Reactivity",
+    "selected": false,
+    "badges": [
+      "Open Access",
+      "International Collaboration"
+    ],
+    "image": "assets/images/news-chemical-science-diboranyl.svg",
+    "summary": {
+      "ja": "低温ジボラン氷中で二架橋型ジボラニル（B₂H₅）ラジカルを実験的に同定し、その帰属を量子化学計算による構造・振動スペクトルの知見が支えた国際共同研究。",
+      "en": "An international collaboration experimentally identified the dibridged diboranyl (B₂H₅) radical in low-temperature diborane ice, with the assignment supported by quantum-chemical insights into molecular structures and vibrational spectra."
+    },
+    "pillar": {
+      "id": "reaction",
+      "number": "04",
+      "ja": "自律型反応探索",
+      "en": "Autonomous Reaction Exploration"
+    }
+  },
+  {
+    "year": 2026,
     "type": "peer-reviewed",
     "authors": "T. Sumiyoshi, N. Kuroki, and H. Mori",
     "title": "Electronic-Structure Informatics Guided Identification of Actinide/Lanthanide Selectivity Factors",
