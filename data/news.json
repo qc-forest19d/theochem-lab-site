@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-06-25",
+    "category": {
+      "ja": "論文・国際共同研究",
+      "en": "Publication / International Collaboration"
+    },
+    "title": {
+      "ja": "野上田光織さんの国際共同研究成果が Chemical Science 誌に掲載されました",
+      "en": "Miori Nogamida co-authors a Chemical Science paper from an international collaboration"
+    },
+    "url": "news/2026-06-25-chemical-science-diboranyl-radical.html",
+    "link_label": {
+      "ja": "研究紹介を読む",
+      "en": "Read the research highlight"
+    },
+    "secondary_url": "https://doi.org/10.1039/D6SC04215E",
+    "secondary_link_label": {
+      "ja": "Chemical Science 論文",
+      "en": "Chemical Science article"
+    },
+    "image": "assets/images/news-chemical-science-diboranyl.svg",
+    "body": {
+      "ja": "博士課程2年の野上田光織さんが、ハワイ大学マノア校での海外研修を通じて参加した国際共同研究の成果です。低温ジボラン氷中で、長年未解明であった二架橋型ジボラニル（B₂H₅）ラジカルを実験と量子化学計算の協働により同定しました。",
+      "en": "This international collaboration grew from Miori Nogamida’s overseas research stay at the University of Hawaiʻi at Mānoa. Experiment and quantum chemistry jointly identified the long-elusive dibridged diboranyl (B₂H₅) radical in low-temperature diborane ice."
+    }
+  },
+  {
     "date": "2026-06-17",
     "category": {
       "ja": "受賞",

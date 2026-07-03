@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="t d">
+<title id="t">Dibridged diboranyl radical in low-temperature diborane ice</title>
+<desc id="d">Original schematic illustration of electron irradiation generating diboranyl radicals and larger boranes in a cryogenic diborane ice.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071a33"/><stop offset="1" stop-color="#143d67"/></linearGradient>
+  <radialGradient id="ice"><stop stop-color="#e9fbff" stop-opacity=".9"/><stop offset="1" stop-color="#7cccf2" stop-opacity=".15"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="945" cy="95" r="230" fill="#35a8e0" opacity=".08"/>
+<circle cx="200" cy="565" r="300" fill="#8ce5ff" opacity=".06"/>
+<text x="70" y="90" fill="#8edfff" font-size="25" font-family="Arial,sans-serif" letter-spacing="5">CHEMICAL SCIENCE · 2026</text>
+<text x="70" y="150" fill="white" font-size="43" font-weight="700" font-family="Arial,sans-serif">The elusive dibridged diboranyl radical</text>
+<text x="70" y="197" fill="#d7efff" font-size="28" font-family="Arial,sans-serif">captured through non-equilibrium chemistry at 40 K</text>
+<g transform="translate(125 310)">
+ <ellipse cx="170" cy="100" rx="190" ry="105" fill="url(#ice)" stroke="#82ddff" stroke-width="3"/>
+ <text x="70" y="230" fill="#bfeaff" font-size="23" font-family="Arial,sans-serif">diborane ice</text>
+ <g stroke="#d9f7ff" stroke-width="12" stroke-linecap="round">
+  <line x1="85" y1="105" x2="165" y2="105"/><line x1="165" y1="105" x2="245" y2="105"/>
+ </g>
+ <g fill="#ffca58" stroke="#fff1bb" stroke-width="3"><circle cx="125" cy="75" r="20"/><circle cx="205" cy="75" r="20"/></g>
+ <g fill="#f5fbff"><circle cx="65" cy="105" r="11"/><circle cx="265" cy="105" r="11"/><circle cx="125" cy="132" r="11"/><circle cx="205" cy="132" r="11"/></g>
+</g>
+<g transform="translate(480 290)">
+ <path d="M0 80 C90 20 120 20 205 80" fill="none" stroke="#76e1ff" stroke-width="5" stroke-dasharray="12 10"/>
+ <polygon points="205,80 175,63 181,94" fill="#76e1ff"/>
+ <text x="30" y="32" fill="#d9f7ff" font-size="23" font-family="Arial,sans-serif">electron irradiation</text>
+</g>
+<g transform="translate(720 270)" filter="url(#glow)">
+ <g stroke="#e8fbff" stroke-width="11" stroke-linecap="round"><line x1="75" y1="110" x2="185" y2="110"/><path d="M90 91 Q130 35 170 91" fill="none"/><path d="M90 129 Q130 185 170 129" fill="none"/></g>
+ <g fill="#ffca58" stroke="#fff1bb" stroke-width="3"><circle cx="75" cy="110" r="25"/><circle cx="185" cy="110" r="25"/></g>
+ <g fill="#f6fcff"><circle cx="44" cy="110" r="12"/><circle cx="216" cy="110" r="12"/><circle cx="130" cy="70" r="12"/><circle cx="130" cy="150" r="12"/></g>
+ <circle cx="218" cy="64" r="8" fill="#ff5c91"/><path d="M226 59 l18 -13" stroke="#ff5c91" stroke-width="4"/>
+ <text x="6" y="225" fill="white" font-size="27" font-weight="700" font-family="Arial,sans-serif">dibridged B₂H₅ radical</text>
+</g>
+<text x="70" y="585" fill="#d5eafe" font-size="22" font-family="Arial,sans-serif">Experiment × quantum chemistry reveal reactive intermediates and pathways to complex boranes</text>
+</svg>
