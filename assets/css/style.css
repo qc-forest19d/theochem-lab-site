@@ -2908,3 +2908,30 @@ html[lang="en"] .brand-sub{
   .research-causal-chain b{display:none}
   .research-causal-chain span{width:100%;text-align:center}
 }
+
+
+/* Flow fix: keep the research narrative continuous; media coverage lives with News */
+.media-coverage-disclosure{
+  margin:0 0 28px;
+  border:1px solid rgba(37,99,235,.14);
+  border-radius:18px;
+  background:#f8fafc;
+  overflow:hidden;
+}
+.media-coverage-disclosure>summary{
+  list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:18px;
+  padding:18px 20px;font-weight:800;color:#0f172a;
+}
+.media-coverage-disclosure>summary::-webkit-details-marker{display:none}
+.media-coverage-disclosure>summary:after{content:'＋';font-size:1.2rem;color:#2563eb}
+.media-coverage-disclosure[open]>summary:after{content:'−'}
+.media-coverage-disclosure>summary small{font-weight:500;color:#64748b}
+.media-coverage-body{padding:0 20px 20px}
+.media-coverage-body .fluctuation-media{margin:0;padding:0;border:0}
+.media-coverage-body .fluctuation-media-head{display:none}
+.media-coverage-body .fluctuation-media-grid{margin-top:0}
+#research .fluctuation-feature{margin-top:34px}
+@media(max-width:620px){
+  .media-coverage-disclosure>summary{align-items:flex-start;flex-direction:column;gap:4px;padding-right:52px;position:relative}
+  .media-coverage-disclosure>summary:after{position:absolute;right:18px;top:18px}
+}

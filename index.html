@@ -19,7 +19,7 @@
       name="description"
     />
     <title>Theoretical Chemistry Lab. | Chuo University</title>
-    <link href="assets/css/style.css?v=20260703-research-axis" rel="stylesheet" />
+    <link href="assets/css/style.css?v=20260703-flow-fix" rel="stylesheet" />
   </head>
   <body>
     <header class="site-header">
@@ -150,6 +150,7 @@
           <p data-en="The present framework grew from electronic-structure calculations and simulations of molecules, solutions, and materials initiated around 2008. Integration with data science accelerated after a JST PRESTO project in the Materials Informatics area, leading to the current four-pillar structure."
              data-ja="現在の研究体系は、2008年頃から進めてきた電子状態計算と、分子・溶液・材料のシミュレーションを基盤としています。JSTさきがけ（マテリアルズ・インフォマティクス領域）を契機に量子化学とデータ科学の融合を加速し、現在の4つの研究軸へ発展しました。">現在の研究体系は、2008年頃から進めてきた電子状態計算と、分子・溶液・材料のシミュレーションを基盤としています。JSTさきがけ（マテリアルズ・インフォマティクス領域）を契機に量子化学とデータ科学の融合を加速し、現在の4つの研究軸へ発展しました。</p>
         </details>
+        <div class="card-grid research-grid" id="research-grid"></div>
         <article class="fluctuation-feature" aria-labelledby="fluctuation-title">
           <div class="fluctuation-feature-main">
             <p class="fluctuation-eyebrow" data-en="FEATURED RESEARCH STORY" data-ja="研究ストーリー">研究ストーリー</p>
@@ -177,37 +178,7 @@
               TMAOとtert-ブチルアルコールの水溶液をナノ秒スケールのEFP-MDで比較し、わずかな構造差が水和構造と分子間相互作用ネットワークをどのように変えるかを解析しました。
             </p>
           </aside>
-          <section class="fluctuation-media" aria-labelledby="fluctuation-media-title">
-            <div class="fluctuation-media-head">
-              <span class="fluctuation-example-label" data-en="Selected media coverage" data-ja="主なメディア掲載">主なメディア掲載</span>
-              <h4 id="fluctuation-media-title" data-en="Research communicated beyond academic journals" data-ja="研究成果を社会へ伝える">研究成果を社会へ伝える</h4>
-              <p data-en="The laboratory's work on electronic-state fluctuations, functional liquids, and data-driven molecular design has also been introduced through scientific media and major news outlets." data-ja="電子状態ゆらぎ、機能性液体、データ駆動型分子設計に関する研究は、学術論文に加えて科学メディアや主要報道機関でも紹介されています。">電子状態ゆらぎ、機能性液体、データ駆動型分子設計に関する研究は、学術論文に加えて科学メディアや主要報道機関でも紹介されています。</p>
-            </div>
-            <div class="fluctuation-media-grid">
-              <a class="fluctuation-media-card" href="https://www.chem-station.com/blog/2022/11/tmao.html" target="_blank" rel="noopener">
-                <span class="fluctuation-media-source">Chem-Station</span>
-                <strong data-en="Spotlight Research: electronic fluctuations and hydration dynamics of TMAO" data-ja="スポットライトリサーチ：TMAOの電子状態ゆらぎと水和ダイナミクス">スポットライトリサーチ：TMAOの電子状態ゆらぎと水和ダイナミクス</strong>
-                <small>2022.12</small>
-              </a>
-              <a class="fluctuation-media-card" href="https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2022/11/63414/" target="_blank" rel="noopener">
-                <span class="fluctuation-media-source" data-en="Nikkei coverage" data-ja="日本経済新聞">日本経済新聞</span>
-                <strong data-en="TMAO hydration and electronic-fluctuation study featured in Nikkei" data-ja="TMAOの水和構造と電子状態ゆらぎの研究を紹介">TMAOの水和構造と電子状態ゆらぎの研究を紹介</strong>
-                <small>2022.11</small>
-              </a>
-              <a class="fluctuation-media-card" href="https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2023/03/65114/" target="_blank" rel="noopener">
-                <span class="fluctuation-media-source" data-en="Nikkei / The Science News" data-ja="日本経済新聞・科学新聞">日本経済新聞・科学新聞</span>
-                <strong data-en="Theory-guided realization of a high-capacity CO₂-absorbing ionic liquid" data-ja="高いCO₂物理吸収量を持つイオン液体の理論設計と迅速具現化">高いCO₂物理吸収量を持つイオン液体の理論設計と迅速具現化</strong>
-                <small>2023.02–04</small>
-              </a>
-              <a class="fluctuation-media-card" href="https://www.jst.go.jp/report/2017/180125.html" target="_blank" rel="noopener">
-                <span class="fluctuation-media-source">JST / JSTnews</span>
-                <strong data-en="ACT-I research integrating physical chemistry and information science" data-ja="物理化学と情報科学を融合したACT-I研究の紹介">物理化学と情報科学を融合したACT-I研究の紹介</strong>
-                <small>2017–2018</small>
-              </a>
-            </div>
-          </section>
         </article>
-        <div class="card-grid research-grid" id="research-grid"></div>
       </section>
       <section class="section" id="publications">
         <div class="section-head">
@@ -3681,6 +3652,41 @@
             <h2 data-en="Latest News" data-ja="最新情報">最新情報</h2>
           </div>
         </div>
+        <details class="media-coverage-disclosure">
+          <summary>
+            <span data-en="Selected Media Coverage" data-ja="主なメディア掲載">主なメディア掲載</span>
+            <small data-en="Newspapers, science media, and JST features" data-ja="新聞・科学メディア・JSTでの紹介">新聞・科学メディア・JSTでの紹介</small>
+          </summary>
+          <div class="media-coverage-body">
+            <div class="fluctuation-media-head">
+              <span class="fluctuation-example-label" data-en="Selected media coverage" data-ja="主なメディア掲載">主なメディア掲載</span>
+              <h4 id="fluctuation-media-title" data-en="Research communicated beyond academic journals" data-ja="研究成果を社会へ伝える">研究成果を社会へ伝える</h4>
+              <p data-en="The laboratory's work on electronic-state fluctuations, functional liquids, and data-driven molecular design has also been introduced through scientific media and major news outlets." data-ja="電子状態ゆらぎ、機能性液体、データ駆動型分子設計に関する研究は、学術論文に加えて科学メディアや主要報道機関でも紹介されています。">電子状態ゆらぎ、機能性液体、データ駆動型分子設計に関する研究は、学術論文に加えて科学メディアや主要報道機関でも紹介されています。</p>
+            </div>
+            <div class="fluctuation-media-grid">
+              <a class="fluctuation-media-card" href="https://www.chem-station.com/blog/2022/11/tmao.html" target="_blank" rel="noopener">
+                <span class="fluctuation-media-source">Chem-Station</span>
+                <strong data-en="Spotlight Research: electronic fluctuations and hydration dynamics of TMAO" data-ja="スポットライトリサーチ：TMAOの電子状態ゆらぎと水和ダイナミクス">スポットライトリサーチ：TMAOの電子状態ゆらぎと水和ダイナミクス</strong>
+                <small>2022.12</small>
+              </a>
+              <a class="fluctuation-media-card" href="https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2022/11/63414/" target="_blank" rel="noopener">
+                <span class="fluctuation-media-source" data-en="Nikkei coverage" data-ja="日本経済新聞">日本経済新聞</span>
+                <strong data-en="TMAO hydration and electronic-fluctuation study featured in Nikkei" data-ja="TMAOの水和構造と電子状態ゆらぎの研究を紹介">TMAOの水和構造と電子状態ゆらぎの研究を紹介</strong>
+                <small>2022.11</small>
+              </a>
+              <a class="fluctuation-media-card" href="https://www.chuo-u.ac.jp/academics/faculties/fundamental/departments/chemistry/news/2023/03/65114/" target="_blank" rel="noopener">
+                <span class="fluctuation-media-source" data-en="Nikkei / The Science News" data-ja="日本経済新聞・科学新聞">日本経済新聞・科学新聞</span>
+                <strong data-en="Theory-guided realization of a high-capacity CO₂-absorbing ionic liquid" data-ja="高いCO₂物理吸収量を持つイオン液体の理論設計と迅速具現化">高いCO₂物理吸収量を持つイオン液体の理論設計と迅速具現化</strong>
+                <small>2023.02–04</small>
+              </a>
+              <a class="fluctuation-media-card" href="https://www.jst.go.jp/report/2017/180125.html" target="_blank" rel="noopener">
+                <span class="fluctuation-media-source">JST / JSTnews</span>
+                <strong data-en="ACT-I research integrating physical chemistry and information science" data-ja="物理化学と情報科学を融合したACT-I研究の紹介">物理化学と情報科学を融合したACT-I研究の紹介</strong>
+                <small>2017–2018</small>
+              </a>
+            </div>
+          </div>
+        </details>
         <div class="news-list" id="news-list"></div>
       </section>
       <section class="section join-section" id="join">
