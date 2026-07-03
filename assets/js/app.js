@@ -52,6 +52,7 @@ function renderPublications() {
           ${p.summary?.[lang] ? `<p class="selected-pub-summary">${p.summary[lang]}</p>` : ""}
           <div class="selected-pub-links">
             ${p.url ? `<a href="${p.url}" target="_blank" rel="noopener">DOI ↗</a>` : ""}
+            ${(p.related_links || []).map(link => `<a href="${link.url}" target="_blank" rel="noopener">${link[lang]} ↗</a>`).join("")}
           </div>
         </div>
       </article>

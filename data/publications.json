@@ -542,21 +542,28 @@
     "doi": "10.1038/s41598-022-24049-0",
     "url": "https://doi.org/10.1038/s41598-022-24049-0",
     "category": "Complex Systems Quantum Chemistry",
-    "selected": false,
+    "selected": true,
     "badges": [
       "Open Access"
     ],
     "image": "assets/images/pub-qmmm.svg",
     "summary": {
-      "ja": "TMAOおよびtert-ブチルアルコール水溶液を対象に、溶液構造に伴って揺らぐ溶質・溶媒の電子状態を解析した。",
-      "en": "Electronic fluctuations in physiological solutions containing TMAO and tert-butyl alcohol."
+      "ja": "TMAOとtert-ブチルアルコールの水溶液をナノ秒スケールのEFP-MDで比較し、溶液構造の変化に伴う溶質・溶媒の電子状態ゆらぎと水和ネットワークの違いを明らかにした。",
+      "en": "Nanosecond-scale EFP-MD simulations compared aqueous TMAO and tert-butyl alcohol, revealing electronic fluctuations and distinct hydration networks accompanying changes in solution structure."
     },
     "pillar": {
       "id": "adaptive",
       "number": "02",
       "ja": "複雑系量子化学",
       "en": "Complex Systems Quantum Chemistry"
-    }
+    },
+    "related_links": [
+      {
+        "url": "https://www.chem-station.com/blog/2022/11/tmao.html",
+        "ja": "Chem-Station 紹介記事",
+        "en": "Chem-Station feature"
+      }
+    ]
   },
   {
     "year": 2022,
@@ -596,14 +603,14 @@
     "doi": "10.1038/s41524-022-00860-1",
     "url": "https://doi.org/10.1038/s41524-022-00860-1",
     "category": "Electronic-State Informatics",
-    "selected": false,
+    "selected": true,
     "badges": [
       "Open Access"
     ],
     "image": "assets/images/pub-informatics.svg",
     "summary": {
-      "ja": "機械学習と量子化学計算を組み合わせ、シバラクロット誘導体におけるシングレットフィッション材料の設計原理を探索した。",
-      "en": "Machine-learning-assisted discovery of design principles for singlet-fission materials."
+      "ja": "量子化学計算と機械学習を組み合わせ、シバラクロット誘導体を対象にシングレットフィッション材料の設計原理を抽出した、電子状態インフォマティクスの代表的研究。",
+      "en": "A representative electronic-state informatics study combining quantum chemistry and machine learning to extract design principles for singlet-fission materials based on cibalackrot derivatives."
     },
     "pillar": {
       "id": "intelligence",
