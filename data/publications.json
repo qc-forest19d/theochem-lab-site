@@ -75,8 +75,8 @@
     ],
     "image": "assets/images/selected-qmmm-2026.png",
     "summary": {
-      "ja": "配位子が周囲の電子状態に及ぼす応答を指標として、QM/MM計算の量子領域を客観的かつ予測的に決定する方法を提案した。",
-      "en": "A ligand-induced electronic-response framework for predictive definition of QM regions in QM/MM simulations."
+      "ja": "配位子が周囲の電子状態に及ぼす応答を指標として、QM/MM計算の量子領域を物理的根拠に基づき、一貫して決定する方法を提案した。",
+      "en": "A ligand-induced electronic-response framework for defining QM regions in QM/MM simulations on a consistent physical basis."
     },
     "pillar": {
       "id": "adaptive",
@@ -154,12 +154,11 @@
     "category": "Beyond Born-Oppenheimer Theory",
     "selected": false,
     "badges": [
-      "Under Review",
-      "Corresponding Author"
+      "Under Review"
     ],
     "summary": {
       "ja": "同位体置換が分子構造と軌道相互作用を変化させる機構を、核量子効果を含む電子状態計算から解析した。",
-      "en": "Analysis of isotopic modulation of stereoelectronic interactions from nuclear-quantum and electronic-structure perspectives (submitted May 18, 2026; under review)."
+      "en": "Analysis of isotopic modulation of stereoelectronic interactions from nuclear-quantum and electronic-structure perspectives."
     },
     "pillar": {
       "id": "beyond-bo",
