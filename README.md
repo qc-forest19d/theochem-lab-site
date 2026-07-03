@@ -295,3 +295,7 @@ selected-publication cards and their TOC/graphical-abstract images.
 
 ## Hero background video
 The top-page hero uses “A Molecular Dynamics Simulation of Liquid Water at 298 K” by Christopher Rowley, licensed under CC BY-SA 4.0. The video is loaded from Wikimedia Commons. Source: https://commons.wikimedia.org/wiki/File:A_Molecular_Dynamics_Simulation_of_Liquid_Water_at_298_K.webm
+
+
+## 2026-07-03 one-page integration
+PI content was integrated into `index.html#pi`. `pi.html` remains only as a redirect for legacy links. The student/industry/collaboration message was merged into the main Join Us section.

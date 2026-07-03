@@ -2988,3 +2988,10 @@ html[lang="en"] .brand-sub{
 @media (max-width:720px){
   .publication-period-count{max-width:13rem;font-size:.78rem;}
 }
+
+/* Integrated PI section on the one-page site */
+#pi{scroll-margin-top:86px}
+.pi-integrated{background:#fff}
+.pi-integrated .pi-hero{margin:0}
+.pi-integrated .pi-message-section:nth-of-type(even){background:var(--soft)}
+@media(max-width:700px){#pi{scroll-margin-top:72px}}
