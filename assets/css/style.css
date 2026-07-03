@@ -2835,7 +2835,9 @@ html[lang="en"] .brand-sub{
 
 /* Research narrative: one scientific question across four pillars */
 .research-common-lens{
-  margin:1.25rem 0 1rem;
+  width:100%;
+  max-width:var(--max);
+  margin:1.25rem auto 1rem;
   padding:clamp(1.35rem,3vw,2.2rem);
   border-left:5px solid #2563eb;
   border-radius:0 22px 22px 0;
