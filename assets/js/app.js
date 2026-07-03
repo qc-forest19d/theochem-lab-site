@@ -40,7 +40,7 @@ function renderPublications() {
   if (selectedGrid) {
     selectedGrid.innerHTML = selected.map(p => `
       <article class="selected-publication-card">
-        ${p.image ? `<img src="${p.image}" alt="">` : ""}
+        ${p.image ? `<img src="${p.image}" alt="${p.image_alt?.[lang] || ""}">` : ""}
         <div class="selected-publication-body">
           ${p.pillar ? `<span class="pub-pillar pub-pillar-${p.pillar.id}">
             <span class="pub-pillar-number">${p.pillar.number}</span>

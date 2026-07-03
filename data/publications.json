@@ -546,7 +546,7 @@
     "badges": [
       "Open Access"
     ],
-    "image": "assets/images/pub-qmmm.svg",
+    "image": "assets/images/selected-electronic-fluctuation-2022.webp",
     "summary": {
       "ja": "TMAOとtert-ブチルアルコールの水溶液をナノ秒スケールのEFP-MDで比較し、溶液構造の変化に伴う溶質・溶媒の電子状態ゆらぎと水和ネットワークの違いを明らかにした。",
       "en": "Nanosecond-scale EFP-MD simulations compared aqueous TMAO and tert-butyl alcohol, revealing electronic fluctuations and distinct hydration networks accompanying changes in solution structure."
@@ -563,7 +563,11 @@
         "ja": "Chem-Station 紹介記事",
         "en": "Chem-Station feature"
       }
-    ]
+    ],
+    "image_alt": {
+      "ja": "TMAOおよびtert-ブチルアルコール水溶液における双極子モーメントの時間変化と水和構造",
+      "en": "Time evolution of dipole moments and hydration structures in aqueous TMAO and tert-butyl alcohol"
+    }
   },
   {
     "year": 2022,
@@ -607,7 +611,7 @@
     "badges": [
       "Open Access"
     ],
-    "image": "assets/images/pub-informatics.svg",
+    "image": "assets/images/selected-cibalackrot-2022.webp",
     "summary": {
       "ja": "量子化学計算と機械学習を組み合わせ、シバラクロット誘導体を対象にシングレットフィッション材料の設計原理を抽出した、電子状態インフォマティクスの代表的研究。",
       "en": "A representative electronic-state informatics study combining quantum chemistry and machine learning to extract design principles for singlet-fission materials based on cibalackrot derivatives."
@@ -617,6 +621,10 @@
       "number": "01",
       "ja": "電子状態インフォマティクス",
       "en": "Electronic-State Informatics"
+    },
+    "image_alt": {
+      "ja": "シバラクロット誘導体の置換基共起関係とランダムフォレスト重要度の可視化",
+      "en": "Visualization of substituent co-occurrence and random-forest feature importances for cibalackrot derivatives"
     }
   },
   {

@@ -2935,3 +2935,26 @@ html[lang="en"] .brand-sub{
   .media-coverage-disclosure>summary{align-items:flex-start;flex-direction:column;gap:4px;padding-right:52px;position:relative}
   .media-coverage-disclosure>summary:after{position:absolute;right:18px;top:18px}
 }
+
+/* Selected publication cards: consistent treatment for paper figures */
+.selected-publication-card{
+  overflow:hidden;
+  border:1px solid var(--line);
+  border-radius:18px;
+  background:var(--paper);
+  box-shadow:0 10px 28px rgba(15,23,42,.06);
+}
+.selected-publication-card > img{
+  display:block;
+  width:100%;
+  height:210px;
+  object-fit:contain;
+  object-position:center;
+  padding:10px;
+  background:#fff;
+  border-bottom:1px solid var(--line);
+}
+.selected-publication-body{padding:20px;}
+@media(max-width:700px){
+  .selected-publication-card > img{height:180px;}
+}
