@@ -6,8 +6,8 @@
       "en": "Electronic-State Informatics"
     },
     "description": {
-      "ja": "量子化学から得られる電子状態記述子と実験データを機械学習で結び、分子・材料の機能を予測するとともに、新たな設計指針を導きます。",
-      "en": "We integrate quantum-chemical descriptors, machine learning, transfer learning, and uncertainty-aware prediction to connect electronic states with molecular and materials functions."
+      "ja": "分子構造や環境変化に対する電子状態応答を記述子として捉え、量子化学・実験データ・機械学習を結びつけて、分子・材料機能の予測と設計へ展開します。",
+      "en": "We encode electronic responses to molecular structure and environment as descriptors, integrating quantum chemistry, experiments, and machine learning for functional prediction and design."
     },
     "image": "assets/images/research-electronic-state.jpg",
     "link": "#publications"
@@ -19,8 +19,8 @@
       "en": "Complex Systems Quantum Chemistry"
     },
     "description": {
-      "ja": "複雑な分子環境の電子応答に応じて、量子力学的に扱う領域、系の分割、計算精度を適応的に選択するシミュレーション手法を開発します。",
-      "en": "We develop simulations that adapt quantum regions, fragmentation, and resolution to the electronic response of complex molecular environments."
+      "ja": "溶液、生体分子、分子集合体における電子状態と分子間相互作用の応答・ゆらぎを解析し、その情報に基づいて量子領域、系の分割、計算精度を適応的に選択する手法を開発します。",
+      "en": "We analyze responses and fluctuations of electronic states and intermolecular interactions in solutions, biomolecules, and molecular assemblies, and use them to adapt quantum regions, fragmentation, and resolution."
     },
     "image": "assets/images/research-adaptive-quantum.jpg",
     "link": "#publications"
@@ -32,8 +32,8 @@
       "en": "Beyond Born-Oppenheimer Theory"
     },
     "description": {
-      "ja": "電子と原子核の量子性を一体として扱い、プロトン移動、同位体効果、立体化学、化学結合を支配する原理を明らかにします。",
-      "en": "We treat electrons and nuclei quantum mechanically to uncover new principles governing proton transfer, isotope effects, stereochemistry, and chemical bonding."
+      "ja": "原子核の量子的な広がりとゆらぎを電子状態と一体として扱い、プロトン移動、同位体効果、立体化学、化学結合を支配する原理を明らかにします。",
+      "en": "We treat nuclear quantum delocalization and fluctuations together with electronic structure to uncover principles governing proton transfer, isotope effects, stereochemistry, and chemical bonding."
     },
     "image": "assets/images/research-beyond-bo.jpg",
     "link": "#publications"
@@ -45,8 +45,8 @@
       "en": "Autonomous Reaction Exploration"
     },
     "description": {
-      "ja": "量子化学、自動反応経路探索、反応速度論、機械学習を統合し、未知の素反応を探索して複雑な反応ネットワークの全体像を解き明かします。",
-      "en": "We integrate quantum chemistry, automated reaction-path exploration, chemical kinetics, and machine learning to discover hidden elementary reactions and complex reaction networks."
+      "ja": "量子化学、自動反応経路探索、反応速度論、機械学習を統合し、多数の反応経路と中間体がつくる反応ネットワークの生成・分岐・選択性を明らかにします。",
+      "en": "We integrate quantum chemistry, automated reaction-path exploration, kinetics, and machine learning to reveal how reaction networks form, branch, and select products."
     },
     "image": "assets/images/research-autonomous-reaction.jpg",
     "link": "#publications"
