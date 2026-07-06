@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qc-forest19d.github.io/theochem-lab-site/sitemap.xml
